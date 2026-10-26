@@ -1,0 +1,141 @@
+district,route,road,traffic_score,traffic_status,estimated_delay
+Ariyalur,Route A,Main Road,25.4,LOW,9.0
+Ariyalur,Route B,Highway,41.8,MEDIUM,12.5
+Ariyalur,Route C,Alternative Road,57.2,MEDIUM,16.2
+Ariyalur,Route D,Bypass Road,72.5,HIGH,21.8
+Chengalpattu,Route A,Main Road,25.4,LOW,9.0
+Chengalpattu,Route B,Highway,41.8,MEDIUM,12.5
+Chengalpattu,Route C,Alternative Road,57.2,MEDIUM,16.2
+Chengalpattu,Route D,Bypass Road,72.5,HIGH,21.8
+Chennai,Route A,Main Road,25.4,LOW,9.0
+Chennai,Route B,Highway,41.8,MEDIUM,12.5
+Chennai,Route C,Alternative Road,57.2,MEDIUM,16.2
+Chennai,Route D,Bypass Road,72.5,HIGH,21.8
+Coimbatore,Route A,Main Road,25.4,LOW,9.0
+Coimbatore,Route B,Highway,41.8,MEDIUM,12.5
+Coimbatore,Route C,Alternative Road,57.2,MEDIUM,16.2
+Coimbatore,Route D,Bypass Road,72.5,HIGH,21.8
+Cuddalore,Route A,Main Road,25.4,LOW,9.0
+Cuddalore,Route B,Highway,41.8,MEDIUM,12.5
+Cuddalore,Route C,Alternative Road,57.2,MEDIUM,16.2
+Cuddalore,Route D,Bypass Road,72.5,HIGH,21.8
+Dharmapuri,Route A,Main Road,25.4,LOW,9.0
+Dharmapuri,Route B,Highway,41.8,MEDIUM,12.5
+Dharmapuri,Route C,Alternative Road,57.2,MEDIUM,16.2
+Dharmapuri,Route D,Bypass Road,72.5,HIGH,21.8
+Dindigul,Route A,Main Road,25.4,LOW,9.0
+Dindigul,Route B,Highway,41.8,MEDIUM,12.5
+Dindigul,Route C,Alternative Road,57.2,MEDIUM,16.2
+Dindigul,Route D,Bypass Road,72.5,HIGH,21.8
+Erode,Route A,Main Road,25.4,LOW,9.0
+Erode,Route B,Highway,41.8,MEDIUM,12.5
+Erode,Route C,Alternative Road,57.2,MEDIUM,16.2
+Erode,Route D,Bypass Road,72.5,HIGH,21.8
+Kallakurichi,Route A,Main Road,25.4,LOW,9.0
+Kallakurichi,Route B,Highway,41.8,MEDIUM,12.5
+Kallakurichi,Route C,Alternative Road,57.2,MEDIUM,16.2
+Kallakurichi,Route D,Bypass Road,72.5,HIGH,21.8
+Kancheepuram,Route A,Main Road,25.4,LOW,9.0
+Kancheepuram,Route B,Highway,41.8,MEDIUM,12.5
+Kancheepuram,Route C,Alternative Road,57.2,MEDIUM,16.2
+Kancheepuram,Route D,Bypass Road,72.5,HIGH,21.8
+Karur,Route A,Main Road,25.4,LOW,9.0
+Karur,Route B,Highway,41.8,MEDIUM,12.5
+Karur,Route C,Alternative Road,57.2,MEDIUM,16.2
+Karur,Route D,Bypass Road,72.5,HIGH,21.8
+Krishnagiri,Route A,Main Road,25.4,LOW,9.0
+Krishnagiri,Route B,Highway,41.8,MEDIUM,12.5
+Krishnagiri,Route C,Alternative Road,57.2,MEDIUM,16.2
+Krishnagiri,Route D,Bypass Road,72.5,HIGH,21.8
+Madurai,Route A,Main Road,25.4,LOW,9.0
+Madurai,Route B,Highway,41.8,MEDIUM,12.5
+Madurai,Route C,Alternative Road,57.2,MEDIUM,16.2
+Madurai,Route D,Bypass Road,72.5,HIGH,21.8
+Mayiladuthurai,Route A,Main Road,25.4,LOW,9.0
+Mayiladuthurai,Route B,Highway,41.8,MEDIUM,12.5
+Mayiladuthurai,Route C,Alternative Road,57.2,MEDIUM,16.2
+Mayiladuthurai,Route D,Bypass Road,72.5,HIGH,21.8
+Nagapattinam,Route A,Main Road,25.4,LOW,9.0
+Nagapattinam,Route B,Highway,41.8,MEDIUM,12.5
+Nagapattinam,Route C,Alternative Road,57.2,MEDIUM,16.2
+Nagapattinam,Route D,Bypass Road,72.5,HIGH,21.8
+Namakkal,Route A,Main Road,25.4,LOW,9.0
+Namakkal,Route B,Highway,41.8,MEDIUM,12.5
+Namakkal,Route C,Alternative Road,57.2,MEDIUM,16.2
+Namakkal,Route D,Bypass Road,72.5,HIGH,21.8
+Perambalur,Route A,Main Road,25.4,LOW,9.0
+Perambalur,Route B,Highway,41.8,MEDIUM,12.5
+Perambalur,Route C,Alternative Road,57.2,MEDIUM,16.2
+Perambalur,Route D,Bypass Road,72.5,HIGH,21.8
+Pudukkottai,Route A,Main Road,25.4,LOW,9.0
+Pudukkottai,Route B,Highway,41.8,MEDIUM,12.5
+Pudukkottai,Route C,Alternative Road,57.2,MEDIUM,16.2
+Pudukkottai,Route D,Bypass Road,72.5,HIGH,21.8
+Ramanathapuram,Route A,Main Road,25.4,LOW,9.0
+Ramanathapuram,Route B,Highway,41.8,MEDIUM,12.5
+Ramanathapuram,Route C,Alternative Road,57.2,MEDIUM,16.2
+Ramanathapuram,Route D,Bypass Road,72.5,HIGH,21.8
+Ranipet,Route A,Main Road,25.4,LOW,9.0
+Ranipet,Route B,Highway,41.8,MEDIUM,12.5
+Ranipet,Route C,Alternative Road,57.2,MEDIUM,16.2
+Ranipet,Route D,Bypass Road,72.5,HIGH,21.8
+Salem,Route A,Main Road,25.4,LOW,9.0
+Salem,Route B,Highway,41.8,MEDIUM,12.5
+Salem,Route C,Alternative Road,57.2,MEDIUM,16.2
+Salem,Route D,Bypass Road,72.5,HIGH,21.8
+Sivaganga,Route A,Main Road,25.4,LOW,9.0
+Sivaganga,Route B,Highway,41.8,MEDIUM,12.5
+Sivaganga,Route C,Alternative Road,57.2,MEDIUM,16.2
+Sivaganga,Route D,Bypass Road,72.5,HIGH,21.8
+Tenkasi,Route A,Main Road,25.4,LOW,9.0
+Tenkasi,Route B,Highway,41.8,MEDIUM,12.5
+Tenkasi,Route C,Alternative Road,57.2,MEDIUM,16.2
+Tenkasi,Route D,Bypass Road,72.5,HIGH,21.8
+Thanjavur,Route A,Main Road,25.4,LOW,9.0
+Thanjavur,Route B,Highway,41.8,MEDIUM,12.5
+Thanjavur,Route C,Alternative Road,57.2,MEDIUM,16.2
+Thanjavur,Route D,Bypass Road,72.5,HIGH,21.8
+Theni,Route A,Main Road,25.4,LOW,9.0
+Theni,Route B,Highway,41.8,MEDIUM,12.5
+Theni,Route C,Alternative Road,57.2,MEDIUM,16.2
+Theni,Route D,Bypass Road,72.5,HIGH,21.8
+Thoothukudi,Route A,Main Road,25.4,LOW,9.0
+Thoothukudi,Route B,Highway,41.8,MEDIUM,12.5
+Thoothukudi,Route C,Alternative Road,57.2,MEDIUM,16.2
+Thoothukudi,Route D,Bypass Road,72.5,HIGH,21.8
+Tiruchirappalli,Route A,Main Road,25.4,LOW,9.0
+Tiruchirappalli,Route B,Highway,41.8,MEDIUM,12.5
+Tiruchirappalli,Route C,Alternative Road,57.2,MEDIUM,16.2
+Tiruchirappalli,Route D,Bypass Road,72.5,HIGH,21.8
+Tirunelveli,Route A,Main Road,25.4,LOW,9.0
+Tirunelveli,Route B,Highway,41.8,MEDIUM,12.5
+Tirunelveli,Route C,Alternative Road,57.2,MEDIUM,16.2
+Tirunelveli,Route D,Bypass Road,72.5,HIGH,21.8
+Tirupathur,Route A,Main Road,25.4,LOW,9.0
+Tirupathur,Route B,Highway,41.8,MEDIUM,12.5
+Tirupathur,Route C,Alternative Road,57.2,MEDIUM,16.2
+Tirupathur,Route D,Bypass Road,72.5,HIGH,21.8
+Tiruppur,Route A,Main Road,25.4,LOW,9.0
+Tiruppur,Route B,Highway,41.8,MEDIUM,12.5
+Tiruppur,Route C,Alternative Road,57.2,MEDIUM,16.2
+Tiruppur,Route D,Bypass Road,72.5,HIGH,21.8
+Tiruvallur,Route A,Main Road,25.4,LOW,9.0
+Tiruvallur,Route B,Highway,41.8,MEDIUM,12.5
+Tiruvallur,Route C,Alternative Road,57.2,MEDIUM,16.2
+Tiruvallur,Route D,Bypass Road,72.5,HIGH,21.8
+Tiruvarur,Route A,Main Road,25.4,LOW,9.0
+Tiruvarur,Route B,Highway,41.8,MEDIUM,12.5
+Tiruvarur,Route C,Alternative Road,57.2,MEDIUM,16.2
+Tiruvarur,Route D,Bypass Road,72.5,HIGH,21.8
+Vellore,Route A,Main Road,25.4,LOW,9.0
+Vellore,Route B,Highway,41.8,MEDIUM,12.5
+Vellore,Route C,Alternative Road,57.2,MEDIUM,16.2
+Vellore,Route D,Bypass Road,72.5,HIGH,21.8
+Viluppuram,Route A,Main Road,25.4,LOW,9.0
+Viluppuram,Route B,Highway,41.8,MEDIUM,12.5
+Viluppuram,Route C,Alternative Road,57.2,MEDIUM,16.2
+Viluppuram,Route D,Bypass Road,72.5,HIGH,21.8
+Virudhunagar,Route A,Main Road,25.4,LOW,9.0
+Virudhunagar,Route B,Highway,41.8,MEDIUM,12.5
+Virudhunagar,Route C,Alternative Road,57.2,MEDIUM,16.2
+Virudhunagar,Route D,Bypass Road,72.5,HIGH,21.8

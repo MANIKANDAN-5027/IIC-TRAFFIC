@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Theni,Theni Ring Road,Highway Road,262,22,Normal,0,0,0,32.36,LOW
+Theni,Theni Main Road,Main Road,378,33,Clear,1,0,1,52.87,MEDIUM
+Theni,Theni Bypass Road,Town Road,243,41,Normal,1,1,0,38.36,MEDIUM
+Theni,Theni NH Road,Town Road,510,34,Cloudy,1,1,0,53.38,MEDIUM
+Theni,Theni Ring Road,Main Road,494,37,Clear,1,0,0,46.37,MEDIUM
+Theni,Theni Highway Road,Market Road,516,30,Clear,0,0,0,40.36,MEDIUM
+Theni,Theni Bus Stand Road,Highway Road,702,62,Normal,1,0,1,55.02,MEDIUM
+Theni,Theni Market Road,Ring Road,180,22,Cloudy,0,0,1,38.67,MEDIUM
+Theni,Theni Bus Stand Road,Ring Road,150,59,Rain,0,1,0,16.46,LOW
+Theni,Theni Market Road,Town Road,212,25,Rain,0,1,1,43.83,MEDIUM
+Theni,Theni Town Road,Ring Road,340,20,Rain,0,0,0,36.73,MEDIUM
+Theni,Theni Ring Road,Bypass Road,523,57,Rain,1,0,0,39.11,MEDIUM
+Theni,Theni Bypass Road,NH Road,863,29,Normal,0,0,0,56.41,MEDIUM
+Theni,Theni Bypass Road,Highway Road,683,53,Rain,0,0,0,38.02,MEDIUM
+Theni,Theni Main Road,Bus Stand Road,331,51,Cloudy,0,1,0,28.04,LOW
+Theni,Theni Highway Road,Market Road,329,18,Rain,0,1,0,42.09,MEDIUM
+Theni,Theni Highway Road,Bus Stand Road,202,30,Clear,0,0,0,26.23,LOW
+Theni,Theni Highway Road,Ring Road,807,26,Rain,0,1,0,60.17,MEDIUM
+Theni,Theni Town Road,Ring Road,972,48,Rain,0,0,0,53.17,MEDIUM
+Theni,Theni Market Road,Main Road,583,66,Clear,0,0,0,27.95,LOW
+Theni,Theni NH Road,Bus Stand Road,409,32,Cloudy,1,0,1,54.69,MEDIUM
+Theni,Theni NH Road,Bus Stand Road,680,18,Clear,0,0,0,52.89,MEDIUM
+Theni,Theni Ring Road,Town Road,308,61,Cloudy,1,0,1,37.72,MEDIUM
+Theni,Theni Town Road,NH Road,438,52,Cloudy,0,1,0,32.42,LOW
+Theni,Theni Bypass Road,Ring Road,170,31,Normal,0,0,0,24.36,LOW
+Theni,Theni Ring Road,Main Road,497,29,Cloudy,0,0,0,39.94,MEDIUM
+Theni,Theni Bus Stand Road,Main Road,403,26,Cloudy,0,1,0,41.99,MEDIUM
+Theni,Theni Bypass Road,Town Road,299,34,Cloudy,1,0,0,38.88,MEDIUM
+Theni,Theni Highway Road,Town Road,771,21,Normal,0,0,0,55.7,MEDIUM
+Theni,Theni Bus Stand Road,Bypass Road,900,67,Normal,0,0,0,41.79,MEDIUM
+Theni,Theni Highway Road,Highway Road,871,52,Rain,0,0,0,46.91,MEDIUM
+Theni,Theni Bypass Road,Market Road,165,44,Rain,0,0,0,18.57,LOW
+Theni,Theni Bus Stand Road,Bus Stand Road,159,24,Rain,0,0,0,26.87,LOW
+Theni,Theni Ring Road,Bus Stand Road,532,40,Cloudy,0,0,1,46.8,MEDIUM
+Theni,Theni Bus Stand Road,Main Road,305,23,Cloudy,0,0,0,33.87,LOW
+Theni,Theni Main Road,Market Road,438,40,Clear,0,0,0,32.57,LOW
+Theni,Theni Highway Road,NH Road,324,27,Clear,0,1,1,48.01,MEDIUM
+Theni,Theni Highway Road,Town Road,786,42,Cloudy,1,0,0,57.37,MEDIUM
+Theni,Theni Main Road,Bus Stand Road,894,45,Rain,0,0,0,50.94,MEDIUM
+Theni,Theni Bus Stand Road,Market Road,757,38,Rain,0,0,0,47.78,MEDIUM
+Theni,Theni Market Road,Bypass Road,935,46,Cloudy,0,0,0,52.36,MEDIUM
+Theni,Theni Main Road,NH Road,147,23,Normal,0,1,0,31.76,LOW
+Theni,Theni Main Road,Ring Road,834,25,Clear,0,0,0,56.82,MEDIUM
+Theni,Theni NH Road,Highway Road,549,67,Normal,1,0,1,45.99,MEDIUM
+Theni,Theni Bus Stand Road,Bypass Road,428,67,Clear,0,1,0,25.55,LOW
+Theni,Theni Highway Road,Bus Stand Road,495,38,Rain,0,1,0,40.99,MEDIUM
+Theni,Theni Ring Road,Main Road,617,70,Rain,0,0,0,27.77,LOW
+Theni,Theni Market Road,Highway Road,494,40,Cloudy,0,0,0,35.09,MEDIUM
+Theni,Theni NH Road,Bus Stand Road,742,27,Clear,1,0,0,61.82,MEDIUM
+Theni,Theni Market Road,Ring Road,188,18,Normal,0,1,0,35.75,MEDIUM
+Theni,Theni Main Road,Highway Road,926,62,Rain,0,0,1,55.1,MEDIUM
+Theni,Theni NH Road,Bypass Road,810,17,Rain,0,0,0,59.16,MEDIUM
+Theni,Theni NH Road,Bus Stand Road,282,53,Cloudy,0,0,1,29.98,LOW
+Theni,Theni Market Road,Highway Road,245,46,Cloudy,1,0,0,31.31,LOW
+Theni,Theni Bus Stand Road,NH Road,267,16,Normal,0,0,0,35.16,MEDIUM
+Theni,Theni Market Road,Market Road,280,39,Clear,0,0,1,35.89,MEDIUM
+Theni,Theni Bypass Road,Bypass Road,808,49,Normal,0,0,0,45.36,MEDIUM
+Theni,Theni Ring Road,Main Road,998,68,Rain,0,0,1,55.77,MEDIUM
+Theni,Theni Town Road,Ring Road,575,16,Clear,0,0,0,49.02,MEDIUM
+Theni,Theni Highway Road,Bypass Road,726,64,Cloudy,0,0,1,45.24,MEDIUM
+Theni,Theni Town Road,Market Road,506,42,Rain,0,0,0,34.77,LOW
+Theni,Theni Bus Stand Road,Bus Stand Road,289,43,Rain,1,1,0,39.58,MEDIUM
+Theni,Theni Town Road,Ring Road,680,24,Clear,0,1,0,55.31,MEDIUM
+Theni,Theni Bus Stand Road,Bus Stand Road,245,66,Rain,0,0,0,12.74,LOW
+Theni,Theni Main Road,Bus Stand Road,219,19,Rain,0,1,0,36.71,MEDIUM
+Theni,Theni Market Road,Highway Road,423,63,Cloudy,1,0,1,42.03,MEDIUM
+Theni,Theni Main Road,Town Road,761,41,Normal,0,0,0,46.67,MEDIUM
+Theni,Theni NH Road,Market Road,177,36,Cloudy,0,0,0,22.54,LOW
+Theni,Theni Bypass Road,Market Road,841,21,Cloudy,0,0,0,58.84,MEDIUM
+Theni,Theni NH Road,Bus Stand Road,165,67,Clear,0,0,0,8.71,LOW
+Theni,Theni Bus Stand Road,Town Road,481,62,Normal,0,0,0,25.07,LOW
+Theni,Theni NH Road,NH Road,648,46,Rain,1,0,0,49.45,MEDIUM
+Theni,Theni Bypass Road,Bus Stand Road,368,50,Clear,0,1,0,30.13,LOW
+Theni,Theni Highway Road,Highway Road,143,65,Cloudy,1,0,1,28.58,LOW
+Theni,Theni Bypass Road,Town Road,951,35,Rain,0,1,1,72.79,HIGH
+Theni,Theni Market Road,Bypass Road,893,62,Cloudy,0,1,0,48.61,MEDIUM
+Theni,Theni Bus Stand Road,NH Road,214,54,Cloudy,0,1,0,21.49,LOW
+Theni,Theni Bypass Road,Bus Stand Road,287,16,Rain,0,0,0,36.06,MEDIUM
+Theni,Theni NH Road,NH Road,644,28,Normal,0,0,1,56.98,MEDIUM
+Theni,Theni Bypass Road,NH Road,983,54,Cloudy,1,0,1,71.09,HIGH
+Theni,Theni Main Road,Market Road,626,59,Normal,0,0,0,32.88,LOW
+Theni,Theni Main Road,Main Road,532,41,Rain,0,0,0,36.37,MEDIUM
+Theni,Theni Town Road,Market Road,301,62,Clear,0,0,0,16.97,LOW
+Theni,Theni Bypass Road,Market Road,103,35,Cloudy,0,0,0,19.63,LOW
+Theni,Theni Town Road,Bus Stand Road,663,60,Clear,0,0,0,34.12,LOW
+Theni,Theni Highway Road,Town Road,161,43,Cloudy,1,1,0,33.82,LOW
+Theni,Theni Market Road,Market Road,978,29,Normal,0,0,1,71.58,HIGH
+Theni,Theni Town Road,Bus Stand Road,517,62,Normal,0,0,0,26.69,LOW
+Theni,Theni NH Road,Main Road,565,21,Clear,0,1,0,51.42,MEDIUM
+Theni,Theni Bus Stand Road,NH Road,294,24,Cloudy,0,0,0,32.94,LOW
+Theni,Theni Ring Road,Main Road,457,26,Normal,1,0,1,59.42,MEDIUM
+Theni,Theni Town Road,Ring Road,593,46,Cloudy,1,0,0,46.97,MEDIUM
+Theni,Theni NH Road,Bus Stand Road,106,55,Normal,0,0,0,11.2,LOW
+Theni,Theni NH Road,Ring Road,721,43,Normal,1,0,1,64.02,MEDIUM
+Theni,Theni Highway Road,Bus Stand Road,693,69,Clear,0,0,0,31.61,LOW
+Theni,Theni Ring Road,Town Road,833,67,Normal,0,1,1,53.77,MEDIUM
+Theni,Theni Ring Road,Highway Road,882,25,Cloudy,0,0,0,58.98,MEDIUM
+Theni,Theni Market Road,Bypass Road,415,54,Normal,0,0,0,25.53,LOW
+Theni,Theni Bus Stand Road,Main Road,743,55,Normal,0,1,0,44.86,MEDIUM
+Theni,Theni Town Road,Bypass Road,374,55,Clear,1,0,1,43.26,MEDIUM

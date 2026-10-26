@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Kancheepuram,Kancheepuram Ring Road,Highway Road,586,58,Rain,0,0,0,31.51,LOW
+Kancheepuram,Kancheepuram Market Road,Bypass Road,941,34,Normal,0,0,0,57.77,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Town Road,416,55,Clear,0,0,0,25.15,LOW
+Kancheepuram,Kancheepuram Bypass Road,Market Road,502,31,Cloudy,0,0,0,39.3,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,NH Road,549,55,Normal,0,1,0,36.13,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Bus Stand Road,582,62,Rain,1,0,1,49.62,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Main Road,618,19,Clear,0,1,0,54.67,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Town Road,756,56,Cloudy,0,1,0,45.02,MEDIUM
+Kancheepuram,Kancheepuram Bus Stand Road,Market Road,743,34,Cloudy,0,0,0,48.86,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Bus Stand Road,967,53,Rain,1,0,1,70.8,HIGH
+Kancheepuram,Kancheepuram NH Road,Town Road,277,58,Rain,0,0,0,17.61,LOW
+Kancheepuram,Kancheepuram Main Road,Market Road,286,40,Clear,1,0,0,35.73,MEDIUM
+Kancheepuram,Kancheepuram Town Road,Town Road,573,27,Rain,0,0,0,44.21,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Town Road,252,20,Normal,0,0,0,32.77,LOW
+Kancheepuram,Kancheepuram Market Road,Market Road,947,58,Rain,1,0,0,57.76,MEDIUM
+Kancheepuram,Kancheepuram Town Road,Market Road,394,62,Cloudy,1,1,0,36.16,MEDIUM
+Kancheepuram,Kancheepuram Town Road,Bus Stand Road,943,33,Clear,0,1,0,63.29,MEDIUM
+Kancheepuram,Kancheepuram Ring Road,Highway Road,397,31,Clear,0,1,0,39.58,MEDIUM
+Kancheepuram,Kancheepuram Market Road,Town Road,110,45,Normal,0,0,1,25.66,LOW
+Kancheepuram,Kancheepuram Main Road,Main Road,853,53,Rain,0,0,0,45.67,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,Town Road,340,45,Rain,0,0,0,26.01,LOW
+Kancheepuram,Kancheepuram Bus Stand Road,Bypass Road,504,57,Cloudy,0,0,0,28.25,LOW
+Kancheepuram,Kancheepuram NH Road,Ring Road,615,46,Normal,0,1,0,42.96,MEDIUM
+Kancheepuram,Kancheepuram Bus Stand Road,Highway Road,245,31,Rain,0,0,0,27.74,LOW
+Kancheepuram,Kancheepuram Bypass Road,Ring Road,865,38,Normal,1,0,0,62.64,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Market Road,268,35,Cloudy,1,0,1,47.06,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,Bus Stand Road,155,29,Normal,0,0,1,34.55,LOW
+Kancheepuram,Kancheepuram Ring Road,Highway Road,546,22,Normal,1,0,1,65.14,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Market Road,604,22,Rain,0,0,0,47.75,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Bus Stand Road,284,68,Normal,0,0,0,13.64,LOW
+Kancheepuram,Kancheepuram Main Road,Bypass Road,178,30,Clear,1,0,0,35.15,MEDIUM
+Kancheepuram,Kancheepuram Main Road,NH Road,503,38,Normal,0,0,0,36.35,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Ring Road,950,60,Clear,1,1,0,62.04,MEDIUM
+Kancheepuram,Kancheepuram Market Road,Main Road,771,54,Rain,1,0,0,51.55,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Town Road,430,66,Rain,0,0,1,31.06,LOW
+Kancheepuram,Kancheepuram Market Road,Bus Stand Road,282,30,Normal,1,0,0,39.83,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,Highway Road,898,40,Normal,0,0,0,53.27,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Ring Road,853,66,Cloudy,0,0,0,40.1,MEDIUM
+Kancheepuram,Kancheepuram Town Road,NH Road,601,43,Normal,1,1,0,53.62,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Main Road,930,38,Rain,0,1,1,70.56,HIGH
+Kancheepuram,Kancheepuram NH Road,Bypass Road,574,58,Normal,0,0,1,40.97,MEDIUM
+Kancheepuram,Kancheepuram Bus Stand Road,Bypass Road,547,20,Cloudy,1,0,0,56.04,MEDIUM
+Kancheepuram,Kancheepuram Main Road,NH Road,635,42,Normal,0,0,0,40.58,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,NH Road,522,21,Clear,1,0,0,54.49,MEDIUM
+Kancheepuram,Kancheepuram Town Road,Main Road,216,62,Clear,1,0,0,23.15,LOW
+Kancheepuram,Kancheepuram Highway Road,Bypass Road,526,60,Rain,0,0,1,37.96,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Bypass Road,992,66,Clear,0,0,0,46.35,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Main Road,544,49,Cloudy,0,0,1,43.48,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,Ring Road,771,45,Normal,1,1,1,70.41,HIGH
+Kancheepuram,Kancheepuram Main Road,Market Road,923,34,Clear,0,0,0,56.96,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Bus Stand Road,935,16,Cloudy,0,0,0,65.22,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Bus Stand Road,546,68,Normal,0,0,0,25.43,LOW
+Kancheepuram,Kancheepuram Highway Road,Highway Road,532,16,Normal,0,0,0,47.08,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,Town Road,120,70,Clear,1,0,0,15.4,LOW
+Kancheepuram,Kancheepuram Highway Road,Bypass Road,441,15,Clear,0,1,1,58.42,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Main Road,599,40,Normal,1,1,0,54.81,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,NH Road,690,35,Normal,0,0,1,56.05,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Bus Stand Road,737,56,Rain,0,1,1,54.16,MEDIUM
+Kancheepuram,Kancheepuram Market Road,Market Road,843,27,Rain,1,0,1,76.36,HIGH
+Kancheepuram,Kancheepuram Town Road,Town Road,716,69,Rain,1,0,0,42.65,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Highway Road,915,45,Cloudy,0,0,0,51.89,MEDIUM
+Kancheepuram,Kancheepuram Town Road,Highway Road,277,27,Rain,0,1,0,35.89,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,Ring Road,340,28,Cloudy,0,0,0,33.3,LOW
+Kancheepuram,Kancheepuram Town Road,NH Road,278,67,Cloudy,0,0,0,13.8,LOW
+Kancheepuram,Kancheepuram Ring Road,Ring Road,223,50,Clear,0,1,0,23.61,LOW
+Kancheepuram,Kancheepuram Main Road,Highway Road,888,50,Normal,0,0,0,48.53,MEDIUM
+Kancheepuram,Kancheepuram Main Road,NH Road,961,63,Cloudy,0,0,0,46.24,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,Highway Road,745,22,Normal,0,0,0,54.1,MEDIUM
+Kancheepuram,Kancheepuram Ring Road,Bus Stand Road,850,70,Clear,0,0,0,38.25,MEDIUM
+Kancheepuram,Kancheepuram Market Road,Highway Road,968,27,Rain,1,1,0,76.99,HIGH
+Kancheepuram,Kancheepuram Ring Road,Town Road,393,47,Rain,0,0,0,27.54,LOW
+Kancheepuram,Kancheepuram Market Road,Bus Stand Road,744,57,Normal,0,0,1,49.05,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Bus Stand Road,523,41,Clear,1,0,0,45.96,MEDIUM
+Kancheepuram,Kancheepuram Ring Road,Town Road,834,66,Cloudy,0,0,0,39.24,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Bypass Road,544,18,Normal,1,0,0,56.77,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Bypass Road,511,58,Cloudy,0,0,0,28.14,LOW
+Kancheepuram,Kancheepuram Ring Road,Town Road,817,40,Cloudy,1,0,1,69.62,MEDIUM
+Kancheepuram,Kancheepuram Bus Stand Road,Bypass Road,408,20,Cloudy,0,0,1,49.79,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Main Road,195,47,Rain,0,0,0,18.63,LOW
+Kancheepuram,Kancheepuram Main Road,Ring Road,347,68,Rain,0,1,0,21.47,LOW
+Kancheepuram,Kancheepuram NH Road,Highway Road,742,47,Rain,0,0,0,43.25,MEDIUM
+Kancheepuram,Kancheepuram Market Road,Market Road,686,62,Rain,0,1,0,39.3,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Ring Road,406,33,Cloudy,0,1,0,39.13,MEDIUM
+Kancheepuram,Kancheepuram Bus Stand Road,Town Road,942,64,Normal,0,1,0,49.96,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Market Road,183,20,Normal,0,1,0,34.66,LOW
+Kancheepuram,Kancheepuram Highway Road,Town Road,179,38,Normal,1,1,0,36.77,MEDIUM
+Kancheepuram,Kancheepuram Bus Stand Road,Highway Road,805,46,Normal,1,0,0,56.51,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Main Road,232,60,Cloudy,0,0,1,24.73,LOW
+Kancheepuram,Kancheepuram NH Road,Ring Road,672,38,Rain,0,1,0,48.95,MEDIUM
+Kancheepuram,Kancheepuram Bypass Road,Ring Road,141,48,Rain,0,0,0,15.77,LOW
+Kancheepuram,Kancheepuram Town Road,Main Road,401,46,Rain,0,0,0,28.33,LOW
+Kancheepuram,Kancheepuram NH Road,Ring Road,390,28,Clear,0,1,0,40.55,MEDIUM
+Kancheepuram,Kancheepuram Highway Road,Ring Road,991,17,Normal,1,1,0,82.31,HIGH
+Kancheepuram,Kancheepuram Highway Road,Highway Road,586,68,Cloudy,0,0,1,37.23,MEDIUM
+Kancheepuram,Kancheepuram Town Road,Market Road,987,61,Normal,0,0,1,58.27,MEDIUM
+Kancheepuram,Kancheepuram NH Road,Bus Stand Road,447,49,Clear,0,1,0,34.12,LOW
+Kancheepuram,Kancheepuram Market Road,Main Road,685,55,Cloudy,0,0,0,37.25,MEDIUM
+Kancheepuram,Kancheepuram Main Road,Bypass Road,868,45,Cloudy,0,0,0,49.77,MEDIUM
+Kancheepuram,Kancheepuram Town Road,Main Road,351,68,Normal,1,0,0,26.65,LOW
+Kancheepuram,Kancheepuram Town Road,Main Road,982,16,Rain,0,1,0,72.33,HIGH

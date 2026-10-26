@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Perambalur,Perambalur Bus Stand Road,Town Road,249,60,Clear,0,0,1,25.49,LOW
+Perambalur,Perambalur Market Road,Highway Road,965,62,Clear,0,0,0,46.85,MEDIUM
+Perambalur,Perambalur Highway Road,Market Road,351,50,Cloudy,0,0,0,24.37,LOW
+Perambalur,Perambalur Main Road,Bypass Road,351,29,Cloudy,1,0,0,43.37,MEDIUM
+Perambalur,Perambalur Market Road,Town Road,121,69,Cloudy,1,1,1,30.87,LOW
+Perambalur,Perambalur Ring Road,Bypass Road,968,48,Normal,1,1,0,67.99,MEDIUM
+Perambalur,Perambalur NH Road,Bus Stand Road,479,38,Rain,0,0,0,35.27,MEDIUM
+Perambalur,Perambalur Highway Road,Ring Road,980,67,Clear,0,0,0,45.39,MEDIUM
+Perambalur,Perambalur Highway Road,Bypass Road,926,67,Clear,0,0,0,42.96,MEDIUM
+Perambalur,Perambalur NH Road,Bus Stand Road,571,54,Clear,1,1,1,57.55,MEDIUM
+Perambalur,Perambalur Bus Stand Road,NH Road,673,43,Rain,0,0,1,51.86,MEDIUM
+Perambalur,Perambalur Highway Road,Town Road,166,61,Cloudy,0,0,0,11.33,LOW
+Perambalur,Perambalur Ring Road,Market Road,505,28,Normal,1,0,0,50.73,MEDIUM
+Perambalur,Perambalur Ring Road,NH Road,247,64,Clear,0,0,0,13.69,LOW
+Perambalur,Perambalur Market Road,Bus Stand Road,728,19,Cloudy,1,0,0,64.62,MEDIUM
+Perambalur,Perambalur NH Road,NH Road,130,56,Normal,1,0,0,21.85,LOW
+Perambalur,Perambalur Highway Road,Bus Stand Road,687,59,Rain,1,1,1,60.63,MEDIUM
+Perambalur,Perambalur Town Road,Bypass Road,287,21,Normal,0,0,0,33.91,LOW
+Perambalur,Perambalur Market Road,Ring Road,192,26,Clear,0,1,0,32.5,LOW
+Perambalur,Perambalur Main Road,Main Road,447,43,Rain,0,0,0,31.69,LOW
+Perambalur,Perambalur Ring Road,Town Road,197,25,Rain,0,0,0,28.15,LOW
+Perambalur,Perambalur Market Road,Highway Road,128,66,Cloudy,0,0,0,7.47,LOW
+Perambalur,Perambalur Ring Road,Bus Stand Road,648,28,Normal,0,0,0,47.16,MEDIUM
+Perambalur,Perambalur Main Road,Main Road,823,69,Clear,0,0,1,47.46,MEDIUM
+Perambalur,Perambalur Bus Stand Road,Bus Stand Road,926,34,Clear,0,0,0,57.1,MEDIUM
+Perambalur,Perambalur Town Road,Highway Road,609,27,Clear,0,0,1,55.83,MEDIUM
+Perambalur,Perambalur Ring Road,Bus Stand Road,784,50,Cloudy,0,0,0,43.85,MEDIUM
+Perambalur,Perambalur Ring Road,Main Road,937,46,Normal,0,1,0,57.45,MEDIUM
+Perambalur,Perambalur Town Road,Market Road,930,68,Rain,0,0,0,42.71,MEDIUM
+Perambalur,Perambalur Town Road,Town Road,428,23,Normal,1,0,0,49.4,MEDIUM
+Perambalur,Perambalur NH Road,Ring Road,486,20,Normal,1,0,1,63.3,MEDIUM
+Perambalur,Perambalur Main Road,Main Road,724,39,Cloudy,0,1,0,50.87,MEDIUM
+Perambalur,Perambalur Main Road,Main Road,191,34,Rain,0,0,0,24.02,LOW
+Perambalur,Perambalur Bus Stand Road,Ring Road,494,27,Clear,0,0,1,50.66,MEDIUM
+Perambalur,Perambalur Ring Road,NH Road,319,21,Cloudy,1,0,0,45.36,MEDIUM
+Perambalur,Perambalur Market Road,NH Road,607,28,Rain,0,0,1,55.31,MEDIUM
+Perambalur,Perambalur Market Road,Ring Road,104,30,Normal,0,0,1,31.82,LOW
+Perambalur,Perambalur Town Road,Bypass Road,145,24,Cloudy,0,0,0,26.24,LOW
+Perambalur,Perambalur Town Road,Town Road,999,56,Normal,0,1,0,55.95,MEDIUM
+Perambalur,Perambalur Main Road,Town Road,384,68,Clear,0,1,0,23.14,LOW
+Perambalur,Perambalur NH Road,NH Road,812,64,Clear,1,0,0,49.11,MEDIUM
+Perambalur,Perambalur Ring Road,Bus Stand Road,262,65,Rain,1,0,0,23.93,LOW
+Perambalur,Perambalur Bypass Road,Bypass Road,797,60,Clear,1,0,0,50.15,MEDIUM
+Perambalur,Perambalur Highway Road,Market Road,879,22,Cloudy,1,0,0,70.13,HIGH
+Perambalur,Perambalur NH Road,Market Road,630,17,Clear,1,1,0,66.06,MEDIUM
+Perambalur,Perambalur Market Road,Town Road,953,39,Rain,0,0,0,56.17,MEDIUM
+Perambalur,Perambalur Market Road,Market Road,548,62,Rain,0,1,0,33.09,LOW
+Perambalur,Perambalur Bypass Road,Bus Stand Road,144,51,Rain,0,0,0,14.62,LOW
+Perambalur,Perambalur Bus Stand Road,Bypass Road,573,27,Clear,0,1,1,59.21,MEDIUM
+Perambalur,Perambalur Main Road,Highway Road,330,26,Clear,0,0,1,43.71,MEDIUM
+Perambalur,Perambalur Ring Road,Main Road,963,30,Clear,0,0,0,60.48,MEDIUM
+Perambalur,Perambalur Ring Road,Ring Road,801,19,Clear,1,0,0,67.9,MEDIUM
+Perambalur,Perambalur Main Road,Main Road,246,21,Normal,0,0,1,42.07,MEDIUM
+Perambalur,Perambalur NH Road,Main Road,887,51,Normal,0,0,0,48.06,MEDIUM
+Perambalur,Perambalur Highway Road,Market Road,685,56,Normal,1,0,1,56.83,MEDIUM
+Perambalur,Perambalur Bus Stand Road,Highway Road,727,31,Rain,0,1,1,64.43,MEDIUM
+Perambalur,Perambalur Bypass Road,Bus Stand Road,329,24,Rain,0,0,1,44.52,MEDIUM
+Perambalur,Perambalur Main Road,Highway Road,857,16,Normal,1,0,0,71.71,HIGH
+Perambalur,Perambalur Ring Road,Market Road,827,49,Normal,0,1,0,51.21,MEDIUM
+Perambalur,Perambalur Town Road,Highway Road,531,41,Rain,1,1,1,61.32,MEDIUM
+Perambalur,Perambalur Market Road,Market Road,445,35,Cloudy,1,0,0,45.02,MEDIUM
+Perambalur,Perambalur Ring Road,Bypass Road,682,27,Cloudy,0,1,1,64.12,MEDIUM
+Perambalur,Perambalur Bypass Road,Town Road,502,24,Clear,1,0,1,62.3,MEDIUM
+Perambalur,Perambalur Town Road,Bus Stand Road,304,28,Normal,0,0,1,41.68,MEDIUM
+Perambalur,Perambalur Bypass Road,Bus Stand Road,124,59,Normal,0,1,0,15.29,LOW
+Perambalur,Perambalur Ring Road,Highway Road,688,65,Cloudy,0,0,1,43.1,MEDIUM
+Perambalur,Perambalur Main Road,NH Road,988,62,Clear,0,1,0,52.89,MEDIUM
+Perambalur,Perambalur NH Road,Ring Road,187,16,Rain,0,0,0,31.56,LOW
+Perambalur,Perambalur NH Road,Ring Road,307,62,Rain,0,0,0,17.24,LOW
+Perambalur,Perambalur Bus Stand Road,Bypass Road,697,68,Rain,1,1,0,47.22,MEDIUM
+Perambalur,Perambalur Town Road,NH Road,203,66,Normal,0,0,0,10.85,LOW
+Perambalur,Perambalur NH Road,Bus Stand Road,262,50,Normal,1,0,0,30.36,LOW
+Perambalur,Perambalur Highway Road,Town Road,199,63,Normal,0,0,1,21.95,LOW
+Perambalur,Perambalur Bus Stand Road,Highway Road,274,64,Clear,0,0,1,24.9,LOW
+Perambalur,Perambalur Ring Road,NH Road,603,57,Cloudy,0,0,0,32.71,LOW
+Perambalur,Perambalur NH Road,Market Road,238,54,Rain,0,1,0,22.57,LOW
+Perambalur,Perambalur Main Road,Town Road,399,60,Cloudy,0,0,1,32.24,LOW
+Perambalur,Perambalur Main Road,Highway Road,473,69,Rain,0,0,0,21.71,LOW
+Perambalur,Perambalur Highway Road,Town Road,270,18,Rain,0,0,0,34.44,LOW
+Perambalur,Perambalur Main Road,Bus Stand Road,141,32,Clear,1,0,0,32.63,LOW
+Perambalur,Perambalur Market Road,Highway Road,852,51,Normal,0,0,1,56.48,MEDIUM
+Perambalur,Perambalur Ring Road,Town Road,497,17,Normal,0,1,0,50.08,MEDIUM
+Perambalur,Perambalur Market Road,Highway Road,824,36,Rain,0,0,0,51.65,MEDIUM
+Perambalur,Perambalur NH Road,Main Road,373,20,Cloudy,1,0,0,48.21,MEDIUM
+Perambalur,Perambalur Bus Stand Road,Ring Road,925,63,Clear,0,0,0,44.62,MEDIUM
+Perambalur,Perambalur Main Road,Main Road,257,51,Rain,0,0,0,19.71,LOW
+Perambalur,Perambalur Ring Road,NH Road,991,54,Clear,0,0,1,61.45,MEDIUM
+Perambalur,Perambalur Bus Stand Road,NH Road,157,60,Clear,0,0,0,11.35,LOW
+Perambalur,Perambalur NH Road,Town Road,103,42,Rain,0,0,0,16.63,LOW
+Perambalur,Perambalur Highway Road,Bus Stand Road,740,48,Normal,0,1,0,47.73,MEDIUM
+Perambalur,Perambalur Main Road,NH Road,394,61,Cloudy,0,1,0,26.59,LOW
+Perambalur,Perambalur NH Road,Market Road,302,31,Cloudy,0,0,0,30.3,LOW
+Perambalur,Perambalur Bypass Road,Town Road,968,35,Rain,0,0,1,68.56,MEDIUM
+Perambalur,Perambalur Main Road,Bypass Road,323,42,Rain,0,0,0,26.54,LOW
+Perambalur,Perambalur Highway Road,Ring Road,872,25,Clear,0,0,0,58.53,MEDIUM
+Perambalur,Perambalur Main Road,NH Road,734,63,Rain,1,0,1,56.03,MEDIUM
+Perambalur,Perambalur Ring Road,Highway Road,702,64,Rain,0,0,0,34.16,LOW
+Perambalur,Perambalur Bypass Road,Highway Road,860,66,Rain,1,0,1,60.41,MEDIUM
+Perambalur,Perambalur Main Road,Ring Road,659,62,Normal,0,0,0,33.08,LOW
+Perambalur,Perambalur Highway Road,Highway Road,576,44,Cloudy,0,1,1,52.06,MEDIUM

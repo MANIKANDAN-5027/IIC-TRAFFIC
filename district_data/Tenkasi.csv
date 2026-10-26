@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Tenkasi,Tenkasi Ring Road,Main Road,533,70,Normal,0,1,1,38.98,MEDIUM
+Tenkasi,Tenkasi Main Road,Town Road,901,34,Cloudy,0,0,0,55.97,MEDIUM
+Tenkasi,Tenkasi Town Road,Bus Stand Road,348,69,Cloudy,0,0,1,26.09,LOW
+Tenkasi,Tenkasi NH Road,Town Road,888,41,Rain,0,0,0,52.39,MEDIUM
+Tenkasi,Tenkasi Main Road,Town Road,718,53,Cloudy,0,0,0,39.6,MEDIUM
+Tenkasi,Tenkasi Bypass Road,Bus Stand Road,976,26,Normal,0,0,0,62.78,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,Ring Road,538,45,Clear,1,0,1,54.92,MEDIUM
+Tenkasi,Tenkasi Bypass Road,NH Road,499,16,Clear,0,0,0,45.6,MEDIUM
+Tenkasi,Tenkasi Main Road,Main Road,481,69,Clear,0,1,0,27.07,LOW
+Tenkasi,Tenkasi Bus Stand Road,Market Road,585,52,Clear,1,1,1,59.04,MEDIUM
+Tenkasi,Tenkasi Bypass Road,Highway Road,277,51,Cloudy,0,1,0,25.61,LOW
+Tenkasi,Tenkasi NH Road,Bus Stand Road,835,41,Clear,0,0,1,60.0,MEDIUM
+Tenkasi,Tenkasi Highway Road,Ring Road,268,18,Cloudy,0,0,0,34.35,LOW
+Tenkasi,Tenkasi Ring Road,Bus Stand Road,540,37,Rain,1,0,1,58.44,MEDIUM
+Tenkasi,Tenkasi NH Road,Market Road,371,47,Rain,0,0,0,26.55,LOW
+Tenkasi,Tenkasi Main Road,Town Road,999,31,Rain,0,0,0,61.67,MEDIUM
+Tenkasi,Tenkasi Ring Road,Bus Stand Road,412,56,Cloudy,0,0,1,34.54,LOW
+Tenkasi,Tenkasi Bus Stand Road,Highway Road,965,19,Rain,0,0,0,65.28,MEDIUM
+Tenkasi,Tenkasi Highway Road,Town Road,888,49,Cloudy,1,0,1,68.96,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,Main Road,348,57,Cloudy,0,0,1,31.23,LOW
+Tenkasi,Tenkasi Highway Road,Ring Road,988,68,Clear,1,0,0,55.32,MEDIUM
+Tenkasi,Tenkasi Market Road,Main Road,770,49,Rain,0,0,1,53.65,MEDIUM
+Tenkasi,Tenkasi Market Road,Ring Road,436,60,Cloudy,0,0,1,33.91,LOW
+Tenkasi,Tenkasi Bypass Road,Main Road,373,54,Clear,0,0,0,23.64,LOW
+Tenkasi,Tenkasi Highway Road,Highway Road,978,70,Rain,0,0,1,54.01,MEDIUM
+Tenkasi,Tenkasi Bypass Road,Bypass Road,626,19,Rain,1,0,0,60.03,MEDIUM
+Tenkasi,Tenkasi Main Road,Market Road,786,38,Rain,0,0,1,59.08,MEDIUM
+Tenkasi,Tenkasi NH Road,Main Road,804,19,Rain,1,0,1,78.04,HIGH
+Tenkasi,Tenkasi Bypass Road,Town Road,346,56,Normal,0,0,1,31.57,LOW
+Tenkasi,Tenkasi Ring Road,Highway Road,700,48,Cloudy,0,0,0,40.93,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,Bypass Road,957,45,Normal,0,0,1,63.78,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,Bypass Road,338,17,Cloudy,0,1,0,42.92,MEDIUM
+Tenkasi,Tenkasi Market Road,Market Road,308,68,Clear,0,1,0,19.72,LOW
+Tenkasi,Tenkasi Bus Stand Road,Market Road,254,22,Cloudy,1,0,1,52.0,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,NH Road,629,70,Clear,0,0,0,28.3,LOW
+Tenkasi,Tenkasi Bus Stand Road,Main Road,935,22,Clear,0,0,0,62.65,MEDIUM
+Tenkasi,Tenkasi Town Road,NH Road,164,59,Clear,1,1,1,37.09,MEDIUM
+Tenkasi,Tenkasi Main Road,NH Road,130,47,Rain,1,1,0,30.71,LOW
+Tenkasi,Tenkasi Main Road,Market Road,293,38,Rain,1,0,0,36.9,MEDIUM
+Tenkasi,Tenkasi Highway Road,Bypass Road,426,56,Normal,0,0,0,25.17,LOW
+Tenkasi,Tenkasi Bypass Road,Town Road,901,63,Rain,0,0,0,43.55,MEDIUM
+Tenkasi,Tenkasi Market Road,Main Road,952,58,Normal,0,0,0,47.98,MEDIUM
+Tenkasi,Tenkasi Ring Road,Bypass Road,955,63,Rain,1,0,0,55.98,MEDIUM
+Tenkasi,Tenkasi Ring Road,Main Road,860,52,Clear,1,1,0,61.41,MEDIUM
+Tenkasi,Tenkasi NH Road,NH Road,546,42,Clear,1,1,0,51.57,MEDIUM
+Tenkasi,Tenkasi NH Road,Market Road,762,40,Rain,0,0,0,47.15,MEDIUM
+Tenkasi,Tenkasi Town Road,Bypass Road,101,66,Normal,1,0,0,16.26,LOW
+Tenkasi,Tenkasi Town Road,Town Road,142,48,Cloudy,0,0,0,15.82,LOW
+Tenkasi,Tenkasi Bus Stand Road,Town Road,401,50,Normal,0,1,1,41.62,MEDIUM
+Tenkasi,Tenkasi Highway Road,Highway Road,903,15,Clear,0,1,0,69.21,MEDIUM
+Tenkasi,Tenkasi Ring Road,Highway Road,472,16,Clear,0,1,0,49.38,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,Main Road,683,44,Clear,1,0,0,51.88,MEDIUM
+Tenkasi,Tenkasi Town Road,Main Road,235,42,Rain,0,1,0,27.57,LOW
+Tenkasi,Tenkasi NH Road,Highway Road,180,50,Rain,0,0,0,16.67,LOW
+Tenkasi,Tenkasi Highway Road,Highway Road,443,47,Rain,0,0,1,39.79,MEDIUM
+Tenkasi,Tenkasi Town Road,Bus Stand Road,823,20,Clear,0,1,0,63.46,MEDIUM
+Tenkasi,Tenkasi Town Road,Bus Stand Road,198,49,Normal,0,0,0,17.91,LOW
+Tenkasi,Tenkasi Ring Road,NH Road,372,26,Normal,0,0,1,45.6,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,NH Road,154,66,Rain,0,0,0,8.64,LOW
+Tenkasi,Tenkasi Ring Road,Town Road,797,33,Cloudy,0,1,0,56.72,MEDIUM
+Tenkasi,Tenkasi Highway Road,Main Road,102,69,Clear,0,0,0,5.02,LOW
+Tenkasi,Tenkasi Ring Road,Town Road,851,18,Rain,0,1,0,65.58,MEDIUM
+Tenkasi,Tenkasi Bypass Road,Highway Road,154,44,Cloudy,0,0,0,18.07,LOW
+Tenkasi,Tenkasi Main Road,NH Road,615,25,Normal,0,0,0,46.96,MEDIUM
+Tenkasi,Tenkasi Highway Road,Market Road,632,56,Clear,0,0,0,34.44,LOW
+Tenkasi,Tenkasi Main Road,Highway Road,239,41,Clear,0,1,0,28.18,LOW
+Tenkasi,Tenkasi NH Road,Ring Road,160,65,Clear,0,0,0,9.34,LOW
+Tenkasi,Tenkasi Ring Road,Bus Stand Road,725,26,Normal,1,0,0,61.48,MEDIUM
+Tenkasi,Tenkasi Highway Road,Main Road,182,62,Cloudy,0,0,0,11.62,LOW
+Tenkasi,Tenkasi Town Road,Ring Road,304,17,Clear,0,1,0,41.39,MEDIUM
+Tenkasi,Tenkasi Ring Road,Bypass Road,104,45,Cloudy,0,0,0,15.39,LOW
+Tenkasi,Tenkasi Market Road,Town Road,930,56,Rain,0,1,1,62.85,MEDIUM
+Tenkasi,Tenkasi NH Road,Town Road,234,53,Clear,0,0,1,27.82,LOW
+Tenkasi,Tenkasi Bypass Road,NH Road,739,65,Cloudy,0,1,0,40.4,MEDIUM
+Tenkasi,Tenkasi Ring Road,Main Road,889,61,Cloudy,0,0,0,43.86,MEDIUM
+Tenkasi,Tenkasi NH Road,Highway Road,460,64,Rain,1,0,0,33.27,LOW
+Tenkasi,Tenkasi Market Road,Ring Road,318,65,Cloudy,0,1,0,21.45,LOW
+Tenkasi,Tenkasi Town Road,Main Road,530,48,Normal,0,1,0,38.28,MEDIUM
+Tenkasi,Tenkasi Market Road,Bypass Road,558,27,Cloudy,0,0,0,43.54,MEDIUM
+Tenkasi,Tenkasi Town Road,Bus Stand Road,425,66,Clear,0,1,0,25.84,LOW
+Tenkasi,Tenkasi Bypass Road,Main Road,438,36,Normal,0,1,1,49.28,MEDIUM
+Tenkasi,Tenkasi Ring Road,Town Road,468,43,Cloudy,0,0,0,32.63,LOW
+Tenkasi,Tenkasi Ring Road,Ring Road,310,51,Clear,0,0,0,22.09,LOW
+Tenkasi,Tenkasi Market Road,NH Road,143,46,Clear,0,0,0,16.72,LOW
+Tenkasi,Tenkasi Bus Stand Road,Ring Road,202,44,Rain,1,0,0,30.23,LOW
+Tenkasi,Tenkasi Bus Stand Road,Main Road,821,43,Normal,1,0,0,58.52,MEDIUM
+Tenkasi,Tenkasi Bypass Road,NH Road,834,54,Cloudy,0,0,0,44.39,MEDIUM
+Tenkasi,Tenkasi Ring Road,Ring Road,100,20,Clear,0,0,1,35.93,MEDIUM
+Tenkasi,Tenkasi Ring Road,NH Road,110,25,Rain,1,0,0,34.24,LOW
+Tenkasi,Tenkasi Highway Road,Ring Road,319,70,Clear,0,0,0,14.36,LOW
+Tenkasi,Tenkasi Highway Road,Market Road,548,33,Cloudy,0,1,0,45.52,MEDIUM
+Tenkasi,Tenkasi Main Road,Market Road,574,53,Clear,0,0,0,33.12,LOW
+Tenkasi,Tenkasi Bypass Road,Main Road,149,15,Cloudy,1,0,0,40.28,MEDIUM
+Tenkasi,Tenkasi Ring Road,Bus Stand Road,806,52,Clear,0,0,0,43.98,MEDIUM
+Tenkasi,Tenkasi NH Road,NH Road,999,28,Rain,1,0,0,72.95,HIGH
+Tenkasi,Tenkasi Bus Stand Road,Ring Road,741,54,Rain,0,0,0,40.2,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,Main Road,878,63,Rain,0,0,0,42.51,MEDIUM
+Tenkasi,Tenkasi Highway Road,Main Road,497,19,Clear,0,0,1,54.22,MEDIUM
+Tenkasi,Tenkasi Town Road,Highway Road,507,51,Normal,1,0,0,40.96,MEDIUM
+Tenkasi,Tenkasi Bus Stand Road,Market Road,369,17,Cloudy,0,1,0,44.32,MEDIUM

@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Karur,Karur Bus Stand Road,Bypass Road,491,31,Cloudy,0,0,0,38.81,MEDIUM
+Karur,Karur Town Road,Bus Stand Road,287,31,Clear,0,0,0,29.63,LOW
+Karur,Karur Bypass Road,Town Road,729,35,Clear,0,0,0,47.8,MEDIUM
+Karur,Karur Town Road,NH Road,427,24,Clear,1,0,0,48.93,MEDIUM
+Karur,Karur NH Road,Bypass Road,307,30,Clear,0,1,1,45.96,MEDIUM
+Karur,Karur Main Road,Town Road,425,44,Cloudy,1,0,1,50.27,MEDIUM
+Karur,Karur Bypass Road,Town Road,119,32,Normal,0,0,0,21.64,LOW
+Karur,Karur Bus Stand Road,Market Road,185,69,Normal,0,0,0,8.75,LOW
+Karur,Karur Bypass Road,Bus Stand Road,668,43,Clear,0,0,1,51.63,MEDIUM
+Karur,Karur Ring Road,Market Road,161,45,Rain,0,0,1,27.96,LOW
+Karur,Karur Town Road,NH Road,146,25,Cloudy,0,0,0,25.86,LOW
+Karur,Karur Ring Road,Ring Road,842,50,Rain,0,1,0,51.46,MEDIUM
+Karur,Karur Ring Road,Ring Road,870,60,Cloudy,1,0,0,53.44,MEDIUM
+Karur,Karur Main Road,Highway Road,570,53,Clear,0,0,0,32.94,LOW
+Karur,Karur Town Road,NH Road,109,58,Clear,0,1,1,25.05,LOW
+Karur,Karur Town Road,Ring Road,651,16,Normal,1,0,0,62.44,MEDIUM
+Karur,Karur Ring Road,Market Road,281,68,Normal,0,0,1,23.5,LOW
+Karur,Karur Market Road,NH Road,109,29,Rain,0,0,0,22.48,LOW
+Karur,Karur Ring Road,Main Road,927,60,Rain,0,0,1,56.0,MEDIUM
+Karur,Karur Town Road,NH Road,604,60,Rain,0,0,0,31.47,LOW
+Karur,Karur Bus Stand Road,NH Road,682,47,Cloudy,1,0,0,50.55,MEDIUM
+Karur,Karur Bypass Road,Market Road,863,19,Clear,0,0,0,60.69,MEDIUM
+Karur,Karur Town Road,Main Road,809,58,Rain,0,1,0,46.55,MEDIUM
+Karur,Karur Highway Road,Highway Road,542,69,Rain,1,0,0,34.82,LOW
+Karur,Karur Bypass Road,Town Road,629,63,Normal,0,0,0,31.3,LOW
+Karur,Karur NH Road,Main Road,423,15,Cloudy,1,0,0,52.61,MEDIUM
+Karur,Karur Bus Stand Road,Ring Road,806,42,Rain,0,0,0,48.27,MEDIUM
+Karur,Karur Town Road,Main Road,164,55,Rain,0,0,1,23.81,LOW
+Karur,Karur Market Road,Ring Road,960,31,Clear,0,0,1,69.91,MEDIUM
+Karur,Karur NH Road,Highway Road,941,36,Clear,0,0,1,66.92,MEDIUM
+Karur,Karur NH Road,Bus Stand Road,187,18,Clear,0,1,0,35.7,MEDIUM
+Karur,Karur NH Road,NH Road,921,43,Clear,0,0,1,63.02,MEDIUM
+Karur,Karur NH Road,Town Road,672,18,Cloudy,0,1,1,67.53,MEDIUM
+Karur,Karur Highway Road,Town Road,985,53,Clear,0,1,1,66.61,MEDIUM
+Karur,Karur Market Road,NH Road,447,56,Clear,0,1,0,31.12,LOW
+Karur,Karur Bypass Road,Ring Road,112,53,Normal,0,0,0,12.33,LOW
+Karur,Karur Bus Stand Road,Main Road,592,61,Clear,1,0,0,40.5,MEDIUM
+Karur,Karur Bus Stand Road,Bus Stand Road,230,34,Normal,1,0,0,35.78,MEDIUM
+Karur,Karur Main Road,Bus Stand Road,416,53,Clear,0,0,0,26.01,LOW
+Karur,Karur Market Road,Market Road,343,47,Cloudy,0,1,0,30.29,LOW
+Karur,Karur Highway Road,Ring Road,904,19,Rain,0,0,1,72.54,HIGH
+Karur,Karur NH Road,Highway Road,730,34,Clear,1,0,0,58.28,MEDIUM
+Karur,Karur Highway Road,Market Road,607,29,Cloudy,0,0,0,44.89,MEDIUM
+Karur,Karur Town Road,Bus Stand Road,592,62,Clear,0,1,0,35.07,MEDIUM
+Karur,Karur NH Road,Bus Stand Road,471,15,Rain,0,0,0,44.77,MEDIUM
+Karur,Karur Market Road,Market Road,550,27,Rain,0,0,0,43.18,MEDIUM
+Karur,Karur Market Road,Bus Stand Road,278,29,Cloudy,0,0,0,30.08,LOW
+Karur,Karur Bus Stand Road,Town Road,122,26,Clear,0,0,0,24.35,LOW
+Karur,Karur Ring Road,Ring Road,446,28,Cloudy,0,1,0,43.07,MEDIUM
+Karur,Karur Bus Stand Road,Bus Stand Road,639,66,Cloudy,1,0,0,40.47,MEDIUM
+Karur,Karur Town Road,Market Road,296,49,Clear,1,0,0,32.32,LOW
+Karur,Karur Ring Road,Market Road,881,54,Clear,0,0,0,46.5,MEDIUM
+Karur,Karur Market Road,NH Road,744,65,Normal,0,0,1,45.62,MEDIUM
+Karur,Karur Ring Road,Highway Road,909,57,Normal,0,0,1,56.48,MEDIUM
+Karur,Karur Highway Road,Bypass Road,283,35,Normal,0,1,1,42.73,MEDIUM
+Karur,Karur Market Road,Highway Road,753,65,Cloudy,0,0,0,36.03,MEDIUM
+Karur,Karur Bus Stand Road,Ring Road,505,28,Rain,0,1,1,55.73,MEDIUM
+Karur,Karur Highway Road,Ring Road,663,20,Cloudy,0,0,0,51.26,MEDIUM
+Karur,Karur Highway Road,Highway Road,697,17,Normal,1,0,1,74.08,HIGH
+Karur,Karur Town Road,Main Road,518,38,Cloudy,1,0,0,47.02,MEDIUM
+Karur,Karur NH Road,Bypass Road,552,29,Clear,0,0,0,42.41,MEDIUM
+Karur,Karur NH Road,Ring Road,904,32,Clear,0,0,0,56.97,MEDIUM
+Karur,Karur Bypass Road,Bypass Road,659,27,Rain,0,0,0,48.08,MEDIUM
+Karur,Karur Bypass Road,Bypass Road,295,60,Rain,0,0,0,17.56,LOW
+Karur,Karur Bus Stand Road,Town Road,901,40,Cloudy,1,0,1,73.4,HIGH
+Karur,Karur Highway Road,Highway Road,332,61,Rain,0,1,0,23.8,LOW
+Karur,Karur Town Road,Market Road,910,20,Normal,0,0,1,72.38,HIGH
+Karur,Karur Bus Stand Road,Bypass Road,560,69,Clear,0,0,0,25.63,LOW
+Karur,Karur Town Road,Town Road,611,66,Normal,0,0,0,29.21,LOW
+Karur,Karur Main Road,Bus Stand Road,881,64,Cloudy,0,0,0,42.22,MEDIUM
+Karur,Karur Town Road,NH Road,438,51,Normal,1,1,0,42.85,MEDIUM
+Karur,Karur Bypass Road,NH Road,292,45,Cloudy,0,0,1,33.85,LOW
+Karur,Karur Main Road,Bus Stand Road,206,58,Cloudy,0,0,1,24.41,LOW
+Karur,Karur Bypass Road,NH Road,171,39,Normal,0,0,0,20.98,LOW
+Karur,Karur Town Road,Town Road,158,38,Cloudy,0,0,0,20.82,LOW
+Karur,Karur Town Road,Market Road,213,23,Cloudy,1,1,0,44.73,MEDIUM
+Karur,Karur Bus Stand Road,Bypass Road,991,28,Cloudy,0,1,1,77.59,HIGH
+Karur,Karur Main Road,Bus Stand Road,614,60,Normal,1,0,0,41.92,MEDIUM
+Karur,Karur Highway Road,Highway Road,165,67,Normal,1,0,0,18.71,LOW
+Karur,Karur Ring Road,Bypass Road,689,17,Normal,0,0,1,63.72,MEDIUM
+Karur,Karur Bus Stand Road,Town Road,727,67,Normal,0,1,0,39.0,MEDIUM
+Karur,Karur Main Road,Market Road,493,57,Cloudy,0,0,1,37.76,MEDIUM
+Karur,Karur Highway Road,Town Road,380,55,Clear,0,0,0,23.53,LOW
+Karur,Karur Highway Road,Bus Stand Road,477,19,Rain,0,0,1,53.32,MEDIUM
+Karur,Karur NH Road,Highway Road,312,47,Normal,0,1,0,28.9,LOW
+Karur,Karur Main Road,Main Road,451,62,Rain,1,0,1,43.72,MEDIUM
+Karur,Karur Highway Road,Highway Road,217,60,Clear,0,0,1,24.05,LOW
+Karur,Karur Highway Road,Bypass Road,184,50,Cloudy,0,1,0,21.85,LOW
+Karur,Karur Bypass Road,NH Road,274,68,Normal,0,0,0,13.19,LOW
+Karur,Karur Highway Road,Ring Road,272,19,Cloudy,0,0,0,34.1,LOW
+Karur,Karur Main Road,NH Road,321,60,Normal,0,0,1,28.73,LOW
+Karur,Karur Main Road,Town Road,806,34,Cloudy,1,0,0,61.7,MEDIUM
+Karur,Karur Main Road,Town Road,355,38,Clear,0,0,0,29.69,LOW
+Karur,Karur NH Road,Bus Stand Road,114,36,Cloudy,0,0,0,19.7,LOW
+Karur,Karur Market Road,Market Road,145,41,Normal,0,0,0,18.95,LOW
+Karur,Karur Ring Road,Ring Road,538,22,Cloudy,0,0,0,44.78,MEDIUM
+Karur,Karur Market Road,Highway Road,115,40,Cloudy,0,0,1,28.03,LOW
+Karur,Karur NH Road,Market Road,167,57,Normal,0,0,0,13.09,LOW
+Karur,Karur Bypass Road,NH Road,408,64,Rain,1,0,0,30.93,LOW
+Karur,Karur Bus Stand Road,Ring Road,746,59,Normal,1,0,0,48.28,MEDIUM

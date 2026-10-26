@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Nilgiris,Nilgiris Market Road,Main Road,250,53,Cloudy,0,1,0,23.54,LOW
+Nilgiris,Nilgiris Ring Road,Town Road,697,34,Normal,0,0,0,46.79,MEDIUM
+Nilgiris,Nilgiris Ring Road,Town Road,733,25,Normal,0,0,0,52.27,MEDIUM
+Nilgiris,Nilgiris Town Road,Main Road,763,25,Clear,1,0,1,73.62,HIGH
+Nilgiris,Nilgiris Bus Stand Road,Bypass Road,450,29,Clear,0,0,0,37.82,MEDIUM
+Nilgiris,Nilgiris Main Road,Market Road,765,27,Cloudy,0,1,1,67.85,MEDIUM
+Nilgiris,Nilgiris Ring Road,NH Road,472,57,Rain,0,1,0,31.81,LOW
+Nilgiris,Nilgiris Market Road,Market Road,666,49,Rain,0,0,1,48.97,MEDIUM
+Nilgiris,Nilgiris Highway Road,Bus Stand Road,916,62,Clear,0,0,0,44.65,MEDIUM
+Nilgiris,Nilgiris NH Road,Bus Stand Road,723,32,Rain,0,0,0,48.82,MEDIUM
+Nilgiris,Nilgiris Highway Road,NH Road,162,28,Clear,0,0,1,35.29,MEDIUM
+Nilgiris,Nilgiris NH Road,Highway Road,426,65,Clear,0,0,1,31.31,LOW
+Nilgiris,Nilgiris Bypass Road,Main Road,587,27,Normal,0,0,1,54.84,MEDIUM
+Nilgiris,Nilgiris Main Road,Bypass Road,981,22,Normal,1,0,1,84.72,HIGH
+Nilgiris,Nilgiris Highway Road,Bypass Road,715,32,Rain,1,0,0,58.46,MEDIUM
+Nilgiris,Nilgiris Bypass Road,Highway Road,370,70,Clear,0,0,0,16.65,LOW
+Nilgiris,Nilgiris Highway Road,Highway Road,874,26,Cloudy,1,0,0,68.19,MEDIUM
+Nilgiris,Nilgiris Highway Road,Ring Road,283,19,Cloudy,1,0,0,44.59,MEDIUM
+Nilgiris,Nilgiris Bypass Road,Bypass Road,298,64,Rain,0,0,0,15.98,LOW
+Nilgiris,Nilgiris Market Road,Bus Stand Road,884,48,Rain,1,0,0,59.21,MEDIUM
+Nilgiris,Nilgiris Bus Stand Road,Ring Road,260,27,Normal,1,0,0,40.13,MEDIUM
+Nilgiris,Nilgiris Bypass Road,Highway Road,769,53,Rain,1,0,0,51.89,MEDIUM
+Nilgiris,Nilgiris Ring Road,Highway Road,479,24,Rain,0,0,0,41.27,MEDIUM
+Nilgiris,Nilgiris Town Road,Main Road,535,51,Normal,1,1,0,47.22,MEDIUM
+Nilgiris,Nilgiris Main Road,Market Road,462,56,Cloudy,0,1,0,31.79,LOW
+Nilgiris,Nilgiris Main Road,Ring Road,777,60,Normal,0,0,0,39.25,MEDIUM
+Nilgiris,Nilgiris Highway Road,Bypass Road,909,39,Clear,0,0,0,54.19,MEDIUM
+Nilgiris,Nilgiris Highway Road,Main Road,176,30,Normal,0,0,1,35.06,MEDIUM
+Nilgiris,Nilgiris Town Road,Main Road,804,60,Clear,1,0,0,50.47,MEDIUM
+Nilgiris,Nilgiris Highway Road,Bypass Road,157,55,Clear,0,0,0,13.49,LOW
+Nilgiris,Nilgiris Bus Stand Road,Bus Stand Road,583,23,Rain,0,0,1,56.38,MEDIUM
+Nilgiris,Nilgiris Ring Road,Bypass Road,687,27,Rain,0,1,0,54.34,MEDIUM
+Nilgiris,Nilgiris Ring Road,Highway Road,806,16,Cloudy,0,0,0,59.41,MEDIUM
+Nilgiris,Nilgiris Ring Road,Ring Road,288,35,Cloudy,1,0,1,47.96,MEDIUM
+Nilgiris,Nilgiris Bus Stand Road,NH Road,793,60,Normal,0,0,0,39.97,MEDIUM
+Nilgiris,Nilgiris Ring Road,Main Road,537,40,Normal,1,0,0,47.02,MEDIUM
+Nilgiris,Nilgiris Ring Road,NH Road,132,47,Clear,0,1,0,20.8,LOW
+Nilgiris,Nilgiris Highway Road,Market Road,678,20,Clear,0,0,0,51.94,MEDIUM
+Nilgiris,Nilgiris Highway Road,Bus Stand Road,885,58,Rain,1,0,1,64.97,MEDIUM
+Nilgiris,Nilgiris Main Road,Town Road,174,26,Rain,0,1,1,41.69,MEDIUM
+Nilgiris,Nilgiris Market Road,Ring Road,106,54,Normal,1,0,0,21.63,LOW
+Nilgiris,Nilgiris Market Road,Ring Road,254,31,Cloudy,0,0,1,38.14,MEDIUM
+Nilgiris,Nilgiris Bus Stand Road,NH Road,293,64,Clear,0,0,0,15.76,LOW
+Nilgiris,Nilgiris NH Road,Ring Road,646,53,Rain,0,0,0,36.36,MEDIUM
+Nilgiris,Nilgiris Bus Stand Road,Town Road,335,57,Rain,0,0,0,20.65,LOW
+Nilgiris,Nilgiris Highway Road,NH Road,338,28,Normal,0,0,0,33.21,LOW
+Nilgiris,Nilgiris Highway Road,Highway Road,126,43,Normal,0,1,0,22.24,LOW
+Nilgiris,Nilgiris Bus Stand Road,NH Road,303,28,Cloudy,1,0,0,41.63,MEDIUM
+Nilgiris,Nilgiris Ring Road,Town Road,874,28,Cloudy,0,1,0,62.33,MEDIUM
+Nilgiris,Nilgiris NH Road,Highway Road,315,20,Clear,0,1,0,40.6,MEDIUM
+Nilgiris,Nilgiris Ring Road,Ring Road,107,39,Rain,1,1,0,33.1,LOW
+Nilgiris,Nilgiris NH Road,Town Road,956,19,Normal,1,0,0,74.88,HIGH
+Nilgiris,Nilgiris Market Road,Bus Stand Road,116,32,Clear,0,0,0,21.51,LOW
+Nilgiris,Nilgiris Main Road,Main Road,231,48,Cloudy,0,0,1,29.82,LOW
+Nilgiris,Nilgiris Bus Stand Road,Town Road,987,62,Cloudy,0,0,1,57.84,MEDIUM
+Nilgiris,Nilgiris NH Road,Bus Stand Road,278,48,Clear,0,0,0,21.94,LOW
+Nilgiris,Nilgiris Bypass Road,Ring Road,609,28,Clear,0,1,0,50.41,MEDIUM
+Nilgiris,Nilgiris Main Road,Bus Stand Road,902,16,Normal,0,0,1,73.73,HIGH
+Nilgiris,Nilgiris NH Road,Main Road,147,49,Rain,1,0,0,25.61,LOW
+Nilgiris,Nilgiris Highway Road,Highway Road,328,20,Normal,1,0,0,46.19,MEDIUM
+Nilgiris,Nilgiris Bypass Road,Highway Road,976,49,Normal,1,0,0,62.92,MEDIUM
+Nilgiris,Nilgiris Highway Road,Highway Road,363,23,Cloudy,0,0,0,36.48,MEDIUM
+Nilgiris,Nilgiris NH Road,NH Road,228,29,Normal,0,0,0,27.83,LOW
+Nilgiris,Nilgiris Bypass Road,Bus Stand Road,389,54,Rain,0,0,0,24.36,LOW
+Nilgiris,Nilgiris Ring Road,Town Road,436,60,Rain,1,0,0,33.91,LOW
+Nilgiris,Nilgiris Market Road,Bus Stand Road,777,24,Clear,0,1,0,59.68,MEDIUM
+Nilgiris,Nilgiris Town Road,Ring Road,246,55,Clear,0,0,0,17.5,LOW
+Nilgiris,Nilgiris Town Road,Highway Road,685,45,Cloudy,1,0,0,51.54,MEDIUM
+Nilgiris,Nilgiris Bypass Road,Ring Road,564,54,Rain,0,1,0,37.24,MEDIUM
+Nilgiris,Nilgiris NH Road,Ring Road,290,31,Rain,0,1,1,44.76,MEDIUM
+Nilgiris,Nilgiris Bus Stand Road,NH Road,164,65,Cloudy,0,1,0,14.52,LOW
+Nilgiris,Nilgiris Bus Stand Road,Ring Road,568,68,Rain,0,0,0,26.42,LOW
+Nilgiris,Nilgiris Market Road,Bus Stand Road,563,42,Cloudy,0,0,1,47.33,MEDIUM
+Nilgiris,Nilgiris Main Road,Ring Road,894,16,Cloudy,0,0,0,63.37,MEDIUM
+Nilgiris,Nilgiris NH Road,Bus Stand Road,810,48,Cloudy,0,0,0,45.88,MEDIUM
+Nilgiris,Nilgiris Bypass Road,Main Road,963,63,Normal,0,1,0,51.34,MEDIUM
+Nilgiris,Nilgiris Ring Road,Bus Stand Road,403,39,Rain,1,1,1,56.42,MEDIUM
+Nilgiris,Nilgiris NH Road,Main Road,100,19,Normal,0,0,0,26.36,LOW
+Nilgiris,Nilgiris Town Road,Bus Stand Road,243,24,Normal,1,0,0,40.65,MEDIUM
+Nilgiris,Nilgiris NH Road,Market Road,500,52,Rain,0,0,0,30.21,LOW
+Nilgiris,Nilgiris Highway Road,Bus Stand Road,243,40,Rain,0,0,0,23.79,LOW
+Nilgiris,Nilgiris NH Road,Highway Road,878,35,Cloudy,0,0,0,54.51,MEDIUM
+Nilgiris,Nilgiris Bus Stand Road,NH Road,776,43,Rain,0,0,1,56.49,MEDIUM
+Nilgiris,Nilgiris NH Road,Highway Road,996,32,Normal,0,1,0,66.11,MEDIUM
+Nilgiris,Nilgiris NH Road,NH Road,699,25,Rain,1,0,0,60.74,MEDIUM
+Nilgiris,Nilgiris Main Road,NH Road,347,70,Rain,1,1,1,40.61,MEDIUM
+Nilgiris,Nilgiris Town Road,Bypass Road,962,61,Rain,0,0,0,47.15,MEDIUM
+Nilgiris,Nilgiris Highway Road,Market Road,185,15,Normal,0,1,0,36.9,MEDIUM
+Nilgiris,Nilgiris Town Road,Main Road,781,32,Clear,0,1,1,66.43,MEDIUM
+Nilgiris,Nilgiris Market Road,Ring Road,704,68,Normal,0,0,0,32.54,LOW
+Nilgiris,Nilgiris Highway Road,Main Road,934,40,Normal,0,0,1,64.89,MEDIUM
+Nilgiris,Nilgiris Bus Stand Road,Main Road,932,66,Rain,1,0,0,53.65,MEDIUM
+Nilgiris,Nilgiris Bypass Road,Ring Road,201,33,Rain,1,0,1,44.9,MEDIUM
+Nilgiris,Nilgiris Ring Road,Highway Road,460,30,Rain,0,1,0,42.84,MEDIUM
+Nilgiris,Nilgiris Town Road,Ring Road,887,65,Cloudy,0,0,0,42.06,MEDIUM
+Nilgiris,Nilgiris Market Road,Ring Road,964,46,Rain,0,0,0,53.67,MEDIUM
+Nilgiris,Nilgiris Highway Road,Bus Stand Road,203,61,Normal,0,1,0,17.99,LOW
+Nilgiris,Nilgiris Highway Road,Ring Road,307,31,Cloudy,1,0,0,40.53,MEDIUM
+Nilgiris,Nilgiris Bypass Road,Bypass Road,272,35,Cloudy,0,0,0,27.24,LOW
+Nilgiris,Nilgiris NH Road,Town Road,507,54,Rain,0,0,0,29.67,LOW

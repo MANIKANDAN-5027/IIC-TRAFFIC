@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Tiruchirappalli,Tiruchirappalli NH Road,Town Road,309,49,Normal,1,0,1,42.91,MEDIUM
+Tiruchirappalli,Tiruchirappalli Ring Road,Bypass Road,245,26,Normal,0,0,0,29.88,LOW
+Tiruchirappalli,Tiruchirappalli NH Road,Highway Road,911,22,Clear,1,0,0,71.57,HIGH
+Tiruchirappalli,Tiruchirappalli Main Road,Bus Stand Road,565,31,Cloudy,0,0,1,52.14,MEDIUM
+Tiruchirappalli,Tiruchirappalli Ring Road,Bus Stand Road,877,34,Clear,0,0,0,54.89,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Market Road,763,40,Rain,0,0,0,47.19,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bypass Road,Highway Road,873,20,Normal,0,0,0,60.71,MEDIUM
+Tiruchirappalli,Tiruchirappalli Town Road,Ring Road,284,39,Rain,0,0,0,26.07,LOW
+Tiruchirappalli,Tiruchirappalli NH Road,Highway Road,196,29,Rain,0,1,1,41.39,MEDIUM
+Tiruchirappalli,Tiruchirappalli Ring Road,Ring Road,837,50,Rain,0,0,0,46.24,MEDIUM
+Tiruchirappalli,Tiruchirappalli NH Road,NH Road,214,39,Rain,0,0,0,22.92,LOW
+Tiruchirappalli,Tiruchirappalli Town Road,Bypass Road,649,52,Normal,0,0,1,46.92,MEDIUM
+Tiruchirappalli,Tiruchirappalli Market Road,Highway Road,361,45,Normal,1,1,0,41.96,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bypass Road,Main Road,160,15,Cloudy,0,0,1,40.77,MEDIUM
+Tiruchirappalli,Tiruchirappalli Highway Road,Bypass Road,548,67,Cloudy,0,0,0,25.95,LOW
+Tiruchirappalli,Tiruchirappalli Town Road,Market Road,187,42,Normal,0,0,0,20.41,LOW
+Tiruchirappalli,Tiruchirappalli Market Road,Bypass Road,722,61,Rain,0,0,0,36.35,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,NH Road,622,42,Cloudy,0,1,0,44.99,MEDIUM
+Tiruchirappalli,Tiruchirappalli Town Road,Bus Stand Road,687,48,Cloudy,1,0,0,50.34,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Market Road,831,69,Normal,0,0,0,37.82,MEDIUM
+Tiruchirappalli,Tiruchirappalli Ring Road,Main Road,802,62,Cloudy,0,0,0,39.52,MEDIUM
+Tiruchirappalli,Tiruchirappalli Main Road,Town Road,879,28,Cloudy,0,0,0,57.55,MEDIUM
+Tiruchirappalli,Tiruchirappalli NH Road,Main Road,912,33,Clear,1,1,0,71.9,HIGH
+Tiruchirappalli,Tiruchirappalli NH Road,Town Road,628,48,Clear,0,0,0,37.69,MEDIUM
+Tiruchirappalli,Tiruchirappalli Market Road,Bus Stand Road,123,52,Normal,0,1,0,18.25,LOW
+Tiruchirappalli,Tiruchirappalli Main Road,Ring Road,306,44,Rain,1,0,1,44.91,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bypass Road,Town Road,656,68,Cloudy,0,1,1,45.38,MEDIUM
+Tiruchirappalli,Tiruchirappalli Market Road,Town Road,141,18,Clear,0,0,0,28.63,LOW
+Tiruchirappalli,Tiruchirappalli NH Road,NH Road,199,61,Rain,0,1,0,17.81,LOW
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Bypass Road,194,57,Cloudy,0,0,0,14.3,LOW
+Tiruchirappalli,Tiruchirappalli Ring Road,Market Road,118,27,Rain,0,0,0,23.74,LOW
+Tiruchirappalli,Tiruchirappalli Main Road,Highway Road,880,30,Rain,0,1,1,71.74,HIGH
+Tiruchirappalli,Tiruchirappalli Town Road,Town Road,484,51,Normal,0,0,0,29.92,LOW
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Bypass Road,251,60,Clear,0,0,0,15.58,LOW
+Tiruchirappalli,Tiruchirappalli Market Road,Highway Road,929,23,Rain,0,0,0,61.95,MEDIUM
+Tiruchirappalli,Tiruchirappalli Ring Road,NH Road,101,24,Normal,1,0,0,34.26,LOW
+Tiruchirappalli,Tiruchirappalli Market Road,Ring Road,368,59,Cloudy,0,0,1,31.27,LOW
+Tiruchirappalli,Tiruchirappalli Highway Road,Main Road,521,34,Clear,0,0,0,38.87,MEDIUM
+Tiruchirappalli,Tiruchirappalli Ring Road,NH Road,401,20,Clear,0,0,0,39.47,MEDIUM
+Tiruchirappalli,Tiruchirappalli Ring Road,Main Road,803,41,Rain,0,0,0,48.56,MEDIUM
+Tiruchirappalli,Tiruchirappalli Main Road,Highway Road,781,70,Cloudy,1,0,0,45.15,MEDIUM
+Tiruchirappalli,Tiruchirappalli Main Road,Main Road,324,18,Clear,0,1,1,51.87,MEDIUM
+Tiruchirappalli,Tiruchirappalli NH Road,Main Road,230,50,Clear,0,0,1,28.92,LOW
+Tiruchirappalli,Tiruchirappalli Town Road,NH Road,840,62,Rain,0,0,0,41.23,MEDIUM
+Tiruchirappalli,Tiruchirappalli Main Road,Highway Road,191,23,Normal,0,0,0,28.74,LOW
+Tiruchirappalli,Tiruchirappalli Bypass Road,Town Road,545,63,Clear,0,0,0,27.53,LOW
+Tiruchirappalli,Tiruchirappalli Town Road,Market Road,996,34,Rain,0,0,1,70.25,HIGH
+Tiruchirappalli,Tiruchirappalli Ring Road,Market Road,492,67,Clear,0,0,0,23.43,LOW
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Bypass Road,474,46,Cloudy,0,0,1,41.62,MEDIUM
+Tiruchirappalli,Tiruchirappalli Town Road,Bus Stand Road,458,50,Cloudy,1,0,1,49.18,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Town Road,425,63,Normal,0,0,1,32.12,LOW
+Tiruchirappalli,Tiruchirappalli Ring Road,Town Road,103,47,Cloudy,1,1,1,39.49,MEDIUM
+Tiruchirappalli,Tiruchirappalli Town Road,Highway Road,976,23,Rain,0,0,1,74.06,HIGH
+Tiruchirappalli,Tiruchirappalli NH Road,Bus Stand Road,909,54,Clear,0,1,1,62.76,MEDIUM
+Tiruchirappalli,Tiruchirappalli Town Road,NH Road,754,28,Rain,0,0,0,51.93,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Market Road,612,51,Rain,1,0,0,45.68,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bypass Road,Town Road,984,32,Normal,0,0,0,60.57,MEDIUM
+Tiruchirappalli,Tiruchirappalli Ring Road,Town Road,660,24,Rain,0,0,0,49.41,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bypass Road,Bus Stand Road,719,62,Clear,0,0,0,35.78,MEDIUM
+Tiruchirappalli,Tiruchirappalli NH Road,NH Road,509,57,Normal,0,0,0,28.48,LOW
+Tiruchirappalli,Tiruchirappalli Market Road,Main Road,892,27,Normal,0,0,1,68.57,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,NH Road,339,34,Rain,0,0,0,30.68,LOW
+Tiruchirappalli,Tiruchirappalli Town Road,Bypass Road,700,66,Clear,1,0,1,53.21,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,NH Road,455,69,Cloudy,0,0,0,20.9,LOW
+Tiruchirappalli,Tiruchirappalli NH Road,Bus Stand Road,934,38,Cloudy,0,0,0,55.74,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bypass Road,Town Road,983,16,Clear,0,1,0,72.38,HIGH
+Tiruchirappalli,Tiruchirappalli Town Road,Main Road,943,30,Clear,1,0,0,69.58,MEDIUM
+Tiruchirappalli,Tiruchirappalli Highway Road,Main Road,307,25,Clear,0,0,0,33.1,LOW
+Tiruchirappalli,Tiruchirappalli Market Road,Bypass Road,191,66,Normal,0,0,0,10.31,LOW
+Tiruchirappalli,Tiruchirappalli NH Road,Highway Road,932,22,Normal,0,0,1,72.51,HIGH
+Tiruchirappalli,Tiruchirappalli Ring Road,Main Road,146,64,Rain,0,1,0,14.14,LOW
+Tiruchirappalli,Tiruchirappalli Ring Road,Main Road,200,52,Clear,0,1,0,21.71,LOW
+Tiruchirappalli,Tiruchirappalli Ring Road,Bus Stand Road,178,28,Clear,1,0,0,36.01,MEDIUM
+Tiruchirappalli,Tiruchirappalli Highway Road,Bus Stand Road,123,45,Normal,0,1,0,21.25,LOW
+Tiruchirappalli,Tiruchirappalli NH Road,Town Road,713,63,Clear,0,0,1,45.09,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Market Road,536,16,Normal,0,1,0,52.26,MEDIUM
+Tiruchirappalli,Tiruchirappalli Highway Road,Ring Road,357,45,Cloudy,1,0,0,36.78,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Bypass Road,141,43,Clear,1,0,0,27.92,LOW
+Tiruchirappalli,Tiruchirappalli Main Road,Main Road,789,61,Cloudy,0,0,1,49.36,MEDIUM
+Tiruchirappalli,Tiruchirappalli Market Road,Town Road,766,31,Cloudy,0,0,0,51.18,MEDIUM
+Tiruchirappalli,Tiruchirappalli Town Road,Town Road,266,67,Rain,0,1,0,18.26,LOW
+Tiruchirappalli,Tiruchirappalli Main Road,Town Road,967,44,Normal,0,1,1,69.66,MEDIUM
+Tiruchirappalli,Tiruchirappalli NH Road,Market Road,798,58,Rain,0,0,1,51.05,MEDIUM
+Tiruchirappalli,Tiruchirappalli Main Road,NH Road,813,62,Normal,0,0,0,40.01,MEDIUM
+Tiruchirappalli,Tiruchirappalli Main Road,Highway Road,405,67,Clear,0,1,0,24.51,LOW
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Bypass Road,322,27,Cloudy,0,0,0,32.92,LOW
+Tiruchirappalli,Tiruchirappalli Bypass Road,Bypass Road,819,62,Clear,0,0,0,40.28,MEDIUM
+Tiruchirappalli,Tiruchirappalli Town Road,NH Road,325,16,Clear,0,0,0,37.77,MEDIUM
+Tiruchirappalli,Tiruchirappalli NH Road,Ring Road,423,69,Clear,0,0,0,19.46,LOW
+Tiruchirappalli,Tiruchirappalli Town Road,Market Road,486,45,Cloudy,0,1,0,37.58,MEDIUM
+Tiruchirappalli,Tiruchirappalli NH Road,NH Road,783,70,Clear,0,0,0,35.23,MEDIUM
+Tiruchirappalli,Tiruchirappalli Town Road,Bypass Road,433,16,Cloudy,0,0,1,52.63,MEDIUM
+Tiruchirappalli,Tiruchirappalli Highway Road,Market Road,602,47,Rain,1,0,0,46.95,MEDIUM
+Tiruchirappalli,Tiruchirappalli Highway Road,Highway Road,428,62,Rain,0,0,0,22.69,LOW
+Tiruchirappalli,Tiruchirappalli Highway Road,NH Road,926,21,Rain,0,0,0,62.67,MEDIUM
+Tiruchirappalli,Tiruchirappalli Highway Road,Bus Stand Road,470,31,Cloudy,0,1,0,42.86,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bypass Road,Town Road,851,39,Rain,0,0,0,51.58,MEDIUM
+Tiruchirappalli,Tiruchirappalli Bus Stand Road,Main Road,890,32,Rain,1,1,1,81.34,HIGH
+Tiruchirappalli,Tiruchirappalli Market Road,Main Road,166,43,Normal,0,0,1,29.04,LOW
+Tiruchirappalli,Tiruchirappalli Market Road,Highway Road,225,38,Clear,1,0,1,43.84,MEDIUM

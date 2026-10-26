@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Namakkal,Namakkal Bypass Road,NH Road,866,70,Normal,1,1,0,53.97,MEDIUM
+Namakkal,Namakkal Bus Stand Road,Bus Stand Road,401,61,Rain,0,0,0,21.9,LOW
+Namakkal,Namakkal Highway Road,Highway Road,635,58,Cloudy,0,0,0,33.72,LOW
+Namakkal,Namakkal Main Road,Ring Road,438,62,Normal,0,0,1,33.14,LOW
+Namakkal,Namakkal Bypass Road,Market Road,283,24,Cloudy,1,0,0,42.45,MEDIUM
+Namakkal,Namakkal Main Road,Highway Road,810,21,Cloudy,1,0,0,67.45,MEDIUM
+Namakkal,Namakkal Market Road,Bypass Road,168,37,Rain,0,0,0,21.7,LOW
+Namakkal,Namakkal Town Road,Bypass Road,940,70,Cloudy,1,0,0,52.3,MEDIUM
+Namakkal,Namakkal Bypass Road,Bus Stand Road,179,52,Rain,0,0,0,15.77,LOW
+Namakkal,Namakkal Bypass Road,Highway Road,677,21,Cloudy,0,1,0,56.47,MEDIUM
+Namakkal,Namakkal Bus Stand Road,Bus Stand Road,272,15,Cloudy,0,0,0,35.81,MEDIUM
+Namakkal,Namakkal Main Road,Bus Stand Road,586,70,Normal,0,0,0,26.37,LOW
+Namakkal,Namakkal NH Road,Market Road,535,57,Normal,1,0,0,39.65,MEDIUM
+Namakkal,Namakkal Bypass Road,Ring Road,486,64,Clear,1,1,0,39.44,MEDIUM
+Namakkal,Namakkal Bus Stand Road,Town Road,719,68,Normal,0,0,0,33.21,LOW
+Namakkal,Namakkal Ring Road,Bus Stand Road,601,59,Clear,0,0,1,41.76,MEDIUM
+Namakkal,Namakkal Market Road,Market Road,986,38,Normal,1,0,1,78.08,HIGH
+Namakkal,Namakkal Ring Road,Market Road,483,26,Clear,0,0,1,50.59,MEDIUM
+Namakkal,Namakkal Bypass Road,Main Road,700,34,Rain,0,0,0,46.93,MEDIUM
+Namakkal,Namakkal Main Road,Bypass Road,134,56,Rain,0,1,1,27.03,LOW
+Namakkal,Namakkal Highway Road,Bus Stand Road,740,18,Normal,0,1,1,70.59,HIGH
+Namakkal,Namakkal Main Road,Bus Stand Road,867,70,Cloudy,0,0,0,39.02,MEDIUM
+Namakkal,Namakkal NH Road,Main Road,991,69,Normal,0,0,1,55.02,MEDIUM
+Namakkal,Namakkal Bypass Road,Market Road,752,60,Clear,0,0,0,38.13,MEDIUM
+Namakkal,Namakkal Main Road,Town Road,440,68,Normal,0,0,0,20.66,LOW
+Namakkal,Namakkal Bus Stand Road,Bypass Road,957,57,Clear,0,0,0,48.64,MEDIUM
+Namakkal,Namakkal Town Road,Bus Stand Road,276,43,Clear,0,0,0,23.99,LOW
+Namakkal,Namakkal Highway Road,NH Road,418,32,Normal,0,0,0,35.1,MEDIUM
+Namakkal,Namakkal Bus Stand Road,Ring Road,190,22,Clear,0,0,0,29.12,LOW
+Namakkal,Namakkal Highway Road,NH Road,885,25,Cloudy,0,0,0,59.11,MEDIUM
+Namakkal,Namakkal Main Road,Town Road,415,68,Rain,0,0,0,19.53,LOW
+Namakkal,Namakkal Market Road,Market Road,282,32,Rain,0,0,1,38.98,MEDIUM
+Namakkal,Namakkal Bypass Road,NH Road,304,26,Normal,0,0,1,42.54,MEDIUM
+Namakkal,Namakkal Bus Stand Road,Main Road,463,52,Normal,0,0,1,38.55,MEDIUM
+Namakkal,Namakkal Bypass Road,Market Road,259,49,Rain,0,1,0,25.66,LOW
+Namakkal,Namakkal Bypass Road,Market Road,816,47,Normal,0,0,0,46.58,MEDIUM
+Namakkal,Namakkal Bus Stand Road,Highway Road,367,17,Rain,0,0,1,49.23,MEDIUM
+Namakkal,Namakkal NH Road,Ring Road,481,51,Clear,1,0,0,39.79,MEDIUM
+Namakkal,Namakkal NH Road,Bus Stand Road,262,41,Rain,1,0,0,34.22,LOW
+Namakkal,Namakkal Highway Road,Highway Road,413,25,Normal,1,0,0,47.87,MEDIUM
+Namakkal,Namakkal Ring Road,Ring Road,848,40,Normal,1,0,0,61.02,MEDIUM
+Namakkal,Namakkal NH Road,Town Road,794,40,Normal,0,0,0,48.59,MEDIUM
+Namakkal,Namakkal Bus Stand Road,Bypass Road,892,32,Cloudy,1,0,0,66.43,MEDIUM
+Namakkal,Namakkal Main Road,NH Road,681,63,Rain,0,0,0,33.65,LOW
+Namakkal,Namakkal Town Road,Bus Stand Road,911,64,Normal,0,0,1,53.57,MEDIUM
+Namakkal,Namakkal Bypass Road,Bypass Road,100,57,Clear,0,0,0,10.07,LOW
+Namakkal,Namakkal Market Road,Bus Stand Road,289,30,Rain,0,1,0,35.15,MEDIUM
+Namakkal,Namakkal Highway Road,Town Road,105,45,Cloudy,0,0,0,15.44,LOW
+Namakkal,Namakkal NH Road,Town Road,583,57,Cloudy,1,1,0,46.81,MEDIUM
+Namakkal,Namakkal Bypass Road,Town Road,425,63,Normal,0,1,0,27.12,LOW
+Namakkal,Namakkal Market Road,Bus Stand Road,646,19,Cloudy,0,1,0,55.93,MEDIUM
+Namakkal,Namakkal NH Road,Market Road,477,38,Cloudy,0,0,1,45.18,MEDIUM
+Namakkal,Namakkal Town Road,NH Road,611,27,Rain,0,0,0,45.92,MEDIUM
+Namakkal,Namakkal Bypass Road,Bypass Road,493,56,Normal,0,1,0,33.19,LOW
+Namakkal,Namakkal Town Road,Bus Stand Road,791,67,Cloudy,1,0,0,46.88,MEDIUM
+Namakkal,Namakkal Ring Road,NH Road,507,58,Normal,0,1,0,32.96,LOW
+Namakkal,Namakkal Bus Stand Road,Town Road,922,66,Normal,0,0,0,43.2,MEDIUM
+Namakkal,Namakkal Bypass Road,Town Road,111,46,Rain,1,1,0,30.28,LOW
+Namakkal,Namakkal Highway Road,Ring Road,859,55,Rain,0,1,0,50.08,MEDIUM
+Namakkal,Namakkal NH Road,Bus Stand Road,214,65,Clear,0,1,1,26.77,LOW
+Namakkal,Namakkal Town Road,Main Road,445,60,Normal,0,0,1,34.31,LOW
+Namakkal,Namakkal Ring Road,Main Road,388,17,Rain,0,1,1,55.17,MEDIUM
+Namakkal,Namakkal Bypass Road,Bus Stand Road,358,42,Rain,0,0,0,28.11,LOW
+Namakkal,Namakkal Bypass Road,Main Road,465,41,Clear,0,1,0,38.35,MEDIUM
+Namakkal,Namakkal Bus Stand Road,NH Road,465,61,Clear,0,1,0,29.78,LOW
+Namakkal,Namakkal Bypass Road,Ring Road,229,61,Normal,0,1,1,29.16,LOW
+Namakkal,Namakkal NH Road,Ring Road,805,54,Rain,0,1,0,48.08,MEDIUM
+Namakkal,Namakkal Ring Road,Bypass Road,139,24,Normal,0,1,0,30.97,LOW
+Namakkal,Namakkal Town Road,NH Road,510,16,Cloudy,0,0,0,46.09,MEDIUM
+Namakkal,Namakkal Ring Road,Highway Road,684,31,Cloudy,0,0,0,47.49,MEDIUM
+Namakkal,Namakkal Main Road,Town Road,878,42,Cloudy,0,0,0,51.51,MEDIUM
+Namakkal,Namakkal Market Road,Main Road,794,33,Normal,0,0,1,61.59,MEDIUM
+Namakkal,Namakkal Ring Road,NH Road,772,23,Cloudy,0,0,1,64.88,MEDIUM
+Namakkal,Namakkal Bypass Road,Highway Road,330,16,Normal,0,0,0,37.99,MEDIUM
+Namakkal,Namakkal Main Road,Ring Road,750,53,Rain,0,1,1,56.04,MEDIUM
+Namakkal,Namakkal Highway Road,Market Road,427,37,Cloudy,1,0,1,53.36,MEDIUM
+Namakkal,Namakkal NH Road,Highway Road,789,39,Rain,0,1,0,53.79,MEDIUM
+Namakkal,Namakkal Ring Road,Highway Road,185,28,Normal,0,0,0,26.32,LOW
+Namakkal,Namakkal Town Road,Main Road,130,24,Rain,0,0,1,35.56,MEDIUM
+Namakkal,Namakkal Bus Stand Road,Town Road,669,62,Clear,1,0,1,53.53,MEDIUM
+Namakkal,Namakkal Bypass Road,Bus Stand Road,199,40,Cloudy,0,0,0,21.81,LOW
+Namakkal,Namakkal Market Road,Town Road,885,64,Rain,1,1,0,57.4,MEDIUM
+Namakkal,Namakkal Town Road,Market Road,427,64,Normal,0,0,0,21.79,LOW
+Namakkal,Namakkal Bus Stand Road,Bus Stand Road,606,63,Normal,1,0,1,50.27,MEDIUM
+Namakkal,Namakkal NH Road,Town Road,395,15,Normal,0,1,0,46.35,MEDIUM
+Namakkal,Namakkal Bus Stand Road,NH Road,528,41,Normal,0,0,0,36.19,MEDIUM
+Namakkal,Namakkal NH Road,Ring Road,123,35,Clear,0,0,1,30.54,LOW
+Namakkal,Namakkal Highway Road,Ring Road,860,53,Cloudy,1,0,0,55.99,MEDIUM
+Namakkal,Namakkal Bypass Road,NH Road,279,45,Clear,0,0,0,23.27,LOW
+Namakkal,Namakkal Highway Road,Market Road,311,51,Cloudy,1,1,0,37.14,MEDIUM
+Namakkal,Namakkal Market Road,Highway Road,572,47,Clear,0,0,0,35.6,MEDIUM
+Namakkal,Namakkal Town Road,NH Road,107,62,Normal,0,1,1,23.24,LOW
+Namakkal,Namakkal Highway Road,Main Road,366,60,Rain,0,0,1,30.76,LOW
+Namakkal,Namakkal Highway Road,Town Road,931,40,Clear,0,0,1,64.75,MEDIUM
+Namakkal,Namakkal Ring Road,Town Road,206,24,Rain,0,0,0,28.98,LOW
+Namakkal,Namakkal NH Road,Ring Road,245,30,Clear,1,0,0,38.17,MEDIUM
+Namakkal,Namakkal Ring Road,Bypass Road,569,60,Normal,1,0,0,39.89,MEDIUM
+Namakkal,Namakkal Main Road,Bus Stand Road,438,65,Cloudy,1,0,0,31.85,LOW
+Namakkal,Namakkal Ring Road,Bypass Road,634,33,Rain,0,0,0,44.39,MEDIUM
+Namakkal,Namakkal Bypass Road,Bus Stand Road,833,25,Cloudy,0,1,1,71.77,HIGH

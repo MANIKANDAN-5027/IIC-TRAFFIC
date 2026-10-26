@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Coimbatore,Coimbatore NH Road,Bus Stand Road,614,67,Cloudy,1,0,0,38.92,MEDIUM
+Coimbatore,Coimbatore Town Road,NH Road,296,54,Rain,0,0,0,20.18,LOW
+Coimbatore,Coimbatore NH Road,Main Road,515,44,Clear,0,0,0,34.32,LOW
+Coimbatore,Coimbatore Main Road,Bus Stand Road,515,39,Clear,1,1,0,51.46,MEDIUM
+Coimbatore,Coimbatore Main Road,Market Road,611,69,Cloudy,1,0,0,37.92,MEDIUM
+Coimbatore,Coimbatore NH Road,Bypass Road,988,59,Clear,1,0,0,59.17,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Town Road,283,69,Clear,0,0,0,13.16,LOW
+Coimbatore,Coimbatore Town Road,Bus Stand Road,406,25,Clear,0,1,0,42.56,MEDIUM
+Coimbatore,Coimbatore Town Road,Market Road,612,62,Clear,0,0,0,30.97,LOW
+Coimbatore,Coimbatore Bypass Road,Highway Road,448,53,Normal,1,0,0,37.45,MEDIUM
+Coimbatore,Coimbatore Town Road,NH Road,333,37,Rain,1,1,0,44.13,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Town Road,917,30,Cloudy,0,0,0,58.41,MEDIUM
+Coimbatore,Coimbatore NH Road,Main Road,857,39,Rain,0,0,0,51.85,MEDIUM
+Coimbatore,Coimbatore NH Road,Bus Stand Road,555,38,Normal,0,0,0,38.69,MEDIUM
+Coimbatore,Coimbatore NH Road,Ring Road,559,50,Clear,1,0,0,43.73,MEDIUM
+Coimbatore,Coimbatore Bypass Road,Town Road,711,53,Normal,0,1,0,44.28,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Bus Stand Road,897,20,Rain,0,0,1,71.79,HIGH
+Coimbatore,Coimbatore Bus Stand Road,Town Road,408,32,Rain,1,0,0,44.65,MEDIUM
+Coimbatore,Coimbatore Bypass Road,Market Road,531,34,Normal,1,0,0,49.32,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Bypass Road,708,54,Clear,0,1,0,43.72,MEDIUM
+Coimbatore,Coimbatore Ring Road,Town Road,505,36,Cloudy,1,0,1,57.3,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Town Road,407,35,Rain,0,1,0,38.31,MEDIUM
+Coimbatore,Coimbatore Town Road,Bypass Road,398,62,Normal,1,0,0,31.34,LOW
+Coimbatore,Coimbatore Highway Road,Market Road,473,22,Normal,0,0,0,41.86,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Bypass Road,916,33,Cloudy,0,1,1,72.08,HIGH
+Coimbatore,Coimbatore NH Road,Highway Road,358,57,Normal,0,1,1,36.68,MEDIUM
+Coimbatore,Coimbatore NH Road,NH Road,696,40,Cloudy,1,0,0,54.18,MEDIUM
+Coimbatore,Coimbatore Town Road,Ring Road,773,57,Normal,0,0,0,40.36,MEDIUM
+Coimbatore,Coimbatore Market Road,Highway Road,208,15,Rain,0,0,0,32.93,LOW
+Coimbatore,Coimbatore Highway Road,NH Road,500,44,Rain,0,0,0,33.64,LOW
+Coimbatore,Coimbatore Bypass Road,Ring Road,525,20,Normal,0,0,0,45.05,MEDIUM
+Coimbatore,Coimbatore NH Road,Highway Road,903,28,Normal,1,0,1,78.63,HIGH
+Coimbatore,Coimbatore Main Road,Ring Road,426,19,Clear,0,0,0,41.03,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Ring Road,793,66,Normal,0,0,0,37.4,MEDIUM
+Coimbatore,Coimbatore Town Road,Town Road,573,29,Clear,1,0,0,53.36,MEDIUM
+Coimbatore,Coimbatore Town Road,Main Road,855,54,Cloudy,0,1,1,60.33,MEDIUM
+Coimbatore,Coimbatore Ring Road,Ring Road,310,32,Cloudy,0,0,0,30.24,LOW
+Coimbatore,Coimbatore Town Road,Town Road,568,22,Clear,0,1,0,51.13,MEDIUM
+Coimbatore,Coimbatore NH Road,Bus Stand Road,456,37,Rain,1,0,0,44.66,MEDIUM
+Coimbatore,Coimbatore Ring Road,Bus Stand Road,220,30,Normal,0,0,0,27.04,LOW
+Coimbatore,Coimbatore Bus Stand Road,Highway Road,528,53,Cloudy,0,1,1,46.05,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Ring Road,668,25,Normal,1,0,0,59.35,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Market Road,734,18,Normal,0,0,1,65.32,MEDIUM
+Coimbatore,Coimbatore Town Road,Highway Road,675,47,Normal,1,1,1,65.23,MEDIUM
+Coimbatore,Coimbatore Main Road,Bypass Road,271,20,Cloudy,0,0,0,33.62,LOW
+Coimbatore,Coimbatore NH Road,NH Road,650,33,Rain,0,1,1,60.11,MEDIUM
+Coimbatore,Coimbatore Market Road,Town Road,893,49,Clear,0,0,1,59.19,MEDIUM
+Coimbatore,Coimbatore Highway Road,Bypass Road,853,68,Rain,0,0,0,39.24,MEDIUM
+Coimbatore,Coimbatore Market Road,Market Road,982,67,Rain,0,1,0,50.48,MEDIUM
+Coimbatore,Coimbatore Market Road,Market Road,981,60,Clear,1,0,0,58.43,MEDIUM
+Coimbatore,Coimbatore Bypass Road,Bypass Road,683,37,Rain,0,0,0,44.88,MEDIUM
+Coimbatore,Coimbatore Main Road,Bypass Road,978,47,Cloudy,0,0,1,63.87,MEDIUM
+Coimbatore,Coimbatore Ring Road,Market Road,818,70,Normal,0,0,0,36.81,MEDIUM
+Coimbatore,Coimbatore Highway Road,NH Road,601,24,Clear,0,1,1,61.76,MEDIUM
+Coimbatore,Coimbatore Highway Road,Ring Road,512,47,Clear,0,0,1,42.9,MEDIUM
+Coimbatore,Coimbatore NH Road,Town Road,989,64,Cloudy,0,1,0,52.08,MEDIUM
+Coimbatore,Coimbatore Ring Road,Bypass Road,539,67,Rain,0,1,0,30.54,LOW
+Coimbatore,Coimbatore Main Road,Main Road,660,51,Clear,0,1,0,42.84,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Highway Road,741,65,Normal,1,0,0,45.49,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Bypass Road,100,42,Clear,0,0,0,16.5,LOW
+Coimbatore,Coimbatore Bus Stand Road,Main Road,770,38,Normal,0,0,0,48.36,MEDIUM
+Coimbatore,Coimbatore NH Road,Main Road,740,34,Cloudy,0,1,0,53.73,MEDIUM
+Coimbatore,Coimbatore Main Road,Main Road,588,19,Rain,0,0,1,58.32,MEDIUM
+Coimbatore,Coimbatore NH Road,Market Road,936,22,Normal,1,0,1,82.69,HIGH
+Coimbatore,Coimbatore Ring Road,Bypass Road,191,61,Cloudy,0,0,0,12.45,LOW
+Coimbatore,Coimbatore Main Road,Bus Stand Road,491,64,Normal,0,0,0,24.67,LOW
+Coimbatore,Coimbatore Highway Road,Market Road,459,61,Clear,0,0,1,34.51,LOW
+Coimbatore,Coimbatore Town Road,Ring Road,202,23,Cloudy,0,1,0,34.23,LOW
+Coimbatore,Coimbatore Main Road,Bypass Road,353,32,Cloudy,0,0,0,32.17,LOW
+Coimbatore,Coimbatore Main Road,Market Road,630,53,Normal,0,1,0,40.64,MEDIUM
+Coimbatore,Coimbatore Main Road,Ring Road,495,22,Rain,0,1,0,47.85,MEDIUM
+Coimbatore,Coimbatore Highway Road,NH Road,235,39,Clear,1,0,0,33.86,LOW
+Coimbatore,Coimbatore Main Road,Main Road,701,19,Normal,0,0,0,53.4,MEDIUM
+Coimbatore,Coimbatore NH Road,Bus Stand Road,618,33,Rain,1,1,1,68.67,MEDIUM
+Coimbatore,Coimbatore Ring Road,Town Road,185,34,Clear,0,0,0,23.75,LOW
+Coimbatore,Coimbatore Market Road,NH Road,417,59,Normal,1,0,0,33.48,LOW
+Coimbatore,Coimbatore NH Road,Main Road,218,44,Cloudy,0,0,0,20.95,LOW
+Coimbatore,Coimbatore Bypass Road,Bus Stand Road,818,15,Rain,0,1,0,65.38,MEDIUM
+Coimbatore,Coimbatore Ring Road,Town Road,229,62,Rain,0,0,0,13.73,LOW
+Coimbatore,Coimbatore Highway Road,Ring Road,636,19,Clear,0,0,1,60.48,MEDIUM
+Coimbatore,Coimbatore Bypass Road,NH Road,611,69,Clear,0,0,0,27.92,LOW
+Coimbatore,Coimbatore Market Road,Main Road,333,62,Normal,0,0,0,18.41,LOW
+Coimbatore,Coimbatore Town Road,Market Road,472,39,Rain,0,0,0,34.53,LOW
+Coimbatore,Coimbatore Ring Road,NH Road,354,41,Clear,0,0,0,28.36,LOW
+Coimbatore,Coimbatore Highway Road,Bypass Road,283,29,Rain,0,1,0,35.31,MEDIUM
+Coimbatore,Coimbatore Market Road,Bypass Road,435,20,Rain,1,0,0,51.0,MEDIUM
+Coimbatore,Coimbatore Highway Road,Market Road,857,54,Cloudy,0,1,0,50.42,MEDIUM
+Coimbatore,Coimbatore Ring Road,Main Road,254,15,Rain,1,0,0,45.0,MEDIUM
+Coimbatore,Coimbatore Market Road,Market Road,101,63,Normal,1,0,0,17.55,LOW
+Coimbatore,Coimbatore Main Road,Market Road,603,18,Normal,0,0,0,49.42,MEDIUM
+Coimbatore,Coimbatore Bus Stand Road,Town Road,817,38,Clear,1,0,0,60.48,MEDIUM
+Coimbatore,Coimbatore Market Road,Bypass Road,706,51,Rain,0,1,0,44.91,MEDIUM
+Coimbatore,Coimbatore Highway Road,Bypass Road,971,35,Cloudy,1,0,0,68.69,MEDIUM
+Coimbatore,Coimbatore NH Road,Bus Stand Road,176,27,Normal,0,0,0,26.35,LOW
+Coimbatore,Coimbatore Market Road,Highway Road,577,35,Rain,1,0,0,50.96,MEDIUM
+Coimbatore,Coimbatore Bypass Road,Main Road,574,31,Cloudy,0,0,0,42.54,MEDIUM
+Coimbatore,Coimbatore Market Road,Ring Road,955,69,Normal,0,0,0,43.4,MEDIUM
+Coimbatore,Coimbatore Main Road,Town Road,625,18,Normal,0,0,0,50.41,MEDIUM
+Coimbatore,Coimbatore NH Road,Bus Stand Road,669,62,Clear,0,0,1,43.53,MEDIUM
+Coimbatore,Coimbatore Town Road,Ring Road,112,18,Clear,0,0,0,27.33,LOW

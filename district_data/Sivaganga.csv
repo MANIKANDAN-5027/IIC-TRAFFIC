@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Sivaganga,Sivaganga Ring Road,Bus Stand Road,553,65,Cloudy,0,0,0,27.03,LOW
+Sivaganga,Sivaganga NH Road,Town Road,258,51,Rain,0,1,0,24.75,LOW
+Sivaganga,Sivaganga Bus Stand Road,Market Road,773,69,Cloudy,0,0,0,35.21,MEDIUM
+Sivaganga,Sivaganga Ring Road,Bypass Road,432,56,Rain,0,0,0,25.44,LOW
+Sivaganga,Sivaganga Market Road,Bus Stand Road,527,22,Normal,1,1,1,69.29,MEDIUM
+Sivaganga,Sivaganga Bypass Road,Highway Road,396,30,Clear,0,0,0,34.96,LOW
+Sivaganga,Sivaganga Bus Stand Road,Highway Road,284,43,Clear,1,0,0,34.35,LOW
+Sivaganga,Sivaganga Highway Road,NH Road,265,18,Cloudy,0,0,1,44.21,MEDIUM
+Sivaganga,Sivaganga Bus Stand Road,Bus Stand Road,602,60,Clear,0,0,0,31.38,LOW
+Sivaganga,Sivaganga Town Road,Main Road,931,58,Cloudy,0,0,0,47.04,MEDIUM
+Sivaganga,Sivaganga Highway Road,Highway Road,277,17,Rain,0,0,1,45.18,MEDIUM
+Sivaganga,Sivaganga Market Road,Town Road,800,28,Clear,0,0,0,54.0,MEDIUM
+Sivaganga,Sivaganga Bypass Road,Bypass Road,917,68,Cloudy,0,0,0,42.12,MEDIUM
+Sivaganga,Sivaganga Highway Road,NH Road,497,56,Rain,0,0,0,28.36,LOW
+Sivaganga,Sivaganga Main Road,Bus Stand Road,955,70,Cloudy,0,0,0,42.98,MEDIUM
+Sivaganga,Sivaganga Bypass Road,Market Road,897,61,Normal,0,0,0,44.22,MEDIUM
+Sivaganga,Sivaganga Main Road,Town Road,383,56,Normal,0,0,0,23.23,LOW
+Sivaganga,Sivaganga Bus Stand Road,Town Road,184,28,Clear,1,0,0,36.28,MEDIUM
+Sivaganga,Sivaganga Bus Stand Road,NH Road,748,24,Normal,0,0,0,53.37,MEDIUM
+Sivaganga,Sivaganga NH Road,NH Road,519,44,Clear,0,0,0,34.5,LOW
+Sivaganga,Sivaganga Main Road,NH Road,491,40,Clear,0,0,0,34.95,LOW
+Sivaganga,Sivaganga Market Road,Market Road,557,23,Clear,0,1,0,50.21,MEDIUM
+Sivaganga,Sivaganga Ring Road,Market Road,400,51,Clear,0,1,1,41.14,MEDIUM
+Sivaganga,Sivaganga Bus Stand Road,Bypass Road,776,26,Cloudy,1,0,0,63.78,MEDIUM
+Sivaganga,Sivaganga Bus Stand Road,Ring Road,202,20,Clear,0,0,1,40.52,MEDIUM
+Sivaganga,Sivaganga Bypass Road,Town Road,690,57,Cloudy,0,0,0,36.62,MEDIUM
+Sivaganga,Sivaganga Town Road,NH Road,117,68,Clear,0,0,0,6.12,LOW
+Sivaganga,Sivaganga Main Road,NH Road,924,28,Cloudy,0,0,1,69.58,MEDIUM
+Sivaganga,Sivaganga Town Road,Ring Road,564,22,Rain,0,0,0,45.95,MEDIUM
+Sivaganga,Sivaganga Market Road,Main Road,652,38,Rain,1,0,0,53.05,MEDIUM
+Sivaganga,Sivaganga Highway Road,Main Road,176,62,Normal,0,0,0,11.35,LOW
+Sivaganga,Sivaganga Highway Road,Bypass Road,226,38,Clear,0,1,0,28.88,LOW
+Sivaganga,Sivaganga Town Road,Town Road,270,53,Clear,0,1,0,24.44,LOW
+Sivaganga,Sivaganga NH Road,Ring Road,522,29,Rain,0,0,0,41.06,MEDIUM
+Sivaganga,Sivaganga Bypass Road,Main Road,367,70,Cloudy,0,0,0,16.52,LOW
+Sivaganga,Sivaganga Highway Road,Highway Road,160,22,Rain,0,0,1,37.77,MEDIUM
+Sivaganga,Sivaganga Highway Road,Ring Road,533,65,Rain,0,0,0,26.13,LOW
+Sivaganga,Sivaganga Highway Road,NH Road,391,42,Cloudy,0,0,0,29.59,LOW
+Sivaganga,Sivaganga Main Road,NH Road,956,66,Clear,0,1,1,59.73,MEDIUM
+Sivaganga,Sivaganga Market Road,Main Road,668,18,Normal,0,0,0,52.35,MEDIUM
+Sivaganga,Sivaganga Bypass Road,NH Road,667,29,Normal,0,1,1,62.59,MEDIUM
+Sivaganga,Sivaganga Ring Road,Highway Road,265,42,Clear,0,0,0,23.93,LOW
+Sivaganga,Sivaganga Main Road,Highway Road,251,52,Clear,0,0,0,19.01,LOW
+Sivaganga,Sivaganga NH Road,Market Road,300,47,Clear,0,1,1,38.36,MEDIUM
+Sivaganga,Sivaganga Main Road,Bypass Road,573,60,Rain,0,0,0,30.07,LOW
+Sivaganga,Sivaganga Town Road,Bus Stand Road,643,32,Clear,1,0,0,55.22,MEDIUM
+Sivaganga,Sivaganga Bus Stand Road,Ring Road,820,27,Rain,0,0,1,65.33,MEDIUM
+Sivaganga,Sivaganga Main Road,Market Road,557,42,Clear,1,0,1,57.06,MEDIUM
+Sivaganga,Sivaganga Town Road,Bus Stand Road,674,15,Normal,0,0,0,53.9,MEDIUM
+Sivaganga,Sivaganga Bus Stand Road,NH Road,360,68,Rain,1,1,1,42.06,MEDIUM
+Sivaganga,Sivaganga Main Road,Main Road,699,19,Clear,0,0,1,63.31,MEDIUM
+Sivaganga,Sivaganga Bypass Road,Ring Road,372,40,Clear,1,1,0,44.6,MEDIUM
+Sivaganga,Sivaganga Highway Road,Highway Road,873,19,Clear,0,0,1,71.14,HIGH
+Sivaganga,Sivaganga NH Road,Bypass Road,358,17,Clear,0,0,0,38.82,MEDIUM
+Sivaganga,Sivaganga Main Road,Bypass Road,422,30,Clear,0,0,0,36.13,MEDIUM
+Sivaganga,Sivaganga Highway Road,Market Road,927,52,Clear,0,1,1,64.43,MEDIUM
+Sivaganga,Sivaganga Town Road,Bypass Road,303,44,Clear,1,0,1,44.78,MEDIUM
+Sivaganga,Sivaganga Highway Road,Bypass Road,520,39,Clear,0,0,0,36.69,MEDIUM
+Sivaganga,Sivaganga Bus Stand Road,Ring Road,596,45,Normal,0,0,0,37.53,MEDIUM
+Sivaganga,Sivaganga Main Road,NH Road,287,28,Rain,0,0,1,40.91,MEDIUM
+Sivaganga,Sivaganga Highway Road,Main Road,269,42,Normal,0,0,0,24.11,LOW
+Sivaganga,Sivaganga Town Road,Main Road,939,49,Cloudy,0,0,0,51.25,MEDIUM
+Sivaganga,Sivaganga NH Road,Market Road,776,57,Rain,0,0,0,40.49,MEDIUM
+Sivaganga,Sivaganga NH Road,Highway Road,800,59,Clear,1,0,0,50.71,MEDIUM
+Sivaganga,Sivaganga Town Road,Bypass Road,848,68,Rain,0,0,0,39.02,MEDIUM
+Sivaganga,Sivaganga Ring Road,Market Road,647,23,Normal,0,0,1,59.26,MEDIUM
+Sivaganga,Sivaganga Main Road,Main Road,619,38,Rain,1,0,0,51.57,MEDIUM
+Sivaganga,Sivaganga Highway Road,NH Road,653,17,Cloudy,1,1,0,67.1,MEDIUM
+Sivaganga,Sivaganga Town Road,NH Road,962,27,Clear,1,0,0,71.72,HIGH
+Sivaganga,Sivaganga Town Road,Bus Stand Road,261,47,Normal,1,0,0,31.6,LOW
+Sivaganga,Sivaganga Bypass Road,Main Road,843,63,Rain,1,1,0,55.94,MEDIUM
+Sivaganga,Sivaganga Town Road,NH Road,334,60,Rain,0,0,0,19.32,LOW
+Sivaganga,Sivaganga Highway Road,Bypass Road,537,17,Cloudy,1,0,0,56.88,MEDIUM
+Sivaganga,Sivaganga Highway Road,Town Road,441,61,Cloudy,1,0,0,33.7,LOW
+Sivaganga,Sivaganga Town Road,Town Road,399,55,Cloudy,0,1,0,29.38,LOW
+Sivaganga,Sivaganga Highway Road,Bypass Road,837,31,Cloudy,1,0,0,64.38,MEDIUM
+Sivaganga,Sivaganga NH Road,Town Road,166,43,Cloudy,0,0,0,19.04,LOW
+Sivaganga,Sivaganga Bus Stand Road,Main Road,263,37,Cloudy,0,1,0,30.98,LOW
+Sivaganga,Sivaganga Town Road,Bus Stand Road,372,49,Rain,1,0,0,35.74,MEDIUM
+Sivaganga,Sivaganga Town Road,Main Road,504,45,Clear,0,1,0,38.39,MEDIUM
+Sivaganga,Sivaganga Market Road,Ring Road,191,34,Cloudy,0,0,0,24.02,LOW
+Sivaganga,Sivaganga Market Road,Market Road,940,70,Normal,0,1,0,47.3,MEDIUM
+Sivaganga,Sivaganga Market Road,Main Road,836,41,Rain,0,0,0,50.05,MEDIUM
+Sivaganga,Sivaganga Main Road,Bus Stand Road,428,50,Rain,0,1,0,32.83,LOW
+Sivaganga,Sivaganga Bypass Road,NH Road,385,63,Clear,0,1,0,25.32,LOW
+Sivaganga,Sivaganga Bypass Road,Main Road,539,35,Normal,0,0,0,39.26,MEDIUM
+Sivaganga,Sivaganga NH Road,Bus Stand Road,511,69,Rain,0,1,1,38.42,MEDIUM
+Sivaganga,Sivaganga Highway Road,Bus Stand Road,708,49,Clear,0,0,1,50.86,MEDIUM
+Sivaganga,Sivaganga NH Road,Market Road,378,20,Rain,1,0,1,58.44,MEDIUM
+Sivaganga,Sivaganga Town Road,Market Road,737,26,Normal,1,1,0,67.02,MEDIUM
+Sivaganga,Sivaganga Bypass Road,NH Road,813,54,Rain,1,0,1,63.44,MEDIUM
+Sivaganga,Sivaganga NH Road,NH Road,448,52,Cloudy,0,0,0,27.87,LOW
+Sivaganga,Sivaganga Ring Road,Market Road,839,53,Normal,0,0,1,55.04,MEDIUM
+Sivaganga,Sivaganga Highway Road,NH Road,811,17,Normal,0,0,0,59.21,MEDIUM
+Sivaganga,Sivaganga Market Road,Town Road,799,61,Rain,0,0,1,49.81,MEDIUM
+Sivaganga,Sivaganga Ring Road,Ring Road,354,41,Clear,0,0,0,28.36,LOW
+Sivaganga,Sivaganga Bypass Road,Bus Stand Road,488,46,Rain,0,0,0,32.25,LOW
+Sivaganga,Sivaganga Bypass Road,Town Road,643,52,Normal,0,0,0,36.65,MEDIUM
+Sivaganga,Sivaganga Highway Road,Town Road,798,70,Clear,0,1,1,50.91,MEDIUM
+Sivaganga,Sivaganga Main Road,Bypass Road,434,65,Rain,1,0,0,31.67,LOW

@@ -1,0 +1,3072 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IIC Traffic AI</title>
+
+    <!-- Leaflet -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f5f7fb;
+            color: #1f2937;
+        }
+
+        /* ================= HEADER ================= */
+
+        header {
+            height: 64px;
+            background: #ffffff;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 22px;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .logo {
+            font-size: 21px;
+            font-weight: 700;
+            color: #111827;
+        }
+
+        .logo span {
+            color: #2563eb;
+        }
+
+        nav {
+            display: flex;
+            gap: 6px;
+            overflow-x: auto;
+        }
+
+        nav button {
+            border: none;
+            background: transparent;
+            padding: 10px 13px;
+            border-radius: 8px;
+            cursor: pointer;
+            color: #4b5563;
+            font-size: 13px;
+            white-space: nowrap;
+        }
+
+        nav button:hover,
+        nav button.active {
+            background: #eff6ff;
+            color: #2563eb;
+            font-weight: 600;
+        }
+
+        /* ================= MAIN ================= */
+
+        main {
+            padding: 18px;
+            max-width: 1600px;
+            margin: auto;
+        }
+
+        .page-title {
+            margin-bottom: 16px;
+        }
+
+        .page-title h1 {
+            font-size: 25px;
+            margin-bottom: 5px;
+        }
+
+        .page-title p {
+            color: #6b7280;
+            font-size: 14px;
+        }
+
+        /* ================= SEARCH ================= */
+
+        .search-panel {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 14px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+        }
+
+        .search-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr auto;
+            gap: 10px;
+        }
+
+        .input-group {
+            position: relative;
+        }
+
+        .input-group label {
+            display: block;
+            font-size: 12px;
+            color: #6b7280;
+            margin-bottom: 5px;
+        }
+
+        .input-group input {
+            width: 100%;
+            padding: 12px 13px;
+            border: 1px solid #d1d5db;
+            border-radius: 9px;
+            outline: none;
+            font-size: 14px;
+        }
+
+        .input-group input:focus {
+            border-color: #2563eb;
+            box-shadow: 0 0 0 3px rgba(37,99,235,0.1);
+        }
+
+        .search-btn {
+            align-self: end;
+            height: 43px;
+            padding: 0 20px;
+            border: none;
+            border-radius: 9px;
+            background: #2563eb;
+            color: white;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .vehicle-selector select {
+            width: 100%;
+            padding: 11px 12px;
+            border: 1px solid #d1d5db;
+            border-radius: 9px;
+            background: #fff;
+            font-size: 13px;
+            outline: none;
+        }
+
+        .vehicle-selector small {
+            display: block;
+            margin-top: 5px;
+            color: #6b7280;
+            font-size: 10px;
+        }
+
+        .vehicle-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+        }
+
+        .vehicle-box {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 13px;
+            border-radius: 11px;
+            border: 1px solid #e5e7eb;
+            background: #f9fafb;
+        }
+
+        .vehicle-icon {
+            font-size: 24px;
+        }
+
+        .vehicle-label {
+            color: #6b7280;
+            font-size: 11px;
+        }
+
+        .vehicle-value {
+            font-size: 21px;
+            font-weight: 800;
+            margin-top: 3px;
+        }
+
+        .monitor-summary {
+            display: flex;
+            gap: 18px;
+            flex-wrap: wrap;
+            margin-top: 12px;
+            padding-top: 10px;
+            border-top: 1px solid #e5e7eb;
+            color: #4b5563;
+            font-size: 12px;
+        }
+
+
+        .search-btn:hover {
+            background: #1d4ed8;
+        }
+
+        .suggestions {
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 65px;
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            z-index: 2000;
+            max-height: 240px;
+            overflow-y: auto;
+            display: none;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+        }
+
+        .suggestion {
+            padding: 10px 12px;
+            cursor: pointer;
+            border-bottom: 1px solid #f3f4f6;
+        }
+
+        .suggestion:hover {
+            background: #eff6ff;
+        }
+
+        .suggestion strong {
+            display: block;
+            font-size: 13px;
+        }
+
+        .suggestion small {
+            color: #6b7280;
+            font-size: 11px;
+        }
+
+        /* ================= CARDS ================= */
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+            margin-bottom: 15px;
+        }
+
+        .card {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 13px;
+            padding: 16px;
+            box-shadow: 0 2px 7px rgba(0,0,0,0.03);
+        }
+
+        .card-title {
+            color: #6b7280;
+            font-size: 12px;
+            margin-bottom: 8px;
+        }
+
+        .card-value {
+            font-size: 25px;
+            font-weight: 700;
+        }
+
+        .card-sub {
+            margin-top: 5px;
+            font-size: 12px;
+            color: #6b7280;
+        }
+
+        .status-low {
+            color: #16a34a;
+        }
+
+        .status-medium {
+            color: #d97706;
+        }
+
+        .status-high {
+            color: #dc2626;
+        }
+
+        /* ================= DASHBOARD GRID ================= */
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: 1.7fr 1fr;
+            gap: 15px;
+        }
+
+        .panel {
+            background: white;
+            border: 1px solid #e5e7eb;
+            border-radius: 14px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .panel-header h2 {
+            font-size: 16px;
+        }
+
+        .panel-header span {
+            font-size: 11px;
+            color: #6b7280;
+        }
+
+        /* ================= MAP ================= */
+
+        #map {
+            width: 100%;
+            height: 570px;
+            border-radius: 11px;
+            overflow: hidden;
+        }
+
+        .map-info {
+            margin-top: 10px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            font-size: 12px;
+            color: #6b7280;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .legend-line {
+            width: 25px;
+            height: 4px;
+            border-radius: 5px;
+        }
+
+        /* ================= ALERTS ================= */
+
+        .alerts-container {
+            max-height: 570px;
+            overflow-y: auto;
+        }
+
+        .alert {
+            border-radius: 10px;
+            padding: 12px;
+            margin-bottom: 10px;
+            border-left: 4px solid;
+        }
+
+        .alert-danger {
+            background: #fef2f2;
+            border-color: #dc2626;
+        }
+
+        .alert-warning {
+            background: #fffbeb;
+            border-color: #d97706;
+        }
+
+        .alert-success {
+            background: #f0fdf4;
+            border-color: #16a34a;
+        }
+
+        .alert-title {
+            font-weight: 700;
+            font-size: 13px;
+            margin-bottom: 4px;
+        }
+
+        .alert-message {
+            font-size: 12px;
+            color: #4b5563;
+            line-height: 1.5;
+        }
+
+        /* ================= ROUTES ================= */
+
+        .route-list {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .route-card {
+            border: 1px solid #e5e7eb;
+            border-radius: 11px;
+            padding: 13px;
+            cursor: pointer;
+            transition: 0.2s;
+            background: #fff;
+        }
+
+        .route-card:hover {
+            border-color: #2563eb;
+            transform: translateY(-1px);
+        }
+
+        .route-card.selected {
+            border: 2px solid #2563eb;
+            background: #eff6ff;
+        }
+
+        .route-top {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+        }
+
+        .route-name {
+            font-weight: 700;
+            font-size: 14px;
+        }
+
+        .route-status {
+            font-size: 10px;
+            font-weight: 700;
+            padding: 4px 7px;
+            border-radius: 20px;
+        }
+
+        .route-road {
+            color: #6b7280;
+            font-size: 11px;
+            margin-bottom: 9px;
+        }
+
+        .route-details {
+            display: flex;
+            gap: 15px;
+            font-size: 12px;
+        }
+
+        .route-score {
+            margin-top: 9px;
+            font-size: 12px;
+        }
+
+        .route-extra {
+            margin-top: 6px;
+            color: #6b7280;
+            font-size: 11px;
+        }
+
+        .moving-vehicle-icon {
+            background: transparent;
+            border: none;
+            text-align: center;
+            overflow: visible;
+        }
+
+        .moving-vehicle {
+            width: 34px;
+            height: 34px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            background: #ffffff;
+            border: 2px solid #2563eb;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.25);
+            font-size: 20px;
+            line-height: 1;
+            transition: transform 0.08s linear;
+        }
+
+        .movement-status {
+            margin-top: 10px;
+            padding: 10px 12px;
+            border-radius: 9px;
+            background: #eff6ff;
+            color: #1e40af;
+            font-size: 12px;
+        }
+
+        /* ================= CHARTS ================= */
+
+        .charts {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+
+        .chart-box {
+            height: 300px;
+        }
+
+        /* ================= INFO ================= */
+
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+        }
+
+        .info-box {
+            background: #f9fafb;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            padding: 14px;
+        }
+
+        .info-box h3 {
+            font-size: 14px;
+            margin-bottom: 7px;
+        }
+
+        .info-box p {
+            font-size: 12px;
+            line-height: 1.6;
+            color: #6b7280;
+        }
+
+        /* ================= LOADING ================= */
+
+        .loading {
+            text-align: center;
+            padding: 25px;
+            color: #6b7280;
+            font-size: 13px;
+        }
+
+        .error {
+            color: #dc2626;
+            background: #fef2f2;
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 13px;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        /* ================= RESPONSIVE ================= */
+
+        @media(max-width: 1000px) {
+            .cards {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .vehicle-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media(max-width: 700px) {
+            header {
+                height: auto;
+                padding: 12px;
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 8px;
+            }
+
+            .search-row {
+                grid-template-columns: 1fr;
+            }
+
+            .search-btn {
+                width: 100%;
+            }
+
+            .cards {
+                grid-template-columns: 1fr;
+            }
+
+            .vehicle-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .route-list,
+            .charts {
+                grid-template-columns: 1fr;
+            }
+
+            #map {
+                height: 450px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <div class="logo">
+        🚦 IIC <span>Traffic AI</span>
+    </div>
+
+    <nav>
+        <button class="active" onclick="scrollToSection('current')">
+            Current Traffic
+        </button>
+
+        <button onclick="scrollToSection('future')">
+            Future Prediction
+        </button>
+
+        <button onclick="scrollToSection('spread')">
+            Congestion Spread
+        </button>
+
+        <button onclick="scrollToSection('whatif')">
+            What-If
+        </button>
+
+        <button onclick="scrollToSection('routes')">
+            AI Routes
+        </button>
+
+        <button onclick="scrollToSection('explain')">
+            Explainable AI
+        </button>
+
+        <button onclick="scrollToSection('analytics')">
+            Analytics
+        </button>
+    </nav>
+</header>
+
+
+<main>
+
+    <div class="page-title">
+        <h1>AI Traffic Intelligence Dashboard</h1>
+        <p>
+            AI-based traffic prediction, route optimization and congestion analysis
+        </p>
+    </div>
+
+
+    <!-- ================= SEARCH ================= -->
+
+    <div class="search-panel">
+
+        <div class="search-row">
+
+            <div class="input-group">
+
+                <label>From Location</label>
+
+                <input
+                    type="text"
+                    id="fromInput"
+                    placeholder="Enter starting location..."
+                    autocomplete="off"
+                >
+
+                <div id="fromSuggestions" class="suggestions"></div>
+
+            </div>
+
+
+            <div class="input-group">
+
+                <label>To Location</label>
+
+                <input
+                    type="text"
+                    id="toInput"
+                    placeholder="Enter destination..."
+                    autocomplete="off"
+                >
+
+                <div id="toSuggestions" class="suggestions"></div>
+
+            </div>
+
+
+            <div class="input-group vehicle-selector">
+                <label>Vehicle Type</label>
+                <select id="vehicleType">
+                    <option value="bike">🏍️ Bike</option>
+                    <option value="car" selected>🚗 Car</option>
+                    <option value="heavy">🚛 Heavy Vehicle</option>
+                </select>
+                <small>Route ranking changes for the selected vehicle.</small>
+            </div>
+
+
+            <button class="search-btn" onclick="searchRoute()">
+                🔍 Find Routes
+            </button>
+
+        </div>
+
+    </div>
+
+
+    <!-- ================= VEHICLE MONITOR ================= -->
+
+    <section id="vehicleMonitor">
+        <div class="panel">
+            <div class="panel-header">
+                <h2>🚦 Vehicle Category Monitoring</h2>
+                <span id="vehicleMonitorSource">CSV-based monitoring</span>
+            </div>
+
+            <div class="vehicle-grid">
+                <div class="vehicle-box bike-box">
+                    <div class="vehicle-icon">🏍️</div>
+                    <div>
+                        <div class="vehicle-label">Bike</div>
+                        <div class="vehicle-value" id="bikeCount">--</div>
+                    </div>
+                </div>
+
+                <div class="vehicle-box car-box">
+                    <div class="vehicle-icon">🚗</div>
+                    <div>
+                        <div class="vehicle-label">Car</div>
+                        <div class="vehicle-value" id="carCount">--</div>
+                    </div>
+                </div>
+
+                <div class="vehicle-box heavy-box">
+                    <div class="vehicle-icon">🚛</div>
+                    <div>
+                        <div class="vehicle-label">Heavy Vehicle</div>
+                        <div class="vehicle-value" id="heavyCount">--</div>
+                    </div>
+                </div>
+
+                <div class="vehicle-box total-box">
+                    <div class="vehicle-icon">🚦</div>
+                    <div>
+                        <div class="vehicle-label">Total Vehicles</div>
+                        <div class="vehicle-value" id="totalVehicleCount">--</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="monitor-summary">
+                <span>Density: <b id="trafficDensity">--</b></span>
+                <span>Traffic Score: <b id="monitorScore">--</b></span>
+                <span>Congestion: <b id="monitorLevel">--</b></span>
+                <span id="monitorNote">CSV data</span>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- ================= CURRENT CARDS ================= -->
+
+    <section id="current">
+
+        <div class="cards">
+
+            <div class="card">
+                <div class="card-title">
+                    🚗 Predicted Vehicles
+                </div>
+
+                <div class="card-value" id="vehicleCount">
+                    --
+                </div>
+
+                <div class="card-sub">
+                    Current traffic volume
+                </div>
+            </div>
+
+
+            <div class="card">
+                <div class="card-title">
+                    🚦 Traffic Status
+                </div>
+
+                <div
+                    class="card-value"
+                    id="trafficStatus"
+                >
+                    --
+                </div>
+
+                <div class="card-sub">
+                    Current congestion
+                </div>
+            </div>
+
+
+            <div class="card">
+                <div class="card-title">
+                    ⚡ Traffic Score
+                </div>
+
+                <div class="card-value" id="trafficScore">
+                    --
+                </div>
+
+                <div class="card-sub">
+                    AI congestion score
+                </div>
+            </div>
+
+
+            <div class="card">
+                <div class="card-title">
+                    📍 Selected Route
+                </div>
+
+                <div class="card-value" id="selectedRoute">
+                    --
+                </div>
+
+                <div class="card-sub" id="selectedRouteRoad">
+                    Search a route
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= MAP + ALERTS ================= -->
+
+    <div class="dashboard-grid">
+
+        <div>
+
+            <div class="panel">
+
+                <div class="panel-header">
+
+                    <h2>
+                        🗺️ Traffic & Route Map
+                    </h2>
+
+                    <span id="mapStatus">
+                        Ready
+                    </span>
+
+                </div>
+
+                <div id="map"></div>
+
+                <div class="map-info">
+
+                    <div class="legend-item">
+                        <span
+                            class="legend-line"
+                            style="background:#16a34a"
+                        ></span>
+                        Low Traffic
+                    </div>
+
+                    <div class="legend-item">
+                        <span
+                            class="legend-line"
+                            style="background:#f59e0b"
+                        ></span>
+                        Medium Traffic
+                    </div>
+
+                    <div class="legend-item">
+                        <span
+                            class="legend-line"
+                            style="background:#dc2626"
+                        ></span>
+                        High Traffic
+                    </div>
+
+                    <div class="legend-item">
+                        🔵 Selected Route
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- ================= ROUTES ================= -->
+
+            <div class="panel" id="routes">
+
+                <div class="panel-header">
+
+                    <h2>
+                        🛣️ AI Alternative Routes
+                    </h2>
+
+                    <span id="routeCount">
+                        0 routes
+                    </span>
+
+                </div>
+
+                <div
+                    id="routeList"
+                    class="route-list"
+                >
+                    <div class="loading">
+                        Search From and To locations to view routes.
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!-- ================= ALERTS ================= -->
+
+        <div>
+
+            <div class="panel">
+
+                <div class="panel-header">
+
+                    <h2>
+                        🚨 Traffic Alerts
+                    </h2>
+
+                    <span id="alertCount">
+                        0 alerts
+                    </span>
+
+                </div>
+
+                <div
+                    id="alertsContainer"
+                    class="alerts-container"
+                >
+                    <div class="loading">
+                        Loading alerts...
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- ================= FUTURE ================= -->
+
+    <section id="future">
+
+        <div class="panel">
+
+            <div class="panel-header">
+
+                <h2>
+                    🔮 Future Traffic Prediction
+                </h2>
+
+                <span>
+                    AI prediction
+                </span>
+
+            </div>
+
+            <div class="info-grid">
+
+                <div class="info-box">
+                    <h3>Current Vehicles</h3>
+                    <p id="futureCurrentVehicles">--</p>
+                </div>
+
+                <div class="info-box">
+                    <h3>Predicted Vehicles</h3>
+                    <p id="futurePredictedVehicles">--</p>
+                </div>
+
+                <div class="info-box">
+                    <h3>Predicted Traffic</h3>
+                    <p id="futureTraffic">--</p>
+                </div>
+
+                <div class="info-box">
+                    <h3>Prediction Time</h3>
+                    <p id="futureTime">--</p>
+                </div>
+
+                <div class="info-box">
+                    <h3>Confidence</h3>
+                    <p id="futureConfidence">--</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= SPREAD ================= -->
+
+    <section id="spread">
+
+        <div class="panel">
+
+            <div class="panel-header">
+
+                <h2>
+                    🌐 Congestion Spread
+                </h2>
+
+                <span>
+                    Traffic propagation
+                </span>
+
+            </div>
+
+            <div id="spreadContent">
+                <div class="loading">
+                    Loading congestion spread...
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= WHAT IF ================= -->
+
+    <section id="whatif">
+
+        <div class="panel">
+
+            <div class="panel-header">
+
+                <h2>
+                    🧪 What-If Traffic Analysis
+                </h2>
+
+                <span>
+                    Scenario analysis
+                </span>
+
+            </div>
+
+            <div id="whatIfContent">
+                <div class="loading">
+                    Loading What-If analysis...
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= EXPLAINABLE AI ================= -->
+
+    <section id="explain">
+
+        <div class="panel">
+
+            <div class="panel-header">
+
+                <h2>
+                    🤖 Explainable AI
+                </h2>
+
+                <span>
+                    Why this route?
+                </span>
+
+            </div>
+
+            <div id="explanationContent">
+
+                <div class="loading">
+                    Loading AI explanation...
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ================= ANALYTICS ================= -->
+
+    <section id="analytics">
+
+        <div class="panel">
+
+            <div class="panel-header">
+
+                <h2>
+                    📊 Traffic Analytics
+                </h2>
+
+                <span>
+                    Project data analysis
+                </span>
+
+            </div>
+
+            <div class="charts">
+
+                <div class="chart-box">
+                    <canvas id="trafficChart"></canvas>
+                </div>
+
+                <div class="chart-box">
+                    <canvas id="routeChart"></canvas>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<!-- Leaflet -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+
+<script>
+
+    /* =====================================================
+       GLOBAL VARIABLES
+    ===================================================== */
+
+    let map;
+
+    let routeLayers = [];
+
+    let markers = [];
+
+    let selectedRouteIndex = null;
+
+    let fromLocation = null;
+
+    let toLocation = null;
+
+    let trafficChart = null;
+
+    let routeChart = null;
+
+    let vehicleMonitorTimer = null;
+
+    let movingVehicleMarker = null;
+
+    let movementAnimationFrame = null;
+
+    let currentVehicleType = "car";
+
+    let movementRoutePoints = [];
+
+    let movementCumulative = [];
+
+    let movementTotalDistance = 0;
+
+
+    /* =====================================================
+       MAP INITIALIZATION
+    ===================================================== */
+
+    function initializeMap() {
+
+        map = L.map("map").setView(
+            [11.9416, 79.8083],
+            10
+        );
+
+        L.tileLayer(
+            "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+            {
+                maxZoom: 19,
+                attribution:
+                    '&copy; OpenStreetMap contributors'
+            }
+        ).addTo(map);
+
+    }
+
+
+    /* =====================================================
+       MAP MARKER
+    ===================================================== */
+
+    function addLocationMarker(
+        lat,
+        lon,
+        title,
+        type
+    ) {
+
+        let colour =
+            type === "from"
+                ? "#16a34a"
+                : "#dc2626";
+
+        let marker = L.circleMarker(
+            [lat, lon],
+            {
+                radius: 9,
+                fillColor: colour,
+                color: "#ffffff",
+                weight: 3,
+                fillOpacity: 1
+            }
+        ).addTo(map);
+
+        marker.bindPopup(
+            `<b>${title}</b>`
+        );
+
+        markers.push(marker);
+
+    }
+
+
+    /* =====================================================
+       CLEAR ROUTES
+    ===================================================== */
+
+    function clearRoutes() {
+
+        routeLayers.forEach(layer => {
+
+            map.removeLayer(layer);
+
+        });
+
+        routeLayers = [];
+
+        selectedRouteIndex = null;
+
+    }
+
+
+    /* =====================================================
+       CLEAR MARKERS
+    ===================================================== */
+
+    function clearMarkers() {
+
+        markers.forEach(marker => {
+
+            map.removeLayer(marker);
+
+        });
+
+        markers = [];
+
+    }
+
+
+    /* =====================================================
+       TRAFFIC COLOUR
+    ===================================================== */
+
+    function getTrafficColour(status) {
+
+        status = String(status).toUpperCase();
+
+        if (status === "LOW") {
+
+            return "#16a34a";
+
+        }
+
+        if (status === "MEDIUM") {
+
+            return "#f59e0b";
+
+        }
+
+        return "#dc2626";
+
+    }
+
+
+    /* =====================================================
+       ROUTE SEARCH
+    ===================================================== */
+
+    async function searchRoute() {
+
+        const fromInput =
+            document.getElementById("fromInput").value.trim();
+
+        const toInput =
+            document.getElementById("toInput").value.trim();
+
+        const vehicleType =
+            document.getElementById("vehicleType").value;
+
+        if (!fromInput || !toInput) {
+            alert("Please enter both From and To locations.");
+            return;
+        }
+
+        document.getElementById("mapStatus").innerText =
+            `Finding ${vehicleType === "heavy" ? "heavy vehicle" : vehicleType} routes...`;
+
+        try {
+            let url =
+                `/api/route?from=${encodeURIComponent(fromInput)}` +
+                `&to=${encodeURIComponent(toInput)}` +
+                `&vehicle=${encodeURIComponent(vehicleType)}`;
+
+            if (
+                fromLocation &&
+                toLocation &&
+                fromLocation.name === fromInput &&
+                toLocation.name === toInput
+            ) {
+                url =
+                    `/api/route?from_lat=${fromLocation.lat}` +
+                    `&from_lon=${fromLocation.lon}` +
+                    `&to_lat=${toLocation.lat}` +
+                    `&to_lon=${toLocation.lon}` +
+                    `&from=${encodeURIComponent(fromInput)}` +
+                    `&to=${encodeURIComponent(toInput)}` +
+                    `&vehicle=${encodeURIComponent(vehicleType)}`;
+            }
+
+            const response = await fetch(url);
+            const data = await response.json();
+
+            if (!response.ok) {
+                throw new Error(data.error || "Route search failed");
+            }
+
+            displayRoutes(data);
+        }
+        catch (error) {
+            console.error(error);
+            document.getElementById("mapStatus").innerText =
+                "Route search failed";
+            alert(error.message);
+        }
+    }
+
+
+    /* =====================================================
+       DISPLAY ROUTES
+    ===================================================== */
+
+    function displayRoutes(data) {
+
+        clearRoutes();
+        clearMarkers();
+        stopVehicleSimulation();
+
+        const routes = data.routes || [];
+
+        if (!routes.length) {
+            document.getElementById("routeList").innerHTML =
+                `<div class="error">No alternative routes found.</div>`;
+            return;
+        }
+
+        document.getElementById("routeCount").innerText =
+            `${routes.length} available routes`;
+
+        addLocationMarker(
+            data.from.lat,
+            data.from.lon,
+            "Starting Location",
+            "from"
+        );
+
+        addLocationMarker(
+            data.to.lat,
+            data.to.lon,
+            "Destination",
+            "to"
+        );
+
+        routes.forEach((route, index) => {
+            const coordinates =
+                (route.geometry?.coordinates || []).map(point => [point[1], point[0]]);
+
+            if (!coordinates.length) return;
+
+            const colour = getTrafficColour(route.traffic_status);
+
+            const line = L.polyline(coordinates, {
+                color: colour,
+                weight: 5,
+                opacity: 0.75
+            }).addTo(map);
+
+            line.bindPopup(
+                `<b>${route.route}</b><br>` +
+                `${route.road}<br>` +
+                `${route.distance} km<br>` +
+                `${route.duration} min<br>` +
+                `Vehicle: ${data.vehicle_label || data.vehicle_type}<br>` +
+                `Traffic: ${route.traffic_status}<br>` +
+                `AI Score: ${route.traffic_score}`
+            );
+
+            line.on("click", () => selectRoute(index));
+            routeLayers.push(line);
+        });
+
+        const bounds = L.latLngBounds([]);
+        routeLayers.forEach(layer => bounds.extend(layer.getBounds()));
+
+        if (bounds.isValid()) {
+            map.fitBounds(bounds, { padding: [40, 40] });
+        }
+
+        renderRouteCards(routes, data.vehicle_label || data.vehicle_type);
+
+        let bestIndex = 0;
+        if (data.best_route) {
+            const index = routes.findIndex(
+                route => route.route === data.best_route.route
+            );
+            if (index >= 0) bestIndex = index;
+        }
+
+        currentVehicleType = data.vehicle_type || "car";
+        selectRoute(bestIndex);
+
+        document.getElementById("mapStatus").innerText =
+            `${routes.length} routes loaded • ${data.vehicle_label || data.vehicle_type}`;
+    }
+
+
+    /* =====================================================
+       SELECT ROUTE
+    ===================================================== */
+
+    function selectRoute(index) {
+
+        if (!routeLayers[index]) {
+
+            return;
+
+        }
+
+
+        selectedRouteIndex = index;
+
+
+        routeLayers.forEach(
+            (layer, i) => {
+
+                const route =
+                    currentRoutes[i];
+
+                if (!route) {
+
+                    return;
+
+                }
+
+
+                if (i === index) {
+
+                    layer.setStyle({
+
+                        color: "#2563eb",
+
+                        weight: 8,
+
+                        opacity: 1
+
+                    });
+
+                    layer.bringToFront();
+
+                }
+                else {
+
+                    layer.setStyle({
+
+                        color:
+                            getTrafficColour(
+                                route.traffic_status
+                            ),
+
+                        weight: 5,
+
+                        opacity: 0.75
+
+                    });
+
+                }
+
+            }
+        );
+
+
+        const route =
+            currentRoutes[index];
+
+
+        if (!route) {
+
+            return;
+
+        }
+
+
+        document.getElementById(
+            "selectedRoute"
+        ).innerText =
+            route.route;
+
+
+        document.getElementById(
+            "selectedRouteRoad"
+        ).innerText =
+            route.road;
+
+
+        document.getElementById(
+            "trafficScore"
+        ).innerText =
+            route.traffic_score;
+
+
+        const statusElement =
+            document.getElementById(
+                "trafficStatus"
+            );
+
+
+        statusElement.innerText =
+            route.traffic_status;
+
+
+        statusElement.className =
+            "card-value " +
+            (
+                route.traffic_status === "LOW"
+                    ? "status-low"
+                    : route.traffic_status === "MEDIUM"
+                        ? "status-medium"
+                        : "status-high"
+            );
+
+
+        document
+            .querySelectorAll(".route-card")
+            .forEach(
+                (card, i) => {
+
+                    card.classList.toggle(
+                        "selected",
+                        i === index
+                    );
+
+                }
+            );
+
+
+        const layer =
+            routeLayers[index];
+
+
+        if (layer) {
+
+            map.fitBounds(
+                layer.getBounds(),
+                {
+                    padding: [50, 50]
+                }
+            );
+
+        }
+
+        // Moving vehicle always follows the route the user selected.
+        startVehicleSimulation(route, currentVehicleType);
+
+    }
+
+
+    let currentRoutes = [];
+
+
+    /* =====================================================
+       ROUTE CARDS
+    ===================================================== */
+
+    function renderRouteCards(routes, vehicleLabel = "Car") {
+
+        currentRoutes = routes;
+
+        const container = document.getElementById("routeList");
+        container.innerHTML = "";
+
+        routes.forEach((route, index) => {
+            const status = String(route.traffic_status || "UNKNOWN").toUpperCase();
+            const statusClass =
+                status === "LOW"
+                    ? "status-low"
+                    : status === "MEDIUM"
+                        ? "status-medium"
+                        : "status-high";
+
+            const card = document.createElement("div");
+            card.className = "route-card";
+            card.onclick = () => selectRoute(index);
+
+            card.innerHTML = `
+                <div class="route-top">
+                    <div class="route-name">
+                        ${route.recommended ? "🏆 " : ""}${route.route}
+                    </div>
+                    <div class="route-status ${statusClass}"
+                         style="background:${getTrafficColour(status)}22;color:${getTrafficColour(status)};">
+                        ${status}
+                    </div>
+                </div>
+
+                <div class="route-road">🛣️ ${route.road || "Alternative Road"}</div>
+
+                <div class="route-details">
+                    <span>📏 ${route.distance} km</span>
+                    <span>⏱️ ${route.duration} min</span>
+                    <span>🚦 ${vehicleLabel}</span>
+                </div>
+
+                <div class="route-details route-extra">
+                    <span>🚗 Vehicles: ${route.vehicle_count ?? 0}</span>
+                    <span>⚡ Speed: ${route.average_speed ?? 0} km/h</span>
+                </div>
+
+                <div class="route-score">
+                    🤖 AI Traffic Score: <strong>${route.traffic_score}</strong>
+                    ${route.recommended ? " • Recommended" : ""}
+                </div>
+            `;
+
+            container.appendChild(card);
+        });
+    }
+
+
+    /* =====================================================
+       VEHICLE MOVEMENT SIMULATION
+    ===================================================== */
+
+    function stopVehicleSimulation() {
+        if (movementAnimationFrame) {
+            cancelAnimationFrame(movementAnimationFrame);
+            movementAnimationFrame = null;
+        }
+
+        if (movingVehicleMarker) {
+            map.removeLayer(movingVehicleMarker);
+            movingVehicleMarker = null;
+        }
+
+        movementRoutePoints = [];
+        movementCumulative = [];
+        movementTotalDistance = 0;
+    }
+
+
+    function routeDistance(a, b) {
+        const lat1 = a[0] * Math.PI / 180;
+        const lat2 = b[0] * Math.PI / 180;
+        const dLat = lat2 - lat1;
+        const dLon = (b[1] - a[1]) * Math.PI / 180;
+        const x = dLon * Math.cos((lat1 + lat2) / 2);
+        const y = dLat;
+        return Math.sqrt(x * x + y * y) * 6371000;
+    }
+
+
+    function prepareMovementPath(points) {
+        movementRoutePoints = points;
+        movementCumulative = [0];
+        movementTotalDistance = 0;
+
+        for (let i = 1; i < points.length; i++) {
+            movementTotalDistance += routeDistance(points[i - 1], points[i]);
+            movementCumulative.push(movementTotalDistance);
+        }
+    }
+
+
+    function positionAlongRoute(distance) {
+        if (!movementRoutePoints.length) return null;
+        if (distance <= 0) return movementRoutePoints[0];
+        if (distance >= movementTotalDistance) {
+            return movementRoutePoints[movementRoutePoints.length - 1];
+        }
+
+        let low = 1;
+        let high = movementCumulative.length - 1;
+
+        while (low < high) {
+            const mid = Math.floor((low + high) / 2);
+            if (movementCumulative[mid] < distance) low = mid + 1;
+            else high = mid;
+        }
+
+        const i = low;
+        const prevDistance = movementCumulative[i - 1];
+        const segmentDistance = movementCumulative[i] - prevDistance;
+        const ratio = segmentDistance > 0
+            ? (distance - prevDistance) / segmentDistance
+            : 0;
+
+        const a = movementRoutePoints[i - 1];
+        const b = movementRoutePoints[i];
+
+        return [
+            a[0] + (b[0] - a[0]) * ratio,
+            a[1] + (b[1] - a[1]) * ratio
+        ];
+    }
+
+
+    function bearingDegrees(a, b) {
+        const lat1 = a[0] * Math.PI / 180;
+        const lat2 = b[0] * Math.PI / 180;
+        const dLon = (b[1] - a[1]) * Math.PI / 180;
+
+        const y = Math.sin(dLon) * Math.cos(lat2);
+        const x =
+            Math.cos(lat1) * Math.sin(lat2) -
+            Math.sin(lat1) * Math.cos(lat2) * Math.cos(dLon);
+
+        return Math.atan2(y, x) * 180 / Math.PI;
+    }
+
+
+    function createMovingVehicleIcon(vehicleType, bearing) {
+        const icon =
+            vehicleType === "bike"
+                ? "🏍️"
+                : vehicleType === "heavy"
+                    ? "🚛"
+                    : "🚗";
+
+        return L.divIcon({
+            className: "moving-vehicle-icon",
+            html: `<div class="moving-vehicle" style="transform:rotate(${bearing}deg)">${icon}</div>`,
+            iconSize: [34, 34],
+            iconAnchor: [17, 17]
+        });
+    }
+
+
+    function startVehicleSimulation(route, vehicleType) {
+        stopVehicleSimulation();
+
+        if (!route || !route.geometry || !route.geometry.coordinates) return;
+
+        const points = route.geometry.coordinates
+            .map(point => [Number(point[1]), Number(point[0])])
+            .filter(point => Number.isFinite(point[0]) && Number.isFinite(point[1]));
+
+        if (points.length < 2) return;
+
+        prepareMovementPath(points);
+
+        const startPoint = points[0];
+        const initialBearing = bearingDegrees(points[0], points[1]);
+
+        movingVehicleMarker = L.marker(startPoint, {
+            icon: createMovingVehicleIcon(vehicleType, initialBearing),
+            zIndexOffset: 1000
+        }).addTo(map);
+
+        movingVehicleMarker.bindPopup(
+            `<b>${vehicleType === "heavy" ? "🚛 Heavy Vehicle" : vehicleType === "bike" ? "🏍️ Bike" : "🚗 Car"}</b><br>` +
+            `Simulated route movement`
+        );
+
+        const status = document.getElementById("movementStatus");
+        if (status) {
+            status.innerHTML =
+                `🟢 <b>Vehicle moving</b> — starting from the selected From location and following ${route.route}. ` +
+                `<span>Simulation based on the route geometry; this is not live GPS.</span>`;
+        }
+
+        // Demo timing: a 20-minute route is visually completed in about 20s,
+        // with limits so very short/long routes remain usable in a demo.
+        const durationMs = Math.min(
+            120000,
+            Math.max(15000, Number(route.duration || 20) * 1000)
+        );
+
+        const startedAt = performance.now();
+
+        function animate(now) {
+            if (!movingVehicleMarker || !movementTotalDistance) return;
+
+            const elapsed = now - startedAt;
+            const progress = Math.min(elapsed / durationMs, 1);
+            const distance = movementTotalDistance * progress;
+            const position = positionAlongRoute(distance);
+
+            if (!position) return;
+
+            movingVehicleMarker.setLatLng(position);
+
+            const aheadDistance = Math.min(
+                distance + Math.max(5, movementTotalDistance / 100),
+                movementTotalDistance
+            );
+            const ahead = positionAlongRoute(aheadDistance) || position;
+            const bearing = bearingDegrees(position, ahead);
+            movingVehicleMarker.setIcon(
+                createMovingVehicleIcon(vehicleType, bearing)
+            );
+
+            if (status) {
+                const travelledKm = distance / 1000;
+                const totalKm = movementTotalDistance / 1000;
+                status.innerHTML =
+                    `🟢 <b>Vehicle moving</b> — ${route.route} · ` +
+                    `${travelledKm.toFixed(1)} / ${totalKm.toFixed(1)} km · ` +
+                    `${Math.round(progress * 100)}% complete ` +
+                    `<span>(simulated movement)</span>`;
+            }
+
+            if (progress < 1) {
+                movementAnimationFrame = requestAnimationFrame(animate);
+            } else {
+                movementAnimationFrame = null;
+                if (status) {
+                    status.innerHTML =
+                        `🏁 <b>Vehicle reached destination</b> — ${route.route}. ` +
+                        `<span>Press Find Routes again to replay the movement.</span>`;
+                }
+            }
+        }
+
+        movementAnimationFrame = requestAnimationFrame(animate);
+    }
+
+
+    /* =====================================================
+       LOCATION SUGGESTIONS
+    ===================================================== */
+
+    function setupAutocomplete(
+        inputId,
+        suggestionsId
+    ) {
+
+        const input =
+            document.getElementById(
+                inputId
+            );
+
+
+        const box =
+            document.getElementById(
+                suggestionsId
+            );
+
+
+        let timer;
+
+
+        input.addEventListener(
+            "input",
+            () => {
+
+                clearTimeout(timer);
+
+
+                const value =
+                    input.value.trim();
+
+
+                if (value.length < 2) {
+
+                    box.style.display =
+                        "none";
+
+                    return;
+
+                }
+
+
+                timer =
+                    setTimeout(
+                        () =>
+                            loadSuggestions(
+                                value,
+                                box,
+                                inputId
+                            ),
+                        350
+                    );
+
+            }
+        );
+
+
+        document.addEventListener(
+            "click",
+            event => {
+
+                if (
+                    !input.contains(event.target) &&
+                    !box.contains(event.target)
+                ) {
+
+                    box.style.display =
+                        "none";
+
+                }
+
+            }
+        );
+
+    }
+
+
+    async function loadSuggestions(
+        query,
+        box,
+        inputId
+    ) {
+
+        try {
+
+            const response =
+                await fetch(
+                    `/api/search-locations?q=${encodeURIComponent(query)}`
+                );
+
+
+            const data =
+                await response.json();
+
+
+            box.innerHTML = "";
+
+
+            if (
+                !data.length
+            ) {
+
+                box.style.display =
+                    "none";
+
+                return;
+
+            }
+
+
+            data.slice(0, 10).forEach(
+                item => {
+
+                    const div =
+                        document.createElement(
+                            "div"
+                        );
+
+
+                    div.className =
+                        "suggestion";
+
+
+                    div.innerHTML = `
+
+                        <strong>
+                            ${item.location || "Location"}
+                        </strong>
+
+                        <small>
+                            ${item.level.toUpperCase()}
+                            ${
+                                item.district
+                                    ? " • " + item.district
+                                    : ""
+                            }
+                        </small>
+                    `;
+
+
+                    div.onclick =
+                        () => {
+
+                            const input =
+                                document.getElementById(
+                                    inputId
+                                );
+
+
+                            input.value =
+                                item.location;
+
+
+                            if (
+                                item.lat != null &&
+                                item.lon != null
+                            ) {
+
+                                const location = {
+
+                                    name:
+                                        item.location,
+
+                                    lat:
+                                        Number(item.lat),
+
+                                    lon:
+                                        Number(item.lon)
+
+                                };
+
+
+                                if (
+                                    inputId ===
+                                    "fromInput"
+                                ) {
+
+                                    fromLocation =
+                                        location;
+
+                                }
+                                else {
+
+                                    toLocation =
+                                        location;
+
+                                }
+
+                            }
+
+
+                            box.style.display =
+                                "none";
+
+                        };
+
+
+                    box.appendChild(
+                        div
+                    );
+
+                }
+            );
+
+
+            box.style.display =
+                "block";
+
+        }
+        catch (error) {
+
+            console.error(
+                "Suggestion error:",
+                error
+            );
+
+        }
+
+    }
+
+
+    /* =====================================================
+       CURRENT TRAFFIC
+    ===================================================== */
+
+    async function loadCurrentTraffic() {
+
+        try {
+
+            const response =
+                await fetch(
+                    "/api/current"
+                );
+
+
+            const data =
+                await response.json();
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    data.error
+                );
+
+            }
+
+
+            document.getElementById(
+                "vehicleCount"
+            ).innerText =
+                data.vehicle_count ?? "--";
+
+
+            document.getElementById(
+                "trafficStatus"
+            ).innerText =
+                data.traffic_level ?? "--";
+
+
+            document.getElementById(
+                "trafficScore"
+            ).innerText =
+                data.score ?? "--";
+
+
+            const status =
+                String(
+                    data.traffic_level
+                ).toUpperCase();
+
+
+            const element =
+                document.getElementById(
+                    "trafficStatus"
+                );
+
+
+            element.className =
+                "card-value " +
+                (
+                    status === "LOW"
+                        ? "status-low"
+                        : status === "MEDIUM"
+                            ? "status-medium"
+                            : "status-high"
+                );
+
+        }
+        catch (error) {
+
+            console.error(
+                "Current traffic:",
+                error
+            );
+
+        }
+
+    }
+
+
+    /* =====================================================
+       ALERTS
+    ===================================================== */
+
+    async function loadAlerts() {
+
+        const container =
+            document.getElementById(
+                "alertsContainer"
+            );
+
+
+        try {
+
+            const response =
+                await fetch(
+                    "/api/alerts"
+                );
+
+
+            const data =
+                await response.json();
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    data.error
+                );
+
+            }
+
+
+            document.getElementById(
+                "alertCount"
+            ).innerText =
+                `${data.alert_count} alerts`;
+
+
+            container.innerHTML = "";
+
+
+            data.alerts.forEach(
+                alert => {
+
+                    const div =
+                        document.createElement(
+                            "div"
+                        );
+
+
+                    div.className =
+                        `alert alert-${alert.severity}`;
+
+
+                    div.innerHTML = `
+
+                        <div class="alert-title">
+                            ${getAlertIcon(alert.type)}
+                            ${alert.title}
+                        </div>
+
+                        <div class="alert-message">
+                            ${alert.message}
+                        </div>
+                    `;
+
+
+                    container.appendChild(
+                        div
+                    );
+
+
+                    if (
+                        alert.lat != null &&
+                        alert.lon != null
+                    ) {
+
+                        addAlertMarker(
+                            alert
+                        );
+
+                    }
+
+                }
+            );
+
+        }
+        catch (error) {
+
+            container.innerHTML =
+                `<div class="error">
+                    Unable to load traffic alerts.
+                 </div>`;
+
+        }
+
+    }
+
+
+    function getAlertIcon(type) {
+
+        const icons = {
+
+            ACCIDENT: "🚨",
+
+            ROAD_WORK: "🚧",
+
+            EVENT: "🎫",
+
+            HEAVY_TRAFFIC: "🔴",
+
+            MODERATE_TRAFFIC: "🟠",
+
+            CLEAR: "✅"
+
+        };
+
+
+        return icons[type] || "⚠️";
+
+    }
+
+
+    function addAlertMarker(alert) {
+
+        const colour =
+            alert.severity === "danger"
+                ? "#dc2626"
+                : alert.severity === "warning"
+                    ? "#f59e0b"
+                    : "#16a34a";
+
+
+        const marker =
+            L.circleMarker(
+                [
+                    alert.lat,
+                    alert.lon
+                ],
+                {
+                    radius: 8,
+                    color: "#ffffff",
+                    weight: 2,
+                    fillColor: colour,
+                    fillOpacity: 0.95
+                }
+            ).addTo(map);
+
+
+        marker.bindPopup(
+            `<b>${alert.title}</b><br>
+             ${alert.message}`
+        );
+
+
+        markers.push(
+            marker
+        );
+
+    }
+
+
+    /* =====================================================
+       FUTURE PREDICTION
+    ===================================================== */
+
+    async function loadFuture() {
+
+        try {
+
+            const response =
+                await fetch(
+                    "/api/future"
+                );
+
+
+            const data =
+                await response.json();
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    data.error
+                );
+
+            }
+
+
+            document.getElementById(
+                "futureCurrentVehicles"
+            ).innerText =
+                data.current_vehicles;
+
+
+            document.getElementById(
+                "futurePredictedVehicles"
+            ).innerText =
+                data.predicted_vehicles;
+
+
+            document.getElementById(
+                "futureTraffic"
+            ).innerText =
+                data.traffic;
+
+
+            document.getElementById(
+                "futureTime"
+            ).innerText =
+                data.future_time;
+
+
+            document.getElementById(
+                "futureConfidence"
+            ).innerText =
+                `${data.confidence}%`;
+
+        }
+        catch (error) {
+
+            document.getElementById(
+                "futureCurrentVehicles"
+            ).innerText =
+                "Data unavailable";
+
+        }
+
+    }
+
+
+    /* =====================================================
+       SPREAD
+    ===================================================== */
+
+    async function loadSpread() {
+
+        const container =
+            document.getElementById(
+                "spreadContent"
+            );
+
+
+        try {
+
+            const response =
+                await fetch(
+                    "/api/spread"
+                );
+
+
+            const data =
+                await response.json();
+
+
+            if (!Array.isArray(data)) {
+
+                throw new Error(
+                    "Invalid spread data"
+                );
+
+            }
+
+
+            if (!data.length) {
+
+                container.innerHTML =
+                    "<p>No congestion spread data available.</p>";
+
+                return;
+
+            }
+
+
+            let html =
+                "<div class='info-grid'>";
+
+
+            data.slice(0, 9).forEach(
+                row => {
+
+                    const values =
+                        Object.entries(
+                            row
+                        );
+
+
+                    html += `
+
+                        <div class="info-box">
+
+                            <h3>
+                                ${values[0]?.[1] ?? "Traffic Area"}
+                            </h3>
+
+                            <p>
+                                ${values
+                                    .slice(1, 4)
+                                    .map(
+                                        x =>
+                                            `${x[0]}: ${x[1]}`
+                                    )
+                                    .join("<br>")
+                                }
+                            </p>
+
+                        </div>
+
+                    `;
+
+                }
+            );
+
+
+            html +=
+                "</div>";
+
+
+            container.innerHTML =
+                html;
+
+        }
+        catch (error) {
+
+            container.innerHTML =
+                `<div class="error">
+                    Congestion spread data unavailable.
+                 </div>`;
+
+        }
+
+    }
+
+
+    /* =====================================================
+       WHAT IF
+    ===================================================== */
+
+    async function loadWhatIf() {
+
+        const container =
+            document.getElementById(
+                "whatIfContent"
+            );
+
+
+        try {
+
+            const response =
+                await fetch(
+                    "/api/what-if"
+                );
+
+
+            const data =
+                await response.json();
+
+
+            if (!Array.isArray(data)) {
+
+                throw new Error();
+
+            }
+
+
+            if (!data.length) {
+
+                container.innerHTML =
+                    "<p>No What-If data available.</p>";
+
+                return;
+
+            }
+
+
+            let html =
+                "<div class='info-grid'>";
+
+
+            data.slice(0, 9).forEach(
+                row => {
+
+                    const entries =
+                        Object.entries(
+                            row
+                        );
+
+
+                    html += `
+
+                        <div class="info-box">
+
+                            <h3>
+                                ${entries[0]?.[1] ?? "Scenario"}
+                            </h3>
+
+                            <p>
+                                ${entries
+                                    .slice(1, 5)
+                                    .map(
+                                        item =>
+                                            `${item[0]}: ${item[1]}`
+                                    )
+                                    .join("<br>")
+                                }
+                            </p>
+
+                        </div>
+
+                    `;
+
+                }
+            );
+
+
+            html +=
+                "</div>";
+
+
+            container.innerHTML =
+                html;
+
+        }
+        catch (error) {
+
+            container.innerHTML =
+                `<div class="error">
+                    What-If data unavailable.
+                 </div>`;
+
+        }
+
+    }
+
+
+    /* =====================================================
+       EXPLAINABLE AI
+    ===================================================== */
+
+    async function loadExplanation() {
+
+        const container =
+            document.getElementById(
+                "explanationContent"
+            );
+
+
+        try {
+
+            const response =
+                await fetch(
+                    "/api/explanation"
+                );
+
+
+            const data =
+                await response.json();
+
+
+            if (!response.ok) {
+
+                throw new Error(
+                    data.error
+                );
+
+            }
+
+
+            container.innerHTML = `
+
+                <div class="info-grid">
+
+                    <div class="info-box">
+
+                        <h3>
+                            🛣️ Recommended Route
+                        </h3>
+
+                        <p>
+                            ${data.route}
+                        </p>
+
+                    </div>
+
+
+                    <div class="info-box">
+
+                        <h3>
+                            🛣️ Road
+                        </h3>
+
+                        <p>
+                            ${data.road}
+                        </p>
+
+                    </div>
+
+
+                    <div class="info-box">
+
+                        <h3>
+                            🤖 Traffic Score
+                        </h3>
+
+                        <p>
+                            ${data.traffic_score}
+                        </p>
+
+                    </div>
+
+
+                    <div class="info-box">
+
+                        <h3>
+                            🚦 Traffic Status
+                        </h3>
+
+                        <p>
+                            ${data.traffic_status}
+                        </p>
+
+                    </div>
+
+
+                    <div class="info-box">
+
+                        <h3>
+                            ⏱️ Estimated Delay
+                        </h3>
+
+                        <p>
+                            ${data.estimated_delay} minutes
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <div class="info-box"
+                     style="margin-top:12px;">
+
+                    <h3>
+                        Why was this route selected?
+                    </h3>
+
+                    <p>
+
+                        ${
+                            data.reasons
+                                .map(
+                                    reason =>
+                                        `✓ ${reason}`
+                                )
+                                .join("<br>")
+                        }
+
+                    </p>
+
+                </div>
+            `;
+
+        }
+        catch (error) {
+
+            container.innerHTML =
+                `<div class="error">
+                    Explainable AI data unavailable.
+                 </div>`;
+
+        }
+
+    }
+
+
+    /* =====================================================
+       ANALYTICS
+    ===================================================== */
+
+    async function loadAnalytics() {
+
+        try {
+
+            const response =
+                await fetch(
+                    "/api/routes"
+                );
+
+
+            const data =
+                await response.json();
+
+
+            if (!Array.isArray(data)) {
+
+                return;
+
+            }
+
+
+            const labels =
+                data.map(
+                    row =>
+                        row.route ||
+                        row.Route ||
+                        "Route"
+                );
+
+
+            const scores =
+                data.map(
+                    row =>
+                        Number(
+                            row.traffic_score ||
+                            row.score ||
+                            0
+                        )
+                );
+
+
+            if (trafficChart) {
+
+                trafficChart.destroy();
+
+            }
+
+
+            trafficChart =
+                new Chart(
+                    document
+                        .getElementById(
+                            "trafficChart"
+                        ),
+                    {
+
+                        type: "bar",
+
+                        data: {
+
+                            labels: labels,
+
+                            datasets: [{
+
+                                label:
+                                    "Traffic Score",
+
+                                data: scores
+
+                            }]
+
+                        },
+
+                        options: {
+
+                            responsive: true,
+
+                            maintainAspectRatio: false,
+
+                            plugins: {
+
+                                legend: {
+                                    display: true
+                                }
+
+                            },
+
+                            scales: {
+
+                                y: {
+
+                                    beginAtZero: true
+
+                                }
+
+                            }
+
+                        }
+
+                    }
+                );
+
+
+            const distances =
+                data.map(
+                    row =>
+                        Number(
+                            row.distance ||
+                            row.distance_km ||
+                            0
+                        )
+                );
+
+
+            if (routeChart) {
+
+                routeChart.destroy();
+
+            }
+
+
+            routeChart =
+                new Chart(
+                    document
+                        .getElementById(
+                            "routeChart"
+                        ),
+                    {
+
+                        type: "line",
+
+                        data: {
+
+                            labels: labels,
+
+                            datasets: [{
+
+                                label:
+                                    "Route Distance (km)",
+
+                                data: distances,
+
+                                fill: false,
+
+                                tension: 0.3
+
+                            }]
+
+                        },
+
+                        options: {
+
+                            responsive: true,
+
+                            maintainAspectRatio: false,
+
+                            scales: {
+
+                                y: {
+
+                                    beginAtZero: true
+
+                                }
+
+                            }
+
+                        }
+
+                    }
+                );
+
+        }
+        catch (error) {
+
+            console.error(
+                "Analytics:",
+                error
+            );
+
+        }
+
+    }
+
+
+    /* =====================================================
+       VEHICLE MONITOR
+    ===================================================== */
+
+    async function loadVehicleMonitor() {
+        try {
+            const response = await fetch("/api/vehicle-monitor");
+            const data = await response.json();
+
+            if (!response.ok) {
+                throw new Error(data.error || "Vehicle monitor failed");
+            }
+
+            document.getElementById("bikeCount").innerText = data.bike_count;
+            document.getElementById("carCount").innerText = data.car_count;
+            document.getElementById("heavyCount").innerText = data.heavy_vehicle_count;
+            document.getElementById("totalVehicleCount").innerText = data.total_vehicle_count;
+            document.getElementById("trafficDensity").innerText = `${data.traffic_density}%`;
+            document.getElementById("monitorScore").innerText = data.congestion_score;
+            document.getElementById("monitorLevel").innerText = data.congestion_level;
+            document.getElementById("monitorNote").innerText = data.source;
+        }
+        catch (error) {
+            console.error("Vehicle monitor:", error);
+        }
+    }
+
+
+    /* =====================================================
+       NAVIGATION
+    ===================================================== */
+
+    function scrollToSection(id) {
+
+        const element =
+            document.getElementById(id);
+
+
+        if (element) {
+
+            element.scrollIntoView({
+
+                behavior: "smooth",
+
+                block: "start"
+
+            });
+
+        }
+
+    }
+
+
+    /* =====================================================
+       INITIALIZATION
+    ===================================================== */
+
+    document.addEventListener(
+        "DOMContentLoaded",
+        async () => {
+
+            initializeMap();
+
+            setupAutocomplete(
+                "fromInput",
+                "fromSuggestions"
+            );
+
+            setupAutocomplete(
+                "toInput",
+                "toSuggestions"
+            );
+
+            await loadVehicleMonitor();
+
+            await loadCurrentTraffic();
+
+            await loadAlerts();
+
+            await loadFuture();
+
+            await loadSpread();
+
+            await loadWhatIf();
+
+            await loadExplanation();
+
+            await loadAnalytics();
+
+        }
+    );
+
+
+    /* =====================================================
+       ENTER KEY SEARCH
+    ===================================================== */
+
+    document.getElementById(
+        "fromInput"
+    ).addEventListener(
+        "keydown",
+        event => {
+
+            if (event.key === "Enter") {
+
+                searchRoute();
+
+            }
+
+        }
+    );
+
+
+    document.getElementById(
+        "toInput"
+    ).addEventListener(
+        "keydown",
+        event => {
+
+            if (event.key === "Enter") {
+
+                searchRoute();
+
+            }
+
+        }
+    );
+
+</script>
+
+</body>
+</html>

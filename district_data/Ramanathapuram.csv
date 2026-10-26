@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Ramanathapuram,Ramanathapuram Town Road,Highway Road,287,56,Rain,1,0,0,28.91,LOW
+Ramanathapuram,Ramanathapuram NH Road,Bypass Road,681,44,Clear,0,0,0,41.79,MEDIUM
+Ramanathapuram,Ramanathapuram Market Road,Bypass Road,485,67,Normal,1,0,0,33.11,LOW
+Ramanathapuram,Ramanathapuram Bypass Road,Main Road,565,50,Normal,0,1,0,39.0,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Ring Road,743,46,Clear,0,1,1,58.72,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,NH Road,243,26,Rain,0,0,0,29.79,LOW
+Ramanathapuram,Ramanathapuram Town Road,Market Road,210,50,Clear,0,0,0,18.02,LOW
+Ramanathapuram,Ramanathapuram Ring Road,Bypass Road,776,51,Rain,0,0,0,43.06,MEDIUM
+Ramanathapuram,Ramanathapuram Ring Road,Market Road,540,30,Cloudy,0,0,0,41.44,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Market Road,123,50,Clear,0,0,0,14.11,LOW
+Ramanathapuram,Ramanathapuram NH Road,Market Road,264,20,Normal,0,1,0,38.31,MEDIUM
+Ramanathapuram,Ramanathapuram Market Road,Bypass Road,326,30,Clear,1,0,0,41.81,MEDIUM
+Ramanathapuram,Ramanathapuram Highway Road,Market Road,103,30,Cloudy,0,1,1,36.78,MEDIUM
+Ramanathapuram,Ramanathapuram Highway Road,Bus Stand Road,202,69,Normal,0,1,1,24.52,LOW
+Ramanathapuram,Ramanathapuram Market Road,Highway Road,971,54,Normal,1,0,0,60.55,MEDIUM
+Ramanathapuram,Ramanathapuram Highway Road,Town Road,908,48,Normal,0,0,0,50.29,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Bus Stand Road,721,28,Normal,0,0,0,50.45,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Market Road,312,28,Rain,0,0,1,42.04,MEDIUM
+Ramanathapuram,Ramanathapuram NH Road,Highway Road,336,39,Clear,1,0,0,38.41,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,Highway Road,498,51,Normal,0,0,1,40.55,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Ring Road,841,43,Cloudy,1,0,1,69.42,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Market Road,375,38,Cloudy,0,1,0,35.59,MEDIUM
+Ramanathapuram,Ramanathapuram Market Road,NH Road,966,17,Cloudy,1,0,0,76.18,HIGH
+Ramanathapuram,Ramanathapuram Bypass Road,Highway Road,194,54,Cloudy,0,0,0,15.59,LOW
+Ramanathapuram,Ramanathapuram Market Road,Town Road,400,24,Rain,1,0,0,47.71,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,Bus Stand Road,270,48,Rain,0,0,0,21.58,LOW
+Ramanathapuram,Ramanathapuram Main Road,Market Road,661,45,Clear,1,0,0,50.46,MEDIUM
+Ramanathapuram,Ramanathapuram NH Road,Highway Road,168,64,Rain,0,0,0,10.13,LOW
+Ramanathapuram,Ramanathapuram Main Road,Ring Road,840,26,Cloudy,0,0,0,56.66,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Bus Stand Road,884,32,Clear,0,0,1,66.07,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Highway Road,580,24,Cloudy,0,0,0,45.81,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,NH Road,565,26,Normal,0,0,0,44.28,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Town Road,239,15,Normal,0,1,1,49.33,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Bus Stand Road,762,48,Normal,0,1,0,48.72,MEDIUM
+Ramanathapuram,Ramanathapuram Ring Road,Bypass Road,229,66,Clear,0,0,0,12.02,LOW
+Ramanathapuram,Ramanathapuram Ring Road,Main Road,718,41,Rain,1,1,0,59.74,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Highway Road,598,27,Cloudy,0,0,1,55.34,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Main Road,764,65,Cloudy,0,1,0,41.52,MEDIUM
+Ramanathapuram,Ramanathapuram Highway Road,Ring Road,549,31,Cloudy,1,1,1,66.42,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,NH Road,574,23,Rain,1,0,0,55.97,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,NH Road,483,18,Rain,0,1,1,59.02,MEDIUM
+Ramanathapuram,Ramanathapuram NH Road,Ring Road,463,67,Rain,1,0,1,42.12,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Bypass Road,298,34,Clear,0,0,0,28.84,LOW
+Ramanathapuram,Ramanathapuram Highway Road,Town Road,125,47,Rain,0,0,0,15.48,LOW
+Ramanathapuram,Ramanathapuram Bypass Road,Ring Road,917,54,Clear,1,0,0,58.12,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Main Road,920,48,Clear,0,1,1,65.83,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Bus Stand Road,257,67,Cloudy,1,0,1,32.85,LOW
+Ramanathapuram,Ramanathapuram Town Road,Market Road,880,27,Clear,0,1,0,63.03,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Market Road,145,34,Normal,0,0,0,21.95,LOW
+Ramanathapuram,Ramanathapuram Market Road,Main Road,918,67,Clear,0,1,0,47.6,MEDIUM
+Ramanathapuram,Ramanathapuram NH Road,Market Road,267,69,Normal,0,0,1,22.44,LOW
+Ramanathapuram,Ramanathapuram Highway Road,Ring Road,269,58,Rain,1,0,0,27.25,LOW
+Ramanathapuram,Ramanathapuram Bus Stand Road,Bypass Road,971,45,Cloudy,0,0,0,54.41,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Ring Road,331,67,Rain,0,1,1,31.18,LOW
+Ramanathapuram,Ramanathapuram Bypass Road,NH Road,610,61,Cloudy,1,0,0,41.31,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,NH Road,668,29,Rain,0,0,1,57.63,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,NH Road,522,62,Cloudy,1,1,0,41.92,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,Town Road,266,54,Normal,1,0,0,28.83,LOW
+Ramanathapuram,Ramanathapuram Main Road,Ring Road,934,42,Rain,0,1,1,69.03,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Market Road,221,34,Normal,0,1,1,40.37,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Ring Road,540,69,Cloudy,0,0,0,24.73,LOW
+Ramanathapuram,Ramanathapuram NH Road,NH Road,712,35,Clear,1,0,0,57.04,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Main Road,253,49,Clear,1,1,0,35.38,MEDIUM
+Ramanathapuram,Ramanathapuram Ring Road,Ring Road,582,26,Clear,0,0,0,45.05,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,NH Road,141,25,Clear,0,0,0,25.63,LOW
+Ramanathapuram,Ramanathapuram Highway Road,NH Road,729,15,Rain,0,0,1,66.38,MEDIUM
+Ramanathapuram,Ramanathapuram NH Road,Highway Road,707,33,Rain,0,0,0,47.67,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Main Road,261,56,Normal,0,1,0,22.75,LOW
+Ramanathapuram,Ramanathapuram Ring Road,Bypass Road,972,36,Rain,0,1,1,73.31,HIGH
+Ramanathapuram,Ramanathapuram Bypass Road,Ring Road,769,60,Cloudy,1,1,0,53.89,MEDIUM
+Ramanathapuram,Ramanathapuram NH Road,Main Road,346,44,Clear,0,0,0,26.71,LOW
+Ramanathapuram,Ramanathapuram NH Road,Bypass Road,251,21,Rain,1,0,0,42.3,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,NH Road,804,35,Rain,0,1,1,66.18,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Town Road,826,28,Cloudy,1,0,0,65.17,MEDIUM
+Ramanathapuram,Ramanathapuram Town Road,Bus Stand Road,453,19,Normal,0,0,0,42.24,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Ring Road,574,57,Normal,1,0,1,51.4,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Town Road,774,35,Clear,0,0,0,49.83,MEDIUM
+Ramanathapuram,Ramanathapuram Market Road,Highway Road,598,36,Rain,0,0,0,41.48,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,Ring Road,307,61,Rain,0,1,0,22.67,LOW
+Ramanathapuram,Ramanathapuram NH Road,Highway Road,919,54,Cloudy,0,0,0,48.21,MEDIUM
+Ramanathapuram,Ramanathapuram Market Road,Town Road,316,24,Clear,0,0,1,43.93,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Ring Road,565,61,Clear,0,1,0,34.28,LOW
+Ramanathapuram,Ramanathapuram Highway Road,Market Road,517,52,Rain,0,1,1,45.98,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Main Road,954,52,Cloudy,0,1,0,55.64,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,Market Road,784,52,Clear,0,1,0,47.99,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,Town Road,327,67,Clear,1,0,1,36.0,MEDIUM
+Ramanathapuram,Ramanathapuram Bypass Road,Main Road,177,66,Normal,0,1,0,14.68,LOW
+Ramanathapuram,Ramanathapuram Town Road,Ring Road,694,28,Cloudy,0,0,0,49.23,MEDIUM
+Ramanathapuram,Ramanathapuram NH Road,Ring Road,658,56,Cloudy,0,0,1,45.61,MEDIUM
+Ramanathapuram,Ramanathapuram Bus Stand Road,Bypass Road,591,16,Rain,0,0,0,49.74,MEDIUM
+Ramanathapuram,Ramanathapuram Ring Road,NH Road,525,25,Rain,1,0,0,52.91,MEDIUM
+Ramanathapuram,Ramanathapuram NH Road,Main Road,416,49,Cloudy,0,0,0,27.72,LOW
+Ramanathapuram,Ramanathapuram Highway Road,Ring Road,167,64,Clear,0,0,0,10.09,LOW
+Ramanathapuram,Ramanathapuram Bypass Road,NH Road,612,64,Rain,1,0,1,50.11,MEDIUM
+Ramanathapuram,Ramanathapuram Market Road,Bypass Road,907,20,Clear,0,0,1,72.24,HIGH
+Ramanathapuram,Ramanathapuram Bus Stand Road,Ring Road,735,66,Cloudy,0,0,0,34.79,LOW
+Ramanathapuram,Ramanathapuram Main Road,Ring Road,634,67,Normal,0,1,0,34.82,LOW
+Ramanathapuram,Ramanathapuram Market Road,Bus Stand Road,911,63,Cloudy,1,0,1,64.0,MEDIUM
+Ramanathapuram,Ramanathapuram Highway Road,Highway Road,735,55,Normal,1,0,0,49.5,MEDIUM
+Ramanathapuram,Ramanathapuram Main Road,Highway Road,429,56,Cloudy,0,0,0,25.3,LOW

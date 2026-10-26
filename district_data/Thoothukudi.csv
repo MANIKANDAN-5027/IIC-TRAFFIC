@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Thoothukudi,Thoothukudi Main Road,Highway Road,882,43,Rain,1,1,0,66.26,MEDIUM
+Thoothukudi,Thoothukudi Bypass Road,Town Road,802,58,Rain,1,0,0,51.23,MEDIUM
+Thoothukudi,Thoothukudi Town Road,Highway Road,177,47,Cloudy,0,0,0,17.82,LOW
+Thoothukudi,Thoothukudi Town Road,NH Road,395,68,Normal,1,0,0,28.63,LOW
+Thoothukudi,Thoothukudi Ring Road,Main Road,399,64,Cloudy,0,0,0,20.53,LOW
+Thoothukudi,Thoothukudi Bus Stand Road,NH Road,778,55,Clear,1,0,0,51.44,MEDIUM
+Thoothukudi,Thoothukudi Town Road,Town Road,267,40,Rain,0,1,0,29.87,LOW
+Thoothukudi,Thoothukudi Bypass Road,Bypass Road,666,53,Rain,0,0,0,37.26,MEDIUM
+Thoothukudi,Thoothukudi Main Road,Ring Road,632,21,Normal,0,0,0,49.44,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Ring Road,412,57,Normal,0,1,0,29.11,LOW
+Thoothukudi,Thoothukudi Ring Road,Main Road,986,30,Clear,0,0,1,71.51,HIGH
+Thoothukudi,Thoothukudi Town Road,NH Road,100,28,Rain,0,0,1,32.5,LOW
+Thoothukudi,Thoothukudi Bypass Road,NH Road,760,28,Rain,0,0,1,62.2,MEDIUM
+Thoothukudi,Thoothukudi Town Road,Highway Road,885,51,Clear,0,1,0,52.97,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,Bus Stand Road,614,63,Normal,1,0,0,40.63,MEDIUM
+Thoothukudi,Thoothukudi Market Road,Town Road,999,56,Rain,0,0,0,50.95,MEDIUM
+Thoothukudi,Thoothukudi Bypass Road,Bypass Road,804,22,Rain,0,0,0,56.75,MEDIUM
+Thoothukudi,Thoothukudi Bypass Road,Ring Road,234,53,Normal,0,1,1,32.82,LOW
+Thoothukudi,Thoothukudi Main Road,Town Road,672,40,Cloudy,0,0,0,43.1,MEDIUM
+Thoothukudi,Thoothukudi Ring Road,Town Road,906,64,Normal,0,0,0,43.34,MEDIUM
+Thoothukudi,Thoothukudi Bus Stand Road,NH Road,240,35,Clear,1,0,0,35.8,MEDIUM
+Thoothukudi,Thoothukudi Main Road,Bypass Road,439,30,Normal,0,0,1,46.9,MEDIUM
+Thoothukudi,Thoothukudi Ring Road,Ring Road,414,45,Cloudy,1,0,0,39.34,MEDIUM
+Thoothukudi,Thoothukudi Market Road,Market Road,715,42,Rain,0,0,0,44.17,MEDIUM
+Thoothukudi,Thoothukudi Ring Road,Ring Road,106,46,Cloudy,0,0,0,15.06,LOW
+Thoothukudi,Thoothukudi Town Road,Bus Stand Road,204,25,Cloudy,0,0,0,28.47,LOW
+Thoothukudi,Thoothukudi Bus Stand Road,Highway Road,193,70,Normal,0,1,0,13.69,LOW
+Thoothukudi,Thoothukudi Ring Road,Ring Road,260,42,Rain,0,0,0,23.7,LOW
+Thoothukudi,Thoothukudi Bus Stand Road,Ring Road,275,26,Clear,0,0,0,31.23,LOW
+Thoothukudi,Thoothukudi NH Road,Highway Road,515,22,Clear,0,1,0,48.75,MEDIUM
+Thoothukudi,Thoothukudi Bypass Road,NH Road,156,36,Rain,0,0,0,21.59,LOW
+Thoothukudi,Thoothukudi Market Road,Ring Road,558,44,Cloudy,0,0,1,46.25,MEDIUM
+Thoothukudi,Thoothukudi Bypass Road,NH Road,465,64,Normal,0,0,1,33.5,LOW
+Thoothukudi,Thoothukudi Bypass Road,Bypass Road,221,37,Cloudy,0,1,0,29.09,LOW
+Thoothukudi,Thoothukudi Market Road,Market Road,137,36,Clear,0,1,0,25.74,LOW
+Thoothukudi,Thoothukudi Market Road,Market Road,642,28,Cloudy,1,0,0,56.89,MEDIUM
+Thoothukudi,Thoothukudi Ring Road,Bus Stand Road,537,17,Normal,1,0,0,56.88,MEDIUM
+Thoothukudi,Thoothukudi Town Road,Bus Stand Road,656,45,Rain,0,0,0,40.23,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,Bypass Road,800,19,Normal,0,0,0,57.86,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,Main Road,434,68,Clear,0,0,0,20.39,LOW
+Thoothukudi,Thoothukudi Highway Road,Market Road,624,51,Rain,0,0,1,46.22,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,Highway Road,385,70,Normal,1,1,0,32.33,LOW
+Thoothukudi,Thoothukudi Market Road,Market Road,266,52,Normal,1,0,0,29.68,LOW
+Thoothukudi,Thoothukudi Bypass Road,Ring Road,239,52,Clear,0,1,1,33.47,LOW
+Thoothukudi,Thoothukudi Main Road,Ring Road,724,52,Normal,0,0,0,40.29,MEDIUM
+Thoothukudi,Thoothukudi Bus Stand Road,NH Road,333,51,Clear,0,0,0,23.13,LOW
+Thoothukudi,Thoothukudi Bus Stand Road,Bypass Road,653,53,Normal,1,0,0,46.67,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,Bus Stand Road,383,62,Rain,0,1,0,25.66,LOW
+Thoothukudi,Thoothukudi Bus Stand Road,NH Road,943,64,Clear,1,0,0,55.01,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Bus Stand Road,283,24,Rain,0,1,1,47.45,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,Main Road,641,49,Rain,0,1,0,42.84,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Bypass Road,868,52,Cloudy,0,0,0,46.77,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Bus Stand Road,535,46,Cloudy,0,1,0,39.36,MEDIUM
+Thoothukudi,Thoothukudi NH Road,NH Road,753,16,Cloudy,0,0,1,67.03,MEDIUM
+Thoothukudi,Thoothukudi Main Road,Main Road,724,46,Cloudy,0,0,0,42.87,MEDIUM
+Thoothukudi,Thoothukudi Ring Road,Ring Road,953,21,Cloudy,1,1,0,78.88,HIGH
+Thoothukudi,Thoothukudi Market Road,Ring Road,673,70,Clear,1,1,0,45.29,MEDIUM
+Thoothukudi,Thoothukudi Main Road,Ring Road,743,68,Cloudy,0,0,1,44.29,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Market Road,229,58,Clear,1,0,0,25.45,LOW
+Thoothukudi,Thoothukudi Bus Stand Road,Ring Road,110,30,Rain,0,1,0,27.09,LOW
+Thoothukudi,Thoothukudi Ring Road,NH Road,224,30,Clear,1,0,0,37.22,MEDIUM
+Thoothukudi,Thoothukudi Bypass Road,Market Road,143,33,Normal,0,0,0,22.29,LOW
+Thoothukudi,Thoothukudi Market Road,Town Road,311,40,Normal,0,0,1,36.85,MEDIUM
+Thoothukudi,Thoothukudi Town Road,Market Road,243,43,Cloudy,0,0,0,22.51,LOW
+Thoothukudi,Thoothukudi Ring Road,Town Road,461,30,Clear,0,0,0,37.89,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Ring Road,475,55,Normal,0,1,0,32.8,LOW
+Thoothukudi,Thoothukudi Ring Road,Ring Road,940,39,Clear,0,1,0,60.59,MEDIUM
+Thoothukudi,Thoothukudi Main Road,Bus Stand Road,203,39,Cloudy,0,0,1,32.42,LOW
+Thoothukudi,Thoothukudi Bus Stand Road,Town Road,582,46,Normal,0,1,0,41.48,MEDIUM
+Thoothukudi,Thoothukudi Bus Stand Road,NH Road,519,15,Normal,0,0,0,46.93,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Main Road,926,31,Clear,0,0,1,68.38,MEDIUM
+Thoothukudi,Thoothukudi Ring Road,Bypass Road,738,59,Normal,1,0,0,47.92,MEDIUM
+Thoothukudi,Thoothukudi Main Road,Market Road,948,31,Clear,0,0,0,59.37,MEDIUM
+Thoothukudi,Thoothukudi Bus Stand Road,Highway Road,238,46,Normal,0,0,0,21.0,LOW
+Thoothukudi,Thoothukudi Bypass Road,Bypass Road,313,42,Normal,0,0,0,26.09,LOW
+Thoothukudi,Thoothukudi Main Road,Town Road,218,48,Clear,0,0,0,19.24,LOW
+Thoothukudi,Thoothukudi Bus Stand Road,Bus Stand Road,528,46,Rain,1,0,0,44.05,MEDIUM
+Thoothukudi,Thoothukudi Ring Road,NH Road,728,47,Cloudy,1,0,0,52.62,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,NH Road,951,68,Normal,0,1,0,48.65,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Town Road,372,27,Rain,0,1,0,40.17,MEDIUM
+Thoothukudi,Thoothukudi Market Road,NH Road,894,61,Normal,0,0,0,44.09,MEDIUM
+Thoothukudi,Thoothukudi Market Road,Market Road,310,50,Cloudy,1,1,0,37.52,MEDIUM
+Thoothukudi,Thoothukudi Bypass Road,NH Road,514,33,Cloudy,1,1,0,53.99,MEDIUM
+Thoothukudi,Thoothukudi Market Road,Town Road,834,15,Clear,0,0,0,61.1,MEDIUM
+Thoothukudi,Thoothukudi Ring Road,Bypass Road,290,49,Cloudy,0,1,0,27.05,LOW
+Thoothukudi,Thoothukudi NH Road,Main Road,140,31,Rain,0,0,0,23.01,LOW
+Thoothukudi,Thoothukudi Bypass Road,NH Road,561,44,Clear,0,0,0,36.39,MEDIUM
+Thoothukudi,Thoothukudi Market Road,Bus Stand Road,157,60,Rain,1,0,0,21.35,LOW
+Thoothukudi,Thoothukudi Highway Road,Bypass Road,480,64,Clear,0,0,0,24.17,LOW
+Thoothukudi,Thoothukudi Main Road,Highway Road,749,24,Cloudy,0,0,1,63.42,MEDIUM
+Thoothukudi,Thoothukudi Bus Stand Road,Bus Stand Road,862,39,Rain,0,1,0,57.08,MEDIUM
+Thoothukudi,Thoothukudi Bypass Road,Main Road,180,46,Rain,0,0,0,18.39,LOW
+Thoothukudi,Thoothukudi NH Road,NH Road,952,59,Clear,0,0,1,57.55,MEDIUM
+Thoothukudi,Thoothukudi NH Road,Town Road,136,27,Cloudy,0,1,1,39.55,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,Bus Stand Road,151,45,Clear,0,0,1,27.51,LOW
+Thoothukudi,Thoothukudi Market Road,Town Road,255,64,Normal,0,0,0,14.05,LOW
+Thoothukudi,Thoothukudi Town Road,Main Road,838,23,Clear,0,0,0,57.85,MEDIUM
+Thoothukudi,Thoothukudi Main Road,NH Road,447,44,Normal,1,0,0,41.26,MEDIUM
+Thoothukudi,Thoothukudi Highway Road,Market Road,349,23,Normal,0,0,0,35.85,MEDIUM
+Thoothukudi,Thoothukudi Bus Stand Road,NH Road,191,27,Clear,0,1,0,32.02,LOW

@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Nagapattinam,Nagapattinam Main Road,Bus Stand Road,188,52,Clear,0,0,0,16.17,LOW
+Nagapattinam,Nagapattinam Bus Stand Road,Highway Road,468,64,Cloudy,1,0,0,33.63,LOW
+Nagapattinam,Nagapattinam Bus Stand Road,NH Road,952,28,Normal,1,0,0,70.84,HIGH
+Nagapattinam,Nagapattinam Bus Stand Road,Bypass Road,537,55,Clear,1,0,0,40.59,MEDIUM
+Nagapattinam,Nagapattinam Main Road,Market Road,220,46,Rain,0,0,0,20.19,LOW
+Nagapattinam,Nagapattinam Bus Stand Road,Bypass Road,948,31,Clear,1,0,0,69.37,MEDIUM
+Nagapattinam,Nagapattinam Main Road,NH Road,647,51,Normal,0,0,1,47.26,MEDIUM
+Nagapattinam,Nagapattinam Town Road,Bypass Road,369,56,Cloudy,0,0,0,22.61,LOW
+Nagapattinam,Nagapattinam Ring Road,Main Road,442,63,Cloudy,0,0,0,22.89,LOW
+Nagapattinam,Nagapattinam Town Road,NH Road,605,19,Normal,0,0,0,49.08,MEDIUM
+Nagapattinam,Nagapattinam Highway Road,Market Road,232,32,Rain,0,0,0,26.73,LOW
+Nagapattinam,Nagapattinam Main Road,Main Road,541,45,Cloudy,0,0,0,35.06,MEDIUM
+Nagapattinam,Nagapattinam Main Road,Town Road,647,53,Normal,1,0,1,56.4,MEDIUM
+Nagapattinam,Nagapattinam NH Road,Highway Road,812,23,Clear,1,1,0,71.68,HIGH
+Nagapattinam,Nagapattinam Town Road,Main Road,730,38,Cloudy,0,0,0,46.56,MEDIUM
+Nagapattinam,Nagapattinam Main Road,Main Road,337,20,Cloudy,0,0,1,46.59,MEDIUM
+Nagapattinam,Nagapattinam Highway Road,Bus Stand Road,932,18,Rain,0,0,0,64.23,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,Town Road,144,35,Normal,0,0,0,21.48,LOW
+Nagapattinam,Nagapattinam Market Road,Highway Road,773,22,Rain,0,0,0,55.36,MEDIUM
+Nagapattinam,Nagapattinam Bypass Road,Market Road,979,29,Rain,1,0,0,71.63,HIGH
+Nagapattinam,Nagapattinam Town Road,Highway Road,426,59,Rain,0,0,0,23.88,LOW
+Nagapattinam,Nagapattinam Market Road,NH Road,180,28,Rain,0,0,0,26.1,LOW
+Nagapattinam,Nagapattinam Highway Road,Highway Road,842,67,Clear,0,0,0,39.18,MEDIUM
+Nagapattinam,Nagapattinam Town Road,Bypass Road,121,46,Clear,0,0,0,15.73,LOW
+Nagapattinam,Nagapattinam Town Road,Town Road,161,32,Normal,1,1,0,38.53,MEDIUM
+Nagapattinam,Nagapattinam Town Road,Main Road,145,29,Rain,0,1,0,29.1,LOW
+Nagapattinam,Nagapattinam Bypass Road,Market Road,132,49,Clear,0,0,0,14.94,LOW
+Nagapattinam,Nagapattinam NH Road,Town Road,449,61,Rain,1,1,0,39.06,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,Town Road,979,49,Normal,1,1,0,68.06,MEDIUM
+Nagapattinam,Nagapattinam Bypass Road,NH Road,863,30,Cloudy,0,0,0,55.98,MEDIUM
+Nagapattinam,Nagapattinam Main Road,Bypass Road,889,49,Rain,0,0,1,59.01,MEDIUM
+Nagapattinam,Nagapattinam Bypass Road,Ring Road,375,57,Rain,0,0,0,22.45,LOW
+Nagapattinam,Nagapattinam Highway Road,Main Road,967,26,Normal,1,1,0,77.37,HIGH
+Nagapattinam,Nagapattinam Main Road,NH Road,137,37,Rain,1,0,1,40.31,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,Bypass Road,724,50,Rain,0,0,1,51.15,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,Bus Stand Road,365,70,Clear,1,0,0,26.43,LOW
+Nagapattinam,Nagapattinam Ring Road,Main Road,338,22,Cloudy,0,0,1,45.78,MEDIUM
+Nagapattinam,Nagapattinam Ring Road,Main Road,162,60,Cloudy,0,0,0,11.58,LOW
+Nagapattinam,Nagapattinam NH Road,Market Road,458,21,Cloudy,0,1,0,46.61,MEDIUM
+Nagapattinam,Nagapattinam Town Road,Bypass Road,433,51,Cloudy,0,1,0,32.63,LOW
+Nagapattinam,Nagapattinam Ring Road,Highway Road,125,35,Rain,0,0,1,30.62,LOW
+Nagapattinam,Nagapattinam Bypass Road,Bus Stand Road,736,16,Clear,0,0,0,56.26,MEDIUM
+Nagapattinam,Nagapattinam Market Road,Town Road,208,53,Clear,0,0,0,16.65,LOW
+Nagapattinam,Nagapattinam NH Road,Market Road,772,61,Normal,0,1,0,43.6,MEDIUM
+Nagapattinam,Nagapattinam Highway Road,Ring Road,651,61,Rain,0,0,1,43.15,MEDIUM
+Nagapattinam,Nagapattinam Market Road,Ring Road,299,68,Cloudy,0,0,0,14.31,LOW
+Nagapattinam,Nagapattinam Town Road,Ring Road,566,35,Clear,0,0,1,50.47,MEDIUM
+Nagapattinam,Nagapattinam Market Road,Highway Road,460,50,Normal,0,0,1,39.27,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,Bypass Road,335,51,Rain,0,0,1,33.22,LOW
+Nagapattinam,Nagapattinam Town Road,Bus Stand Road,449,35,Normal,0,0,1,45.2,MEDIUM
+Nagapattinam,Nagapattinam Main Road,Bus Stand Road,747,64,Clear,0,0,1,46.19,MEDIUM
+Nagapattinam,Nagapattinam Main Road,Town Road,528,31,Clear,1,0,0,50.47,MEDIUM
+Nagapattinam,Nagapattinam Town Road,Ring Road,806,25,Cloudy,0,0,1,65.56,MEDIUM
+Nagapattinam,Nagapattinam Ring Road,Ring Road,511,59,Clear,0,0,0,27.71,LOW
+Nagapattinam,Nagapattinam Town Road,Highway Road,839,17,Normal,0,0,1,70.47,HIGH
+Nagapattinam,Nagapattinam NH Road,Bus Stand Road,396,63,Clear,1,0,0,30.82,LOW
+Nagapattinam,Nagapattinam Ring Road,Highway Road,707,52,Cloudy,0,1,1,54.53,MEDIUM
+Nagapattinam,Nagapattinam Bypass Road,Highway Road,620,61,Rain,0,0,0,31.76,LOW
+Nagapattinam,Nagapattinam Town Road,Ring Road,149,51,Cloudy,1,0,0,24.85,LOW
+Nagapattinam,Nagapattinam Ring Road,NH Road,246,17,Rain,0,1,0,38.78,MEDIUM
+Nagapattinam,Nagapattinam Highway Road,Highway Road,391,25,Cloudy,0,0,0,36.88,MEDIUM
+Nagapattinam,Nagapattinam Bypass Road,Bus Stand Road,273,33,Clear,0,0,0,28.14,LOW
+Nagapattinam,Nagapattinam Market Road,Main Road,311,50,Normal,0,0,0,22.57,LOW
+Nagapattinam,Nagapattinam Bypass Road,Town Road,952,67,Normal,0,0,0,44.13,MEDIUM
+Nagapattinam,Nagapattinam NH Road,Highway Road,633,23,Normal,1,0,0,58.63,MEDIUM
+Nagapattinam,Nagapattinam NH Road,Ring Road,605,31,Clear,0,0,0,43.94,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,Ring Road,862,65,Rain,0,0,0,40.93,MEDIUM
+Nagapattinam,Nagapattinam Town Road,NH Road,564,55,Rain,0,0,0,31.81,LOW
+Nagapattinam,Nagapattinam Bus Stand Road,Town Road,294,68,Cloudy,0,0,0,14.09,LOW
+Nagapattinam,Nagapattinam Highway Road,Bus Stand Road,789,27,Normal,0,1,0,58.93,MEDIUM
+Nagapattinam,Nagapattinam Main Road,Town Road,389,23,Clear,0,0,0,37.65,MEDIUM
+Nagapattinam,Nagapattinam Town Road,Bypass Road,602,50,Normal,0,0,0,35.66,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,Bypass Road,746,52,Cloudy,0,0,1,51.28,MEDIUM
+Nagapattinam,Nagapattinam Ring Road,Highway Road,996,33,Rain,1,1,1,85.68,HIGH
+Nagapattinam,Nagapattinam Highway Road,Ring Road,198,29,Cloudy,0,0,1,36.48,MEDIUM
+Nagapattinam,Nagapattinam Ring Road,NH Road,778,42,Rain,0,0,1,57.01,MEDIUM
+Nagapattinam,Nagapattinam Town Road,Market Road,813,40,Clear,0,1,1,64.44,MEDIUM
+Nagapattinam,Nagapattinam Ring Road,Bypass Road,397,32,Rain,0,1,0,39.15,MEDIUM
+Nagapattinam,Nagapattinam Bypass Road,Main Road,521,40,Rain,1,1,1,61.3,MEDIUM
+Nagapattinam,Nagapattinam Bypass Road,Highway Road,597,61,Normal,0,0,0,30.72,LOW
+Nagapattinam,Nagapattinam Ring Road,Bus Stand Road,326,51,Clear,0,0,0,22.81,LOW
+Nagapattinam,Nagapattinam Ring Road,NH Road,839,16,Clear,1,0,0,70.9,HIGH
+Nagapattinam,Nagapattinam Town Road,Market Road,631,28,Rain,0,0,0,46.39,MEDIUM
+Nagapattinam,Nagapattinam Market Road,Market Road,920,25,Clear,0,0,1,70.69,HIGH
+Nagapattinam,Nagapattinam Highway Road,Main Road,136,69,Cloudy,0,0,1,16.55,LOW
+Nagapattinam,Nagapattinam Main Road,Bypass Road,389,34,Clear,0,0,0,32.93,LOW
+Nagapattinam,Nagapattinam Bypass Road,NH Road,932,65,Clear,1,1,0,59.08,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,NH Road,175,47,Normal,1,0,0,27.73,LOW
+Nagapattinam,Nagapattinam Main Road,Bypass Road,298,68,Rain,0,0,1,24.27,LOW
+Nagapattinam,Nagapattinam Town Road,Bypass Road,569,27,Normal,0,0,1,54.03,MEDIUM
+Nagapattinam,Nagapattinam Bypass Road,Market Road,195,29,Normal,1,0,1,46.35,MEDIUM
+Nagapattinam,Nagapattinam Highway Road,Market Road,117,46,Clear,1,0,0,25.55,LOW
+Nagapattinam,Nagapattinam Highway Road,NH Road,506,64,Rain,0,1,0,30.34,LOW
+Nagapattinam,Nagapattinam Market Road,Highway Road,440,24,Cloudy,0,0,0,39.51,MEDIUM
+Nagapattinam,Nagapattinam Main Road,Highway Road,185,24,Rain,1,1,0,43.04,MEDIUM
+Nagapattinam,Nagapattinam Ring Road,Town Road,521,34,Clear,0,0,0,38.87,MEDIUM
+Nagapattinam,Nagapattinam Ring Road,Market Road,374,59,Rain,0,1,1,36.54,MEDIUM
+Nagapattinam,Nagapattinam Town Road,NH Road,572,60,Normal,1,0,0,40.03,MEDIUM
+Nagapattinam,Nagapattinam Bus Stand Road,Market Road,230,63,Normal,0,0,0,13.35,LOW
+Nagapattinam,Nagapattinam Bus Stand Road,Highway Road,990,22,Cloudy,0,1,1,80.12,HIGH

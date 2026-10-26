@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Erode,Erode Highway Road,Highway Road,638,51,Cloudy,0,0,1,46.85,MEDIUM
+Erode,Erode NH Road,Main Road,724,29,Normal,0,0,0,50.15,MEDIUM
+Erode,Erode Town Road,Main Road,740,65,Rain,0,0,1,45.44,MEDIUM
+Erode,Erode Bypass Road,Bypass Road,458,50,Clear,0,0,0,29.18,LOW
+Erode,Erode Ring Road,Ring Road,415,34,Normal,0,0,0,34.1,LOW
+Erode,Erode Ring Road,Ring Road,841,51,Normal,0,0,0,45.99,MEDIUM
+Erode,Erode Bus Stand Road,Highway Road,585,66,Rain,0,0,1,38.04,MEDIUM
+Erode,Erode Ring Road,Main Road,573,65,Cloudy,1,0,0,37.93,MEDIUM
+Erode,Erode Bus Stand Road,Bypass Road,691,58,Clear,0,0,0,36.24,MEDIUM
+Erode,Erode NH Road,Bypass Road,447,39,Rain,0,1,0,38.4,MEDIUM
+Erode,Erode Highway Road,Market Road,826,17,Rain,0,1,0,64.88,MEDIUM
+Erode,Erode Bus Stand Road,NH Road,562,68,Rain,0,0,0,26.15,LOW
+Erode,Erode Main Road,Highway Road,903,17,Cloudy,0,0,1,73.35,HIGH
+Erode,Erode Bus Stand Road,NH Road,294,36,Cloudy,1,0,0,37.8,MEDIUM
+Erode,Erode NH Road,Main Road,310,61,Rain,0,1,1,32.81,LOW
+Erode,Erode Main Road,NH Road,145,58,Rain,0,0,1,21.67,LOW
+Erode,Erode Market Road,Market Road,123,51,Rain,0,0,0,13.68,LOW
+Erode,Erode Bypass Road,Bus Stand Road,383,49,Cloudy,0,1,0,31.23,LOW
+Erode,Erode Ring Road,Ring Road,380,22,Rain,0,0,0,37.67,MEDIUM
+Erode,Erode NH Road,Bypass Road,244,60,Rain,0,0,0,15.27,LOW
+Erode,Erode Highway Road,Main Road,653,43,Clear,0,0,0,40.96,MEDIUM
+Erode,Erode Bus Stand Road,Highway Road,492,18,Rain,0,1,1,59.43,MEDIUM
+Erode,Erode Bus Stand Road,NH Road,419,36,Normal,0,0,1,43.43,MEDIUM
+Erode,Erode Market Road,Market Road,199,44,Cloudy,0,1,1,35.1,MEDIUM
+Erode,Erode Bus Stand Road,Ring Road,981,54,Rain,0,0,1,61.0,MEDIUM
+Erode,Erode NH Road,Ring Road,564,46,Normal,0,0,1,45.67,MEDIUM
+Erode,Erode Bus Stand Road,NH Road,572,69,Normal,0,0,0,26.17,LOW
+Erode,Erode Bypass Road,Highway Road,937,60,Normal,0,0,0,46.45,MEDIUM
+Erode,Erode Highway Road,Town Road,704,41,Clear,0,0,0,44.11,MEDIUM
+Erode,Erode Market Road,Bus Stand Road,448,28,Clear,1,1,0,53.16,MEDIUM
+Erode,Erode Ring Road,NH Road,857,60,Normal,1,0,1,62.85,MEDIUM
+Erode,Erode Town Road,Ring Road,280,34,Normal,1,0,0,38.03,MEDIUM
+Erode,Erode Bus Stand Road,Main Road,760,57,Cloudy,0,0,0,39.77,MEDIUM
+Erode,Erode Highway Road,Market Road,776,24,Cloudy,1,0,1,74.63,HIGH
+Erode,Erode Ring Road,NH Road,797,35,Clear,0,0,1,60.87,MEDIUM
+Erode,Erode Main Road,Ring Road,726,47,Clear,1,0,0,52.53,MEDIUM
+Erode,Erode Main Road,Market Road,100,60,Normal,0,0,0,8.79,LOW
+Erode,Erode Town Road,Town Road,819,52,Normal,1,0,1,64.57,MEDIUM
+Erode,Erode Market Road,Town Road,658,28,Rain,0,1,0,52.61,MEDIUM
+Erode,Erode Bus Stand Road,Main Road,960,41,Clear,0,0,0,55.63,MEDIUM
+Erode,Erode Bus Stand Road,NH Road,763,16,Cloudy,0,1,1,72.48,HIGH
+Erode,Erode Bus Stand Road,Highway Road,757,66,Normal,1,1,1,60.78,MEDIUM
+Erode,Erode Market Road,Bus Stand Road,665,67,Normal,1,1,0,46.21,MEDIUM
+Erode,Erode Town Road,Ring Road,719,15,Clear,1,0,0,65.93,MEDIUM
+Erode,Erode Highway Road,NH Road,138,51,Cloudy,1,0,0,24.35,LOW
+Erode,Erode NH Road,Market Road,847,61,Normal,0,1,0,46.97,MEDIUM
+Erode,Erode Ring Road,Main Road,745,62,Normal,0,0,0,36.95,MEDIUM
+Erode,Erode Ring Road,Bypass Road,564,47,Rain,1,0,1,55.24,MEDIUM
+Erode,Erode Highway Road,Bus Stand Road,271,17,Clear,0,0,0,34.91,LOW
+Erode,Erode NH Road,Bus Stand Road,772,33,Clear,0,0,1,60.6,MEDIUM
+Erode,Erode Bypass Road,Bypass Road,971,65,Rain,0,0,0,45.84,MEDIUM
+Erode,Erode Highway Road,Ring Road,114,62,Cloudy,0,0,0,8.56,LOW
+Erode,Erode Main Road,Ring Road,367,65,Clear,0,1,0,23.66,LOW
+Erode,Erode Town Road,Market Road,248,53,Normal,0,1,1,33.45,LOW
+Erode,Erode Main Road,Bypass Road,843,55,Clear,0,0,0,44.36,MEDIUM
+Erode,Erode Bypass Road,Highway Road,153,25,Cloudy,1,1,1,51.17,MEDIUM
+Erode,Erode Bus Stand Road,Town Road,488,58,Clear,1,1,0,42.1,MEDIUM
+Erode,Erode Main Road,NH Road,395,66,Rain,1,1,0,34.49,LOW
+Erode,Erode Bypass Road,NH Road,964,42,Rain,0,0,0,55.38,MEDIUM
+Erode,Erode Market Road,Ring Road,770,52,Cloudy,1,1,0,57.36,MEDIUM
+Erode,Erode Main Road,Town Road,420,50,Clear,0,0,0,27.47,LOW
+Erode,Erode Bypass Road,Bypass Road,637,21,Cloudy,1,0,0,59.66,MEDIUM
+Erode,Erode NH Road,NH Road,134,16,Clear,0,0,0,29.17,LOW
+Erode,Erode NH Road,Bus Stand Road,976,53,Rain,0,1,0,56.21,MEDIUM
+Erode,Erode Town Road,Ring Road,401,44,Rain,0,1,0,34.19,LOW
+Erode,Erode Town Road,Town Road,265,64,Rain,0,0,0,14.5,LOW
+Erode,Erode NH Road,Highway Road,161,31,Cloudy,0,0,1,33.96,LOW
+Erode,Erode Bus Stand Road,Town Road,724,40,Cloudy,0,1,0,50.44,MEDIUM
+Erode,Erode NH Road,Main Road,728,56,Clear,0,1,0,43.76,MEDIUM
+Erode,Erode Highway Road,Bus Stand Road,172,51,Clear,0,1,0,20.88,LOW
+Erode,Erode Ring Road,Town Road,138,57,Clear,1,0,0,21.78,LOW
+Erode,Erode Town Road,NH Road,627,60,Cloudy,1,1,1,57.5,MEDIUM
+Erode,Erode Ring Road,Bypass Road,103,39,Normal,1,0,0,27.92,LOW
+Erode,Erode NH Road,Highway Road,156,55,Rain,0,0,0,13.45,LOW
+Erode,Erode Market Road,Bypass Road,763,27,Normal,0,0,1,62.76,MEDIUM
+Erode,Erode Highway Road,Market Road,209,55,Cloudy,0,1,0,20.83,LOW
+Erode,Erode Town Road,NH Road,136,27,Rain,0,0,1,34.55,LOW
+Erode,Erode Ring Road,Main Road,611,49,Rain,1,0,0,46.5,MEDIUM
+Erode,Erode Market Road,Highway Road,906,61,Cloudy,0,1,0,49.63,MEDIUM
+Erode,Erode Bus Stand Road,Highway Road,858,52,Clear,0,0,0,46.32,MEDIUM
+Erode,Erode Main Road,Bus Stand Road,582,54,Clear,0,0,0,33.05,LOW
+Erode,Erode NH Road,NH Road,414,67,Clear,0,1,0,24.92,LOW
+Erode,Erode Town Road,Ring Road,609,53,Normal,0,0,0,34.69,LOW
+Erode,Erode Main Road,Bus Stand Road,432,22,Rain,0,0,0,40.01,MEDIUM
+Erode,Erode Bus Stand Road,Ring Road,164,22,Cloudy,0,0,1,37.95,MEDIUM
+Erode,Erode Town Road,Bus Stand Road,549,30,Clear,0,0,0,41.85,MEDIUM
+Erode,Erode Bus Stand Road,NH Road,1000,46,Rain,0,0,0,55.29,MEDIUM
+Erode,Erode Bus Stand Road,Bypass Road,526,59,Normal,1,0,0,38.38,MEDIUM
+Erode,Erode Highway Road,NH Road,521,30,Rain,0,0,0,40.59,MEDIUM
+Erode,Erode NH Road,NH Road,456,41,Rain,0,0,0,32.95,LOW
+Erode,Erode Bypass Road,Main Road,983,63,Cloudy,0,1,0,52.23,MEDIUM
+Erode,Erode Bus Stand Road,Bus Stand Road,215,65,Clear,0,1,1,26.82,LOW
+Erode,Erode Town Road,Bypass Road,155,56,Rain,0,0,0,12.97,LOW
+Erode,Erode Main Road,Bus Stand Road,731,66,Cloudy,1,0,0,44.61,MEDIUM
+Erode,Erode Market Road,Highway Road,904,16,Rain,1,0,0,73.82,HIGH
+Erode,Erode Ring Road,Market Road,529,27,Clear,0,0,0,42.23,MEDIUM
+Erode,Erode Market Road,NH Road,342,62,Normal,1,0,1,38.82,MEDIUM
+Erode,Erode Market Road,Highway Road,699,46,Cloudy,0,1,0,46.74,MEDIUM
+Erode,Erode Ring Road,Bypass Road,496,38,Cloudy,0,1,0,41.03,MEDIUM
+Erode,Erode Bus Stand Road,NH Road,443,23,Normal,0,0,0,40.08,MEDIUM

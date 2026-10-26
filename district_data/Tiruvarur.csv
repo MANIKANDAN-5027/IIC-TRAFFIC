@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Tiruvarur,Tiruvarur NH Road,Town Road,711,57,Rain,1,0,1,57.57,MEDIUM
+Tiruvarur,Tiruvarur Bus Stand Road,Highway Road,933,37,Rain,0,0,0,56.13,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,NH Road,176,15,Normal,0,0,0,31.49,LOW
+Tiruvarur,Tiruvarur Town Road,Bypass Road,697,49,Cloudy,0,0,1,50.36,MEDIUM
+Tiruvarur,Tiruvarur Town Road,Highway Road,159,16,Rain,0,0,0,30.3,LOW
+Tiruvarur,Tiruvarur Bypass Road,Bus Stand Road,779,40,Cloudy,0,0,0,47.91,MEDIUM
+Tiruvarur,Tiruvarur Town Road,Town Road,559,55,Cloudy,0,1,0,36.58,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Bypass Road,878,56,Normal,0,1,0,50.51,MEDIUM
+Tiruvarur,Tiruvarur NH Road,Bypass Road,994,15,Rain,1,0,0,78.3,HIGH
+Tiruvarur,Tiruvarur Town Road,Bus Stand Road,213,68,Rain,0,0,1,20.44,LOW
+Tiruvarur,Tiruvarur Main Road,Town Road,141,65,Normal,1,0,0,18.49,LOW
+Tiruvarur,Tiruvarur Highway Road,Bus Stand Road,654,53,Cloudy,0,0,0,36.72,MEDIUM
+Tiruvarur,Tiruvarur NH Road,NH Road,107,45,Rain,1,0,0,25.53,LOW
+Tiruvarur,Tiruvarur Bus Stand Road,Bus Stand Road,991,65,Cloudy,0,0,0,46.74,MEDIUM
+Tiruvarur,Tiruvarur Bypass Road,Highway Road,279,50,Rain,0,0,0,21.13,LOW
+Tiruvarur,Tiruvarur Main Road,Main Road,987,24,Rain,0,0,0,64.13,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Ring Road,194,17,Clear,0,1,0,36.44,MEDIUM
+Tiruvarur,Tiruvarur Ring Road,Market Road,821,22,Rain,0,0,0,57.52,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Town Road,898,43,Rain,0,0,0,51.98,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,Market Road,220,55,Clear,0,1,0,21.33,LOW
+Tiruvarur,Tiruvarur Bypass Road,NH Road,230,49,Rain,0,0,0,19.35,LOW
+Tiruvarur,Tiruvarur NH Road,Ring Road,987,60,Cloudy,0,0,0,48.7,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,Town Road,905,63,Normal,0,0,0,43.73,MEDIUM
+Tiruvarur,Tiruvarur NH Road,Market Road,394,61,Clear,0,0,0,21.59,LOW
+Tiruvarur,Tiruvarur Market Road,Highway Road,494,29,Clear,0,1,0,44.8,MEDIUM
+Tiruvarur,Tiruvarur Bypass Road,Market Road,783,24,Normal,0,0,1,64.95,MEDIUM
+Tiruvarur,Tiruvarur Ring Road,Ring Road,710,51,Normal,0,0,0,40.09,MEDIUM
+Tiruvarur,Tiruvarur Bus Stand Road,Main Road,903,38,Normal,0,0,0,54.35,MEDIUM
+Tiruvarur,Tiruvarur Bus Stand Road,Town Road,717,42,Clear,0,0,0,44.27,MEDIUM
+Tiruvarur,Tiruvarur Town Road,Highway Road,486,19,Cloudy,0,1,0,48.73,MEDIUM
+Tiruvarur,Tiruvarur Main Road,NH Road,339,43,Normal,0,0,1,36.83,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Town Road,425,24,Clear,1,1,0,53.84,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Main Road,406,52,Rain,0,0,0,25.98,LOW
+Tiruvarur,Tiruvarur Bypass Road,Bypass Road,299,45,Rain,1,0,1,44.17,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Bypass Road,570,64,Cloudy,1,0,0,38.22,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Bypass Road,346,62,Clear,0,0,0,19.0,LOW
+Tiruvarur,Tiruvarur Bus Stand Road,Bypass Road,885,17,Clear,0,0,1,72.54,HIGH
+Tiruvarur,Tiruvarur NH Road,Ring Road,837,36,Rain,0,0,1,62.24,MEDIUM
+Tiruvarur,Tiruvarur Bus Stand Road,Highway Road,422,44,Normal,0,0,1,40.13,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,Main Road,115,25,Cloudy,0,0,0,24.46,LOW
+Tiruvarur,Tiruvarur Bypass Road,Ring Road,881,28,Cloudy,0,0,0,57.65,MEDIUM
+Tiruvarur,Tiruvarur Town Road,Market Road,327,69,Clear,0,0,0,15.14,LOW
+Tiruvarur,Tiruvarur Bus Stand Road,NH Road,386,16,Normal,0,1,1,55.51,MEDIUM
+Tiruvarur,Tiruvarur Bus Stand Road,Bus Stand Road,261,21,Clear,1,0,0,42.75,MEDIUM
+Tiruvarur,Tiruvarur NH Road,Ring Road,409,20,Cloudy,1,1,0,54.83,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,Main Road,704,26,Normal,1,1,0,65.54,MEDIUM
+Tiruvarur,Tiruvarur NH Road,Market Road,326,23,Cloudy,0,0,0,34.81,LOW
+Tiruvarur,Tiruvarur Bus Stand Road,Bus Stand Road,612,17,Clear,0,0,0,50.25,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Market Road,528,21,Rain,0,0,0,44.76,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Main Road,733,29,Clear,1,1,0,65.56,MEDIUM
+Tiruvarur,Tiruvarur NH Road,Town Road,761,16,Cloudy,0,0,1,67.39,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,NH Road,288,68,Rain,0,1,0,18.82,LOW
+Tiruvarur,Tiruvarur Bus Stand Road,Market Road,462,53,Clear,0,0,1,38.08,MEDIUM
+Tiruvarur,Tiruvarur Market Road,NH Road,392,65,Normal,0,0,0,19.78,LOW
+Tiruvarur,Tiruvarur Bypass Road,Ring Road,766,55,Normal,1,1,0,55.9,MEDIUM
+Tiruvarur,Tiruvarur Main Road,NH Road,396,43,Rain,0,0,1,39.39,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,Highway Road,875,37,Normal,0,0,0,53.52,MEDIUM
+Tiruvarur,Tiruvarur Ring Road,Bus Stand Road,530,60,Normal,1,0,0,38.14,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Bus Stand Road,763,63,Clear,1,0,0,47.34,MEDIUM
+Tiruvarur,Tiruvarur Town Road,NH Road,941,59,Clear,0,1,0,52.06,MEDIUM
+Tiruvarur,Tiruvarur Town Road,Highway Road,259,23,Normal,0,0,0,31.8,LOW
+Tiruvarur,Tiruvarur Ring Road,Market Road,124,39,Cloudy,1,1,0,33.87,LOW
+Tiruvarur,Tiruvarur Bus Stand Road,NH Road,254,27,Cloudy,1,0,0,39.86,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Highway Road,487,67,Clear,0,0,1,33.2,LOW
+Tiruvarur,Tiruvarur Main Road,Main Road,185,33,Clear,0,0,0,24.18,LOW
+Tiruvarur,Tiruvarur Bus Stand Road,Market Road,864,30,Clear,1,0,0,66.02,MEDIUM
+Tiruvarur,Tiruvarur Town Road,Town Road,312,24,Cloudy,0,1,0,38.75,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Highway Road,229,45,Normal,0,0,1,31.02,LOW
+Tiruvarur,Tiruvarur Bus Stand Road,Main Road,450,51,Clear,0,0,0,28.39,LOW
+Tiruvarur,Tiruvarur Ring Road,Bus Stand Road,200,64,Normal,0,0,1,21.57,LOW
+Tiruvarur,Tiruvarur Market Road,Ring Road,502,33,Clear,0,1,1,53.45,MEDIUM
+Tiruvarur,Tiruvarur Ring Road,Ring Road,924,24,Cloudy,1,0,0,71.29,HIGH
+Tiruvarur,Tiruvarur Ring Road,Town Road,927,30,Normal,1,0,1,78.86,HIGH
+Tiruvarur,Tiruvarur Bus Stand Road,Bus Stand Road,520,31,Rain,1,0,1,60.11,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Bypass Road,933,66,Normal,0,0,0,43.7,MEDIUM
+Tiruvarur,Tiruvarur Bus Stand Road,Town Road,740,23,Rain,0,0,1,63.44,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Town Road,492,49,Cloudy,0,0,0,31.14,LOW
+Tiruvarur,Tiruvarur Market Road,Ring Road,868,43,Clear,1,1,0,65.63,MEDIUM
+Tiruvarur,Tiruvarur Bus Stand Road,NH Road,728,43,Cloudy,0,0,0,44.33,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Bus Stand Road,689,22,Cloudy,0,1,0,56.58,MEDIUM
+Tiruvarur,Tiruvarur Main Road,Bypass Road,906,27,Rain,0,1,1,74.2,HIGH
+Tiruvarur,Tiruvarur NH Road,Bypass Road,604,61,Clear,1,0,0,41.04,MEDIUM
+Tiruvarur,Tiruvarur NH Road,Bypass Road,569,16,Normal,0,0,0,48.75,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,Bus Stand Road,668,58,Clear,0,0,0,35.2,MEDIUM
+Tiruvarur,Tiruvarur Town Road,Highway Road,681,59,Normal,0,0,0,35.36,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Town Road,884,61,Cloudy,1,0,1,63.64,MEDIUM
+Tiruvarur,Tiruvarur NH Road,NH Road,787,23,Cloudy,1,0,0,65.56,MEDIUM
+Tiruvarur,Tiruvarur Bypass Road,Bypass Road,912,67,Cloudy,0,0,0,42.33,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Town Road,497,67,Normal,0,0,0,23.65,LOW
+Tiruvarur,Tiruvarur Town Road,Highway Road,791,51,Clear,1,0,0,53.74,MEDIUM
+Tiruvarur,Tiruvarur Bypass Road,Bypass Road,814,28,Normal,1,0,0,64.63,MEDIUM
+Tiruvarur,Tiruvarur Town Road,Bypass Road,997,53,Clear,0,0,0,52.15,MEDIUM
+Tiruvarur,Tiruvarur Ring Road,NH Road,216,70,Cloudy,0,0,0,9.72,LOW
+Tiruvarur,Tiruvarur Ring Road,Bypass Road,483,18,Normal,0,0,0,44.02,MEDIUM
+Tiruvarur,Tiruvarur Market Road,Main Road,212,45,Rain,0,0,0,20.25,LOW
+Tiruvarur,Tiruvarur Main Road,Bypass Road,361,55,Cloudy,0,0,0,22.67,LOW
+Tiruvarur,Tiruvarur NH Road,Market Road,165,37,Rain,1,1,0,36.57,MEDIUM
+Tiruvarur,Tiruvarur Highway Road,Bypass Road,295,48,Normal,0,0,0,22.7,LOW
+Tiruvarur,Tiruvarur Main Road,NH Road,427,37,Normal,0,0,0,33.36,LOW
+Tiruvarur,Tiruvarur NH Road,Highway Road,628,35,Normal,1,0,1,63.26,MEDIUM

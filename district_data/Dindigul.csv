@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Dindigul,Dindigul NH Road,NH Road,989,25,Cloudy,0,1,1,78.79,HIGH
+Dindigul,Dindigul Bypass Road,Town Road,451,29,Rain,0,0,0,37.87,MEDIUM
+Dindigul,Dindigul Bus Stand Road,Bus Stand Road,555,64,Clear,0,1,1,42.55,MEDIUM
+Dindigul,Dindigul Market Road,Bus Stand Road,228,61,Normal,0,0,0,14.12,LOW
+Dindigul,Dindigul Main Road,Town Road,205,21,Clear,0,1,0,35.23,MEDIUM
+Dindigul,Dindigul Bypass Road,Market Road,206,31,Cloudy,0,0,1,35.98,MEDIUM
+Dindigul,Dindigul Bus Stand Road,Main Road,855,33,Clear,1,0,0,64.33,MEDIUM
+Dindigul,Dindigul Bypass Road,Highway Road,779,37,Cloudy,0,1,1,64.2,MEDIUM
+Dindigul,Dindigul Bypass Road,Ring Road,814,49,Normal,0,1,1,60.63,MEDIUM
+Dindigul,Dindigul Ring Road,Town Road,652,29,Rain,0,1,0,51.91,MEDIUM
+Dindigul,Dindigul Ring Road,Bypass Road,259,34,Normal,0,0,0,27.08,LOW
+Dindigul,Dindigul Main Road,Town Road,647,15,Rain,1,1,0,67.69,MEDIUM
+Dindigul,Dindigul Town Road,Town Road,711,29,Normal,0,0,0,49.57,MEDIUM
+Dindigul,Dindigul Bypass Road,NH Road,355,25,Normal,1,1,0,50.26,MEDIUM
+Dindigul,Dindigul Town Road,Market Road,740,30,Clear,0,0,0,50.44,MEDIUM
+Dindigul,Dindigul Highway Road,Bypass Road,286,23,Normal,0,0,1,43.01,MEDIUM
+Dindigul,Dindigul Main Road,Bus Stand Road,292,35,Clear,0,0,0,28.14,LOW
+Dindigul,Dindigul Market Road,NH Road,388,32,Cloudy,0,1,0,38.75,MEDIUM
+Dindigul,Dindigul Bypass Road,Highway Road,115,46,Rain,0,0,1,25.46,LOW
+Dindigul,Dindigul Bus Stand Road,Main Road,574,59,Rain,0,0,0,30.54,LOW
+Dindigul,Dindigul Market Road,Bypass Road,894,40,Normal,0,1,0,58.09,MEDIUM
+Dindigul,Dindigul Highway Road,Market Road,948,15,Clear,0,0,1,76.23,HIGH
+Dindigul,Dindigul Town Road,Bypass Road,303,44,Rain,0,0,1,34.78,LOW
+Dindigul,Dindigul Highway Road,Bypass Road,262,55,Cloudy,0,0,0,18.22,LOW
+Dindigul,Dindigul Town Road,Ring Road,469,18,Clear,0,0,0,43.39,MEDIUM
+Dindigul,Dindigul Market Road,Main Road,271,65,Clear,0,0,1,24.34,LOW
+Dindigul,Dindigul NH Road,Market Road,695,65,Cloudy,1,0,0,43.42,MEDIUM
+Dindigul,Dindigul Ring Road,Bus Stand Road,611,20,Clear,0,0,0,48.92,MEDIUM
+Dindigul,Dindigul Highway Road,Market Road,228,46,Clear,0,0,0,20.55,LOW
+Dindigul,Dindigul Main Road,Highway Road,805,39,Normal,0,0,0,49.51,MEDIUM
+Dindigul,Dindigul Ring Road,Ring Road,672,33,Normal,1,0,0,56.1,MEDIUM
+Dindigul,Dindigul Highway Road,Bypass Road,381,70,Rain,0,0,0,17.14,LOW
+Dindigul,Dindigul Bus Stand Road,Main Road,654,38,Rain,1,0,1,63.14,MEDIUM
+Dindigul,Dindigul Town Road,Market Road,894,54,Normal,0,0,0,47.09,MEDIUM
+Dindigul,Dindigul Town Road,Ring Road,884,50,Clear,0,0,0,48.35,MEDIUM
+Dindigul,Dindigul Bus Stand Road,Main Road,198,48,Cloudy,0,0,0,18.34,LOW
+Dindigul,Dindigul Town Road,Highway Road,209,46,Rain,0,0,0,19.69,LOW
+Dindigul,Dindigul Market Road,Highway Road,150,38,Clear,0,0,0,20.46,LOW
+Dindigul,Dindigul Ring Road,Main Road,579,66,Rain,0,0,1,37.77,MEDIUM
+Dindigul,Dindigul Market Road,NH Road,641,17,Clear,0,0,0,51.56,MEDIUM
+Dindigul,Dindigul Market Road,Bus Stand Road,842,29,Normal,1,0,0,65.46,MEDIUM
+Dindigul,Dindigul NH Road,Bus Stand Road,864,21,Cloudy,0,1,1,74.88,HIGH
+Dindigul,Dindigul Ring Road,Ring Road,663,40,Rain,0,0,1,52.69,MEDIUM
+Dindigul,Dindigul Market Road,Market Road,965,38,Normal,1,1,0,72.14,HIGH
+Dindigul,Dindigul Highway Road,Town Road,884,50,Clear,0,0,1,58.35,MEDIUM
+Dindigul,Dindigul Bypass Road,Main Road,843,17,Rain,0,0,0,60.65,MEDIUM
+Dindigul,Dindigul Bus Stand Road,NH Road,327,28,Clear,0,0,0,32.72,LOW
+Dindigul,Dindigul Ring Road,Market Road,571,37,Cloudy,0,0,0,39.84,MEDIUM
+Dindigul,Dindigul Market Road,NH Road,362,66,Rain,0,0,1,28.0,LOW
+Dindigul,Dindigul Bypass Road,Main Road,911,45,Normal,0,1,0,56.71,MEDIUM
+Dindigul,Dindigul Town Road,Town Road,180,64,Clear,0,0,0,10.67,LOW
+Dindigul,Dindigul Main Road,Bypass Road,990,64,Clear,0,0,1,57.12,MEDIUM
+Dindigul,Dindigul Bus Stand Road,Main Road,426,49,Normal,0,0,0,28.17,LOW
+Dindigul,Dindigul Bypass Road,Town Road,556,63,Cloudy,0,0,1,38.02,MEDIUM
+Dindigul,Dindigul Town Road,Bypass Road,235,36,Clear,0,1,0,30.15,LOW
+Dindigul,Dindigul Highway Road,Market Road,508,47,Normal,1,0,0,42.72,MEDIUM
+Dindigul,Dindigul NH Road,Bypass Road,504,56,Normal,0,0,0,28.68,LOW
+Dindigul,Dindigul Town Road,Ring Road,431,58,Rain,0,0,1,34.54,LOW
+Dindigul,Dindigul Bus Stand Road,Ring Road,295,35,Normal,0,0,0,28.27,LOW
+Dindigul,Dindigul Market Road,Ring Road,738,24,Cloudy,1,0,0,62.92,MEDIUM
+Dindigul,Dindigul Market Road,Bus Stand Road,875,61,Rain,0,0,0,43.23,MEDIUM
+Dindigul,Dindigul Highway Road,Main Road,114,36,Rain,0,0,1,29.7,LOW
+Dindigul,Dindigul Highway Road,Bus Stand Road,314,62,Clear,0,0,0,17.56,LOW
+Dindigul,Dindigul Main Road,Bypass Road,485,52,Cloudy,0,0,0,29.54,LOW
+Dindigul,Dindigul Main Road,NH Road,908,59,Normal,0,0,1,55.57,MEDIUM
+Dindigul,Dindigul Bypass Road,Town Road,776,32,Cloudy,0,0,0,51.21,MEDIUM
+Dindigul,Dindigul NH Road,Bus Stand Road,489,47,Cloudy,0,0,1,41.86,MEDIUM
+Dindigul,Dindigul Bypass Road,Ring Road,612,44,Normal,0,0,0,38.68,MEDIUM
+Dindigul,Dindigul Ring Road,Ring Road,502,62,Rain,0,0,0,26.02,LOW
+Dindigul,Dindigul Town Road,Main Road,341,47,Rain,0,0,0,25.2,LOW
+Dindigul,Dindigul NH Road,Town Road,330,24,Cloudy,0,1,0,39.56,MEDIUM
+Dindigul,Dindigul Ring Road,Highway Road,527,30,Cloudy,0,1,0,45.86,MEDIUM
+Dindigul,Dindigul Bypass Road,Bus Stand Road,311,56,Normal,0,0,0,19.99,LOW
+Dindigul,Dindigul NH Road,Bus Stand Road,888,24,Rain,0,0,0,59.67,MEDIUM
+Dindigul,Dindigul Town Road,Bypass Road,959,24,Normal,0,0,1,72.87,HIGH
+Dindigul,Dindigul NH Road,Bus Stand Road,863,67,Cloudy,0,0,0,40.12,MEDIUM
+Dindigul,Dindigul Market Road,Main Road,126,63,Rain,0,0,0,8.67,LOW
+Dindigul,Dindigul Ring Road,Bus Stand Road,181,59,Normal,1,0,1,32.86,LOW
+Dindigul,Dindigul Market Road,Main Road,603,45,Normal,0,0,0,37.85,MEDIUM
+Dindigul,Dindigul Market Road,Market Road,882,15,Clear,0,1,0,68.26,MEDIUM
+Dindigul,Dindigul Market Road,Town Road,281,43,Normal,1,0,1,44.22,MEDIUM
+Dindigul,Dindigul Main Road,NH Road,894,17,Normal,1,0,1,82.94,HIGH
+Dindigul,Dindigul Main Road,Town Road,567,67,Clear,0,0,1,36.8,MEDIUM
+Dindigul,Dindigul Bypass Road,Highway Road,294,33,Cloudy,1,1,0,44.09,MEDIUM
+Dindigul,Dindigul Highway Road,NH Road,532,33,Clear,0,0,1,49.8,MEDIUM
+Dindigul,Dindigul Ring Road,Highway Road,284,64,Clear,0,1,1,30.35,LOW
+Dindigul,Dindigul Bypass Road,Ring Road,283,44,Cloudy,0,1,0,28.88,LOW
+Dindigul,Dindigul Highway Road,Ring Road,835,61,Clear,0,0,0,41.43,MEDIUM
+Dindigul,Dindigul Town Road,Main Road,636,60,Cloudy,1,0,1,52.91,MEDIUM
+Dindigul,Dindigul Bus Stand Road,Main Road,443,51,Normal,0,0,0,28.08,LOW
+Dindigul,Dindigul NH Road,Bus Stand Road,415,34,Cloudy,1,0,0,44.1,MEDIUM
+Dindigul,Dindigul Highway Road,Highway Road,103,54,Clear,0,0,1,21.49,LOW
+Dindigul,Dindigul Highway Road,Town Road,722,46,Normal,0,0,1,52.78,MEDIUM
+Dindigul,Dindigul Market Road,Main Road,181,53,Cloudy,0,0,0,15.43,LOW
+Dindigul,Dindigul Main Road,Bypass Road,251,18,Rain,0,0,0,33.58,LOW
+Dindigul,Dindigul Bus Stand Road,Bypass Road,189,18,Cloudy,0,1,0,35.79,MEDIUM
+Dindigul,Dindigul Bypass Road,Ring Road,566,62,Rain,0,0,0,28.9,LOW
+Dindigul,Dindigul Bypass Road,Highway Road,488,67,Cloudy,0,1,0,28.25,LOW
+Dindigul,Dindigul Market Road,Market Road,224,59,Clear,0,0,1,24.79,LOW
+Dindigul,Dindigul Town Road,Ring Road,211,51,Rain,0,1,0,22.64,LOW

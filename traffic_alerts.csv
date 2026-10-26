@@ -1,0 +1,2 @@
+timestamp,prediction_time,predicted_vehicles,traffic_status,alert_level,alert_message
+2026-08-18 23:10:52,341.0,3,LOW TRAFFIC,NORMAL,🟢 TRAFFIC NORMAL. Approximately 3 vehicles are predicted. No alternative route is currently required.

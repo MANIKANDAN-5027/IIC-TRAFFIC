@@ -1,0 +1,81 @@
+district,taluk,village,route,road,traffic_score,traffic_status,estimated_delay
+Chennai,Chennai North,Manali,Route A,Main Road,22.5,LOW,8.2
+Chennai,Chennai North,Manali,Route B,NH / Highway,38.7,MEDIUM,11.5
+Chennai,Chennai North,Manali,Route C,Alternative Road,52.4,MEDIUM,15.8
+Chennai,Chennai North,Manali,Route D,Village Link Road,68.3,HIGH,20.4
+Chennai,Chennai North,Madhavaram,Route A,Main Road,22.5,LOW,8.2
+Chennai,Chennai North,Madhavaram,Route B,NH / Highway,38.7,MEDIUM,11.5
+Chennai,Chennai North,Madhavaram,Route C,Alternative Road,52.4,MEDIUM,15.8
+Chennai,Chennai North,Madhavaram,Route D,Village Link Road,68.3,HIGH,20.4
+Chennai,Chennai North,Tiruvottiyur,Route A,Main Road,22.5,LOW,8.2
+Chennai,Chennai North,Tiruvottiyur,Route B,NH / Highway,38.7,MEDIUM,11.5
+Chennai,Chennai North,Tiruvottiyur,Route C,Alternative Road,52.4,MEDIUM,15.8
+Chennai,Chennai North,Tiruvottiyur,Route D,Village Link Road,68.3,HIGH,20.4
+Tiruvallur,Tiruvallur,Tiruvallur,Route A,Main Road,22.5,LOW,8.2
+Tiruvallur,Tiruvallur,Tiruvallur,Route B,NH / Highway,38.7,MEDIUM,11.5
+Tiruvallur,Tiruvallur,Tiruvallur,Route C,Alternative Road,52.4,MEDIUM,15.8
+Tiruvallur,Tiruvallur,Tiruvallur,Route D,Village Link Road,68.3,HIGH,20.4
+Tiruvallur,Ponneri,Ponneri,Route A,Main Road,22.5,LOW,8.2
+Tiruvallur,Ponneri,Ponneri,Route B,NH / Highway,38.7,MEDIUM,11.5
+Tiruvallur,Ponneri,Ponneri,Route C,Alternative Road,52.4,MEDIUM,15.8
+Tiruvallur,Ponneri,Ponneri,Route D,Village Link Road,68.3,HIGH,20.4
+Tiruvallur,Gummidipoondi,Gummidipoondi,Route A,Main Road,22.5,LOW,8.2
+Tiruvallur,Gummidipoondi,Gummidipoondi,Route B,NH / Highway,38.7,MEDIUM,11.5
+Tiruvallur,Gummidipoondi,Gummidipoondi,Route C,Alternative Road,52.4,MEDIUM,15.8
+Tiruvallur,Gummidipoondi,Gummidipoondi,Route D,Village Link Road,68.3,HIGH,20.4
+Tiruvallur,Avadi,Avadi,Route A,Main Road,22.5,LOW,8.2
+Tiruvallur,Avadi,Avadi,Route B,NH / Highway,38.7,MEDIUM,11.5
+Tiruvallur,Avadi,Avadi,Route C,Alternative Road,52.4,MEDIUM,15.8
+Tiruvallur,Avadi,Avadi,Route D,Village Link Road,68.3,HIGH,20.4
+Chengalpattu,Chengalpattu,Chengalpattu,Route A,Main Road,22.5,LOW,8.2
+Chengalpattu,Chengalpattu,Chengalpattu,Route B,NH / Highway,38.7,MEDIUM,11.5
+Chengalpattu,Chengalpattu,Chengalpattu,Route C,Alternative Road,52.4,MEDIUM,15.8
+Chengalpattu,Chengalpattu,Chengalpattu,Route D,Village Link Road,68.3,HIGH,20.4
+Chengalpattu,Tambaram,Tambaram,Route A,Main Road,22.5,LOW,8.2
+Chengalpattu,Tambaram,Tambaram,Route B,NH / Highway,38.7,MEDIUM,11.5
+Chengalpattu,Tambaram,Tambaram,Route C,Alternative Road,52.4,MEDIUM,15.8
+Chengalpattu,Tambaram,Tambaram,Route D,Village Link Road,68.3,HIGH,20.4
+Chengalpattu,Thiruporur,Kelambakkam,Route A,Main Road,22.5,LOW,8.2
+Chengalpattu,Thiruporur,Kelambakkam,Route B,NH / Highway,38.7,MEDIUM,11.5
+Chengalpattu,Thiruporur,Kelambakkam,Route C,Alternative Road,52.4,MEDIUM,15.8
+Chengalpattu,Thiruporur,Kelambakkam,Route D,Village Link Road,68.3,HIGH,20.4
+Kancheepuram,Kancheepuram,Kancheepuram,Route A,Main Road,22.5,LOW,8.2
+Kancheepuram,Kancheepuram,Kancheepuram,Route B,NH / Highway,38.7,MEDIUM,11.5
+Kancheepuram,Kancheepuram,Kancheepuram,Route C,Alternative Road,52.4,MEDIUM,15.8
+Kancheepuram,Kancheepuram,Kancheepuram,Route D,Village Link Road,68.3,HIGH,20.4
+Kancheepuram,Sriperumbudur,Sriperumbudur,Route A,Main Road,22.5,LOW,8.2
+Kancheepuram,Sriperumbudur,Sriperumbudur,Route B,NH / Highway,38.7,MEDIUM,11.5
+Kancheepuram,Sriperumbudur,Sriperumbudur,Route C,Alternative Road,52.4,MEDIUM,15.8
+Kancheepuram,Sriperumbudur,Sriperumbudur,Route D,Village Link Road,68.3,HIGH,20.4
+Villupuram,Villupuram,Villupuram,Route A,Main Road,22.5,LOW,8.2
+Villupuram,Villupuram,Villupuram,Route B,NH / Highway,38.7,MEDIUM,11.5
+Villupuram,Villupuram,Villupuram,Route C,Alternative Road,52.4,MEDIUM,15.8
+Villupuram,Villupuram,Villupuram,Route D,Village Link Road,68.3,HIGH,20.4
+Villupuram,Tindivanam,Tindivanam,Route A,Main Road,22.5,LOW,8.2
+Villupuram,Tindivanam,Tindivanam,Route B,NH / Highway,38.7,MEDIUM,11.5
+Villupuram,Tindivanam,Tindivanam,Route C,Alternative Road,52.4,MEDIUM,15.8
+Villupuram,Tindivanam,Tindivanam,Route D,Village Link Road,68.3,HIGH,20.4
+Villupuram,Gingee,Gingee,Route A,Main Road,22.5,LOW,8.2
+Villupuram,Gingee,Gingee,Route B,NH / Highway,38.7,MEDIUM,11.5
+Villupuram,Gingee,Gingee,Route C,Alternative Road,52.4,MEDIUM,15.8
+Villupuram,Gingee,Gingee,Route D,Village Link Road,68.3,HIGH,20.4
+Cuddalore,Cuddalore,Cuddalore,Route A,Main Road,22.5,LOW,8.2
+Cuddalore,Cuddalore,Cuddalore,Route B,NH / Highway,38.7,MEDIUM,11.5
+Cuddalore,Cuddalore,Cuddalore,Route C,Alternative Road,52.4,MEDIUM,15.8
+Cuddalore,Cuddalore,Cuddalore,Route D,Village Link Road,68.3,HIGH,20.4
+Cuddalore,Panruti,Panruti,Route A,Main Road,22.5,LOW,8.2
+Cuddalore,Panruti,Panruti,Route B,NH / Highway,38.7,MEDIUM,11.5
+Cuddalore,Panruti,Panruti,Route C,Alternative Road,52.4,MEDIUM,15.8
+Cuddalore,Panruti,Panruti,Route D,Village Link Road,68.3,HIGH,20.4
+Cuddalore,Chidambaram,Chidambaram,Route A,Main Road,22.5,LOW,8.2
+Cuddalore,Chidambaram,Chidambaram,Route B,NH / Highway,38.7,MEDIUM,11.5
+Cuddalore,Chidambaram,Chidambaram,Route C,Alternative Road,52.4,MEDIUM,15.8
+Cuddalore,Chidambaram,Chidambaram,Route D,Village Link Road,68.3,HIGH,20.4
+Perambalur,Perambalur,Perambalur,Route A,Main Road,22.5,LOW,8.2
+Perambalur,Perambalur,Perambalur,Route B,NH / Highway,38.7,MEDIUM,11.5
+Perambalur,Perambalur,Perambalur,Route C,Alternative Road,52.4,MEDIUM,15.8
+Perambalur,Perambalur,Perambalur,Route D,Village Link Road,68.3,HIGH,20.4
+Perambalur,Kunnam,Kunnam,Route A,Main Road,22.5,LOW,8.2
+Perambalur,Kunnam,Kunnam,Route B,NH / Highway,38.7,MEDIUM,11.5
+Perambalur,Kunnam,Kunnam,Route C,Alternative Road,52.4,MEDIUM,15.8
+Perambalur,Kunnam,Kunnam,Route D,Village Link Road,68.3,HIGH,20.4

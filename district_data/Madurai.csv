@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Madurai,Madurai Bus Stand Road,Ring Road,234,22,Clear,0,0,0,31.1,LOW
+Madurai,Madurai Town Road,Main Road,885,58,Normal,0,0,0,44.97,MEDIUM
+Madurai,Madurai Town Road,Market Road,591,33,Cloudy,0,1,0,47.45,MEDIUM
+Madurai,Madurai NH Road,Bypass Road,846,47,Cloudy,0,0,0,47.93,MEDIUM
+Madurai,Madurai NH Road,Bus Stand Road,782,67,Cloudy,1,0,1,56.48,MEDIUM
+Madurai,Madurai Bus Stand Road,Town Road,975,52,Clear,0,0,0,51.59,MEDIUM
+Madurai,Madurai Market Road,NH Road,380,27,Clear,0,1,0,40.53,MEDIUM
+Madurai,Madurai Ring Road,Town Road,489,41,Normal,0,0,0,34.43,LOW
+Madurai,Madurai NH Road,Bypass Road,162,47,Rain,1,0,0,27.15,LOW
+Madurai,Madurai Main Road,Bus Stand Road,387,37,Clear,1,0,0,41.56,MEDIUM
+Madurai,Madurai Highway Road,Bypass Road,100,18,Clear,0,0,0,26.79,LOW
+Madurai,Madurai Ring Road,Bypass Road,541,26,Clear,0,1,0,48.2,MEDIUM
+Madurai,Madurai Ring Road,Ring Road,199,57,Rain,0,0,0,14.53,LOW
+Madurai,Madurai NH Road,NH Road,343,56,Cloudy,0,0,1,31.44,LOW
+Madurai,Madurai Market Road,Highway Road,744,62,Clear,0,0,0,36.91,MEDIUM
+Madurai,Madurai Market Road,Bus Stand Road,176,49,Clear,0,0,1,26.92,LOW
+Madurai,Madurai Ring Road,Highway Road,230,27,Clear,1,0,0,38.78,MEDIUM
+Madurai,Madurai Bus Stand Road,Bypass Road,546,19,Cloudy,1,1,0,61.43,MEDIUM
+Madurai,Madurai Highway Road,NH Road,396,17,Cloudy,0,0,1,50.53,MEDIUM
+Madurai,Madurai Bypass Road,Market Road,548,63,Cloudy,1,1,1,52.66,MEDIUM
+Madurai,Madurai Bypass Road,Bypass Road,103,25,Cloudy,0,0,1,33.92,LOW
+Madurai,Madurai Market Road,Main Road,403,60,Cloudy,0,0,0,22.42,LOW
+Madurai,Madurai Bypass Road,Main Road,398,17,Cloudy,0,0,0,40.62,MEDIUM
+Madurai,Madurai Ring Road,Ring Road,943,28,Clear,0,0,0,60.43,MEDIUM
+Madurai,Madurai Bypass Road,Ring Road,822,50,Clear,0,0,1,55.56,MEDIUM
+Madurai,Madurai Bypass Road,Bus Stand Road,740,67,Rain,0,0,0,34.59,LOW
+Madurai,Madurai Market Road,Highway Road,116,49,Cloudy,0,1,0,19.22,LOW
+Madurai,Madurai Highway Road,Market Road,432,32,Normal,0,1,0,40.73,MEDIUM
+Madurai,Madurai Bus Stand Road,Highway Road,477,24,Cloudy,1,0,1,61.18,MEDIUM
+Madurai,Madurai Bus Stand Road,Bypass Road,935,70,Clear,0,0,1,52.08,MEDIUM
+Madurai,Madurai NH Road,Bus Stand Road,417,25,Clear,0,1,0,43.05,MEDIUM
+Madurai,Madurai Bus Stand Road,Main Road,536,30,Clear,1,1,0,56.26,MEDIUM
+Madurai,Madurai Main Road,Bus Stand Road,486,39,Cloudy,0,0,0,35.16,MEDIUM
+Madurai,Madurai Main Road,NH Road,888,20,Rain,0,0,0,61.39,MEDIUM
+Madurai,Madurai Highway Road,Highway Road,973,60,Cloudy,0,0,0,48.07,MEDIUM
+Madurai,Madurai Main Road,Bypass Road,414,36,Clear,1,0,0,43.2,MEDIUM
+Madurai,Madurai NH Road,Town Road,121,67,Cloudy,0,0,0,6.73,LOW
+Madurai,Madurai Town Road,Bus Stand Road,101,29,Rain,0,0,1,32.12,LOW
+Madurai,Madurai Highway Road,Bus Stand Road,771,33,Clear,0,1,0,55.55,MEDIUM
+Madurai,Madurai Ring Road,NH Road,329,21,Rain,0,0,0,35.8,MEDIUM
+Madurai,Madurai Ring Road,Bus Stand Road,186,17,Normal,0,0,1,41.08,MEDIUM
+Madurai,Madurai NH Road,Bypass Road,253,57,Normal,0,0,0,16.96,LOW
+Madurai,Madurai Bus Stand Road,Bus Stand Road,777,38,Rain,0,0,0,48.68,MEDIUM
+Madurai,Madurai NH Road,Town Road,251,39,Rain,1,1,0,39.58,MEDIUM
+Madurai,Madurai Town Road,Ring Road,248,20,Rain,0,0,0,32.59,LOW
+Madurai,Madurai Bus Stand Road,Market Road,606,42,Normal,1,1,0,54.27,MEDIUM
+Madurai,Madurai Town Road,NH Road,528,50,Normal,1,1,0,47.33,MEDIUM
+Madurai,Madurai Ring Road,Main Road,639,51,Cloudy,0,0,0,36.9,MEDIUM
+Madurai,Madurai NH Road,Main Road,971,16,Rain,0,1,0,71.84,HIGH
+Madurai,Madurai Bus Stand Road,Town Road,469,69,Cloudy,0,0,1,31.53,LOW
+Madurai,Madurai NH Road,Bus Stand Road,315,67,Normal,0,0,0,15.46,LOW
+Madurai,Madurai NH Road,NH Road,850,16,Normal,1,0,0,71.39,HIGH
+Madurai,Madurai Ring Road,Bus Stand Road,957,53,Clear,0,0,0,50.35,MEDIUM
+Madurai,Madurai Bus Stand Road,Highway Road,350,19,Cloudy,0,1,0,42.61,MEDIUM
+Madurai,Madurai Ring Road,Highway Road,866,48,Clear,0,1,1,63.4,MEDIUM
+Madurai,Madurai Bus Stand Road,Bus Stand Road,393,22,Clear,0,0,0,38.26,MEDIUM
+Madurai,Madurai Bypass Road,Market Road,505,68,Normal,1,1,0,38.58,MEDIUM
+Madurai,Madurai Market Road,Town Road,260,32,Clear,0,1,0,32.99,LOW
+Madurai,Madurai Highway Road,Ring Road,324,40,Normal,0,0,1,37.44,MEDIUM
+Madurai,Madurai Town Road,Market Road,947,39,Rain,0,0,0,55.9,MEDIUM
+Madurai,Madurai Main Road,Market Road,211,21,Rain,0,0,0,30.49,LOW
+Madurai,Madurai Main Road,Bypass Road,266,49,Cloudy,0,0,0,20.97,LOW
+Madurai,Madurai NH Road,Main Road,664,27,Normal,0,0,0,48.31,MEDIUM
+Madurai,Madurai Main Road,Ring Road,146,18,Rain,0,0,0,28.86,LOW
+Madurai,Madurai Ring Road,Bus Stand Road,507,47,Clear,0,0,1,42.67,MEDIUM
+Madurai,Madurai Town Road,Highway Road,439,41,Clear,0,0,0,32.18,LOW
+Madurai,Madurai NH Road,Market Road,397,25,Cloudy,0,1,0,42.15,MEDIUM
+Madurai,Madurai Highway Road,Bus Stand Road,926,58,Rain,0,0,0,46.81,MEDIUM
+Madurai,Madurai Market Road,Market Road,397,38,Clear,1,0,1,51.58,MEDIUM
+Madurai,Madurai Bus Stand Road,Bypass Road,256,51,Clear,1,0,0,29.66,LOW
+Madurai,Madurai Bypass Road,Bus Stand Road,610,21,Clear,1,0,0,58.45,MEDIUM
+Madurai,Madurai NH Road,Bus Stand Road,386,51,Normal,0,0,0,25.51,LOW
+Madurai,Madurai NH Road,Highway Road,364,45,Clear,0,1,0,32.09,LOW
+Madurai,Madurai Bus Stand Road,Highway Road,472,69,Rain,0,1,1,36.67,MEDIUM
+Madurai,Madurai Town Road,Highway Road,624,69,Rain,0,0,0,28.51,LOW
+Madurai,Madurai Main Road,Bus Stand Road,998,58,Clear,0,0,0,50.05,MEDIUM
+Madurai,Madurai Market Road,Town Road,397,39,Normal,0,1,0,36.15,MEDIUM
+Madurai,Madurai Highway Road,NH Road,785,20,Clear,0,1,1,71.75,HIGH
+Madurai,Madurai Market Road,Town Road,284,61,Rain,0,1,1,31.64,LOW
+Madurai,Madurai Highway Road,NH Road,166,35,Rain,0,1,0,27.47,LOW
+Madurai,Madurai Market Road,Ring Road,565,17,Clear,0,1,0,53.14,MEDIUM
+Madurai,Madurai Town Road,Highway Road,715,64,Cloudy,1,0,0,44.75,MEDIUM
+Madurai,Madurai Bypass Road,Bus Stand Road,155,28,Clear,0,1,0,29.98,LOW
+Madurai,Madurai Bypass Road,Highway Road,245,19,Normal,0,1,0,37.88,MEDIUM
+Madurai,Madurai NH Road,Town Road,637,28,Rain,0,0,0,46.66,MEDIUM
+Madurai,Madurai Town Road,Highway Road,871,34,Normal,0,0,0,54.62,MEDIUM
+Madurai,Madurai Town Road,Main Road,648,59,Cloudy,0,1,0,38.87,MEDIUM
+Madurai,Madurai Main Road,Bus Stand Road,179,61,Normal,0,0,0,11.91,LOW
+Madurai,Madurai Bypass Road,Main Road,251,46,Normal,0,0,1,31.58,LOW
+Madurai,Madurai Main Road,Market Road,952,69,Cloudy,0,1,0,48.27,MEDIUM
+Madurai,Madurai Ring Road,Market Road,530,59,Cloudy,0,1,0,33.56,LOW
+Madurai,Madurai Main Road,Bypass Road,795,51,Rain,0,0,0,43.92,MEDIUM
+Madurai,Madurai Town Road,Town Road,614,67,Rain,0,1,1,43.92,MEDIUM
+Madurai,Madurai Bus Stand Road,Highway Road,460,68,Normal,1,0,0,31.56,LOW
+Madurai,Madurai Bypass Road,Town Road,482,26,Rain,0,1,1,55.55,MEDIUM
+Madurai,Madurai NH Road,Main Road,818,54,Normal,0,0,0,43.67,MEDIUM
+Madurai,Madurai Bypass Road,Town Road,206,46,Cloudy,0,1,0,24.56,LOW
+Madurai,Madurai Market Road,Highway Road,328,64,Clear,1,1,0,32.33,LOW
+Madurai,Madurai Main Road,Ring Road,459,65,Cloudy,1,1,1,47.8,MEDIUM
+Madurai,Madurai Town Road,Market Road,619,33,Clear,0,0,0,43.71,MEDIUM

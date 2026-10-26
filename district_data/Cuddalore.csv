@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Cuddalore,Cuddalore NH Road,Market Road,696,52,Normal,0,0,0,39.03,MEDIUM
+Cuddalore,Cuddalore Main Road,Highway Road,928,23,Clear,0,0,0,61.9,MEDIUM
+Cuddalore,Cuddalore Main Road,Town Road,272,51,Normal,1,1,1,45.38,MEDIUM
+Cuddalore,Cuddalore Bypass Road,Highway Road,276,37,Cloudy,0,0,0,26.56,LOW
+Cuddalore,Cuddalore Town Road,Highway Road,135,54,Clear,0,0,1,22.93,LOW
+Cuddalore,Cuddalore Market Road,Market Road,189,32,Clear,1,0,1,44.79,MEDIUM
+Cuddalore,Cuddalore Ring Road,Ring Road,491,65,Normal,0,1,1,39.24,MEDIUM
+Cuddalore,Cuddalore Main Road,Bypass Road,376,26,Clear,0,0,0,35.78,MEDIUM
+Cuddalore,Cuddalore NH Road,Market Road,928,45,Cloudy,0,0,0,52.47,MEDIUM
+Cuddalore,Cuddalore Ring Road,Bus Stand Road,372,49,Cloudy,0,0,1,35.74,MEDIUM
+Cuddalore,Cuddalore Ring Road,Bus Stand Road,342,52,Cloudy,0,0,0,23.1,LOW
+Cuddalore,Cuddalore Highway Road,Main Road,956,66,Clear,1,0,0,54.73,MEDIUM
+Cuddalore,Cuddalore Main Road,Ring Road,157,29,Cloudy,0,0,1,34.64,LOW
+Cuddalore,Cuddalore Main Road,Main Road,925,23,Cloudy,0,0,0,61.77,MEDIUM
+Cuddalore,Cuddalore NH Road,Ring Road,700,60,Normal,0,0,0,35.79,MEDIUM
+Cuddalore,Cuddalore Bus Stand Road,Bus Stand Road,700,21,Normal,0,0,0,52.5,MEDIUM
+Cuddalore,Cuddalore Ring Road,Market Road,910,55,Cloudy,1,0,0,57.38,MEDIUM
+Cuddalore,Cuddalore Main Road,Town Road,487,34,Clear,0,0,0,37.34,MEDIUM
+Cuddalore,Cuddalore Highway Road,Bus Stand Road,286,53,Rain,0,0,0,20.16,LOW
+Cuddalore,Cuddalore Bus Stand Road,NH Road,863,19,Rain,0,0,0,60.69,MEDIUM
+Cuddalore,Cuddalore NH Road,Ring Road,557,15,Rain,0,0,0,48.64,MEDIUM
+Cuddalore,Cuddalore Highway Road,Town Road,905,21,Cloudy,0,0,1,71.72,HIGH
+Cuddalore,Cuddalore NH Road,Highway Road,523,46,Cloudy,1,0,1,53.82,MEDIUM
+Cuddalore,Cuddalore Main Road,Ring Road,266,43,Rain,0,0,0,23.54,LOW
+Cuddalore,Cuddalore Bus Stand Road,NH Road,207,19,Clear,0,0,1,41.17,MEDIUM
+Cuddalore,Cuddalore Bus Stand Road,Town Road,446,53,Cloudy,1,0,1,47.36,MEDIUM
+Cuddalore,Cuddalore Town Road,Bypass Road,154,21,Rain,0,0,0,27.93,LOW
+Cuddalore,Cuddalore Highway Road,Bus Stand Road,404,30,Clear,0,0,1,45.32,MEDIUM
+Cuddalore,Cuddalore Highway Road,Market Road,469,15,Clear,1,0,0,54.68,MEDIUM
+Cuddalore,Cuddalore Highway Road,NH Road,126,28,Rain,0,0,0,23.67,LOW
+Cuddalore,Cuddalore NH Road,Town Road,903,40,Cloudy,1,1,0,68.49,MEDIUM
+Cuddalore,Cuddalore Main Road,Bypass Road,479,39,Normal,0,0,1,44.84,MEDIUM
+Cuddalore,Cuddalore Bus Stand Road,NH Road,576,31,Clear,0,0,0,42.63,MEDIUM
+Cuddalore,Cuddalore Town Road,Town Road,784,37,Normal,1,0,0,59.42,MEDIUM
+Cuddalore,Cuddalore Town Road,Main Road,686,30,Cloudy,1,0,0,58.01,MEDIUM
+Cuddalore,Cuddalore Market Road,Market Road,223,63,Cloudy,1,0,0,23.04,LOW
+Cuddalore,Cuddalore Bus Stand Road,Bypass Road,143,42,Rain,0,1,0,23.43,LOW
+Cuddalore,Cuddalore Town Road,Ring Road,844,66,Rain,0,0,1,49.69,MEDIUM
+Cuddalore,Cuddalore Town Road,Bus Stand Road,632,44,Cloudy,0,1,0,44.58,MEDIUM
+Cuddalore,Cuddalore Bypass Road,Ring Road,680,52,Normal,0,0,0,38.31,MEDIUM
+Cuddalore,Cuddalore Bus Stand Road,Bypass Road,370,39,Normal,1,1,0,44.94,MEDIUM
+Cuddalore,Cuddalore Ring Road,Market Road,247,54,Clear,1,0,1,37.97,MEDIUM
+Cuddalore,Cuddalore Ring Road,Bypass Road,863,45,Rain,0,0,0,49.55,MEDIUM
+Cuddalore,Cuddalore Bus Stand Road,Bypass Road,387,68,Normal,1,0,0,28.27,LOW
+Cuddalore,Cuddalore NH Road,Market Road,892,67,Normal,0,0,1,51.43,MEDIUM
+Cuddalore,Cuddalore Main Road,Bus Stand Road,316,67,Clear,1,1,0,30.51,LOW
+Cuddalore,Cuddalore Bus Stand Road,Market Road,418,60,Cloudy,1,0,0,33.1,LOW
+Cuddalore,Cuddalore Main Road,Ring Road,957,18,Cloudy,0,0,1,75.35,HIGH
+Cuddalore,Cuddalore Main Road,Market Road,380,38,Rain,1,1,0,45.81,MEDIUM
+Cuddalore,Cuddalore Ring Road,Ring Road,600,53,Cloudy,1,0,1,54.29,MEDIUM
+Cuddalore,Cuddalore Town Road,Main Road,957,31,Cloudy,0,0,0,59.78,MEDIUM
+Cuddalore,Cuddalore Market Road,Bypass Road,974,51,Normal,0,0,0,51.97,MEDIUM
+Cuddalore,Cuddalore Bus Stand Road,Main Road,625,16,Cloudy,0,1,0,56.27,MEDIUM
+Cuddalore,Cuddalore Town Road,Ring Road,358,53,Normal,0,0,1,33.4,LOW
+Cuddalore,Cuddalore NH Road,Main Road,358,28,Rain,1,0,1,54.11,MEDIUM
+Cuddalore,Cuddalore Highway Road,NH Road,674,56,Rain,0,0,0,36.33,MEDIUM
+Cuddalore,Cuddalore Bypass Road,Market Road,383,55,Cloudy,0,0,0,23.66,LOW
+Cuddalore,Cuddalore Ring Road,Bus Stand Road,629,63,Clear,0,0,1,41.3,MEDIUM
+Cuddalore,Cuddalore Town Road,Town Road,771,46,Clear,0,0,1,54.98,MEDIUM
+Cuddalore,Cuddalore Highway Road,Ring Road,697,60,Rain,0,0,0,35.65,MEDIUM
+Cuddalore,Cuddalore Highway Road,Bus Stand Road,965,25,Rain,0,0,0,62.71,MEDIUM
+Cuddalore,Cuddalore Market Road,Ring Road,842,66,Cloudy,0,0,0,39.6,MEDIUM
+Cuddalore,Cuddalore Ring Road,Bypass Road,862,70,Rain,0,1,0,43.79,MEDIUM
+Cuddalore,Cuddalore NH Road,Highway Road,574,69,Cloudy,0,1,0,31.26,LOW
+Cuddalore,Cuddalore Main Road,Bus Stand Road,612,22,Cloudy,1,0,1,68.11,MEDIUM
+Cuddalore,Cuddalore Ring Road,Bus Stand Road,305,36,Clear,1,1,0,43.3,MEDIUM
+Cuddalore,Cuddalore Main Road,Highway Road,599,36,Rain,0,0,0,41.53,MEDIUM
+Cuddalore,Cuddalore NH Road,Bus Stand Road,314,63,Normal,0,0,1,27.13,LOW
+Cuddalore,Cuddalore Town Road,Main Road,748,42,Clear,1,1,1,70.66,HIGH
+Cuddalore,Cuddalore Market Road,Main Road,646,27,Clear,0,0,0,47.5,MEDIUM
+Cuddalore,Cuddalore Bypass Road,Bus Stand Road,741,61,Clear,0,0,0,37.2,MEDIUM
+Cuddalore,Cuddalore Main Road,Bypass Road,492,47,Rain,0,0,0,32.0,LOW
+Cuddalore,Cuddalore Ring Road,Highway Road,566,61,Rain,0,1,0,34.33,LOW
+Cuddalore,Cuddalore Market Road,Market Road,868,27,Cloudy,0,1,0,62.49,MEDIUM
+Cuddalore,Cuddalore Ring Road,Main Road,316,61,Normal,0,0,0,18.08,LOW
+Cuddalore,Cuddalore NH Road,Main Road,997,55,Clear,0,0,0,51.29,MEDIUM
+Cuddalore,Cuddalore NH Road,Bypass Road,806,22,Normal,1,1,1,81.84,HIGH
+Cuddalore,Cuddalore Town Road,NH Road,818,24,Rain,0,0,0,56.52,MEDIUM
+Cuddalore,Cuddalore NH Road,Bypass Road,737,53,Clear,0,1,0,45.45,MEDIUM
+Cuddalore,Cuddalore Bypass Road,Market Road,903,21,Rain,1,0,0,71.63,HIGH
+Cuddalore,Cuddalore Highway Road,Market Road,820,41,Normal,0,0,0,49.33,MEDIUM
+Cuddalore,Cuddalore NH Road,Highway Road,438,30,Cloudy,0,0,0,36.85,MEDIUM
+Cuddalore,Cuddalore Market Road,Highway Road,192,64,Rain,0,0,0,11.21,LOW
+Cuddalore,Cuddalore Main Road,Bypass Road,370,44,Rain,0,0,0,27.79,LOW
+Cuddalore,Cuddalore NH Road,Main Road,920,58,Clear,0,1,0,51.54,MEDIUM
+Cuddalore,Cuddalore Highway Road,Bypass Road,972,23,Clear,0,0,0,63.88,MEDIUM
+Cuddalore,Cuddalore Town Road,Town Road,481,67,Normal,0,0,0,22.93,LOW
+Cuddalore,Cuddalore Bus Stand Road,NH Road,378,68,Cloudy,1,1,1,42.87,MEDIUM
+Cuddalore,Cuddalore Town Road,Highway Road,812,61,Normal,0,0,0,40.4,MEDIUM
+Cuddalore,Cuddalore Bus Stand Road,Highway Road,285,54,Normal,1,0,0,29.68,LOW
+Cuddalore,Cuddalore Bypass Road,Ring Road,215,41,Clear,1,0,0,32.1,LOW
+Cuddalore,Cuddalore Town Road,Market Road,821,70,Normal,0,0,0,36.95,MEDIUM
+Cuddalore,Cuddalore Main Road,Bus Stand Road,454,57,Normal,1,0,0,36.0,MEDIUM
+Cuddalore,Cuddalore Ring Road,Market Road,972,46,Rain,0,0,1,64.03,MEDIUM
+Cuddalore,Cuddalore Market Road,NH Road,384,18,Normal,0,1,1,54.57,MEDIUM
+Cuddalore,Cuddalore Highway Road,Ring Road,554,66,Clear,1,0,1,46.64,MEDIUM
+Cuddalore,Cuddalore Town Road,Main Road,609,62,Clear,0,0,1,40.83,MEDIUM
+Cuddalore,Cuddalore Ring Road,Ring Road,945,20,Clear,0,0,1,73.95,HIGH
+Cuddalore,Cuddalore Ring Road,Highway Road,936,29,Clear,1,0,1,79.69,HIGH
+Cuddalore,Cuddalore Ring Road,Bypass Road,199,63,Rain,0,0,0,11.96,LOW

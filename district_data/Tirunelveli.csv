@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Tirunelveli,Tirunelveli Market Road,Main Road,321,21,Cloudy,1,0,0,45.45,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Bus Stand Road,552,33,Normal,0,0,0,40.7,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Town Road,151,25,Cloudy,0,0,0,26.08,LOW
+Tirunelveli,Tirunelveli Town Road,Town Road,561,26,Rain,0,0,1,54.1,MEDIUM
+Tirunelveli,Tirunelveli Bus Stand Road,Highway Road,239,15,Clear,1,1,0,49.33,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Highway Road,980,68,Normal,0,0,0,44.96,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Highway Road,808,23,Clear,0,0,0,56.5,MEDIUM
+Tirunelveli,Tirunelveli Market Road,Bus Stand Road,516,57,Clear,0,0,1,38.79,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Ring Road,810,36,Clear,0,0,0,51.02,MEDIUM
+Tirunelveli,Tirunelveli Town Road,NH Road,803,48,Rain,0,1,0,50.56,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Ring Road,710,69,Cloudy,1,1,0,47.38,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Highway Road,798,56,Normal,0,1,1,56.91,MEDIUM
+Tirunelveli,Tirunelveli Bus Stand Road,Town Road,611,60,Clear,0,0,0,31.78,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,Bus Stand Road,700,60,Normal,0,0,0,35.79,MEDIUM
+Tirunelveli,Tirunelveli Market Road,Bus Stand Road,315,70,Clear,1,0,1,34.17,LOW
+Tirunelveli,Tirunelveli NH Road,NH Road,823,26,Clear,0,0,1,65.89,MEDIUM
+Tirunelveli,Tirunelveli NH Road,Highway Road,955,44,Clear,0,1,1,69.12,MEDIUM
+Tirunelveli,Tirunelveli Ring Road,NH Road,533,25,Rain,0,0,0,43.27,MEDIUM
+Tirunelveli,Tirunelveli Ring Road,Bus Stand Road,374,68,Clear,1,0,0,27.69,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,Main Road,955,42,Cloudy,0,0,0,54.98,MEDIUM
+Tirunelveli,Tirunelveli Bus Stand Road,Town Road,864,41,Rain,0,0,0,51.31,MEDIUM
+Tirunelveli,Tirunelveli Main Road,NH Road,607,68,Normal,0,0,1,38.17,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Market Road,575,63,Normal,0,0,0,28.87,LOW
+Tirunelveli,Tirunelveli Bypass Road,Market Road,897,17,Cloudy,0,0,0,63.08,MEDIUM
+Tirunelveli,Tirunelveli Bypass Road,Town Road,289,41,Cloudy,1,0,0,35.43,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Town Road,973,22,Cloudy,1,0,0,74.36,HIGH
+Tirunelveli,Tirunelveli Ring Road,Bypass Road,668,15,Clear,0,0,1,63.63,MEDIUM
+Tirunelveli,Tirunelveli Market Road,Bus Stand Road,260,37,Normal,0,0,0,25.84,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,NH Road,817,25,Normal,1,0,0,66.05,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Bus Stand Road,327,37,Normal,0,0,1,38.86,MEDIUM
+Tirunelveli,Tirunelveli Bus Stand Road,Highway Road,835,41,Cloudy,1,1,0,65.0,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Bypass Road,666,56,Rain,0,0,0,35.97,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Town Road,123,43,Normal,0,1,0,22.11,LOW
+Tirunelveli,Tirunelveli Main Road,Main Road,472,63,Clear,1,0,0,34.24,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,NH Road,678,68,Rain,0,0,0,31.37,LOW
+Tirunelveli,Tirunelveli Bypass Road,Bypass Road,895,67,Clear,0,0,0,41.56,MEDIUM
+Tirunelveli,Tirunelveli Market Road,Market Road,698,29,Cloudy,0,0,0,48.98,MEDIUM
+Tirunelveli,Tirunelveli NH Road,Main Road,277,15,Cloudy,0,0,0,36.04,MEDIUM
+Tirunelveli,Tirunelveli NH Road,Market Road,929,38,Rain,0,0,0,55.52,MEDIUM
+Tirunelveli,Tirunelveli Bypass Road,Market Road,390,36,Cloudy,0,0,1,42.12,MEDIUM
+Tirunelveli,Tirunelveli Bypass Road,Market Road,873,64,Normal,0,0,0,41.86,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Ring Road,267,52,Cloudy,1,0,0,29.73,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,Main Road,225,23,Normal,0,0,0,30.27,LOW
+Tirunelveli,Tirunelveli Main Road,NH Road,898,36,Cloudy,1,0,0,64.98,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Highway Road,348,46,Rain,1,0,0,35.95,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Town Road,702,38,Cloudy,0,0,0,45.3,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Ring Road,709,64,Clear,0,0,0,34.48,LOW
+Tirunelveli,Tirunelveli NH Road,Market Road,700,23,Clear,0,1,1,66.64,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Bypass Road,593,38,Normal,0,1,0,45.4,MEDIUM
+Tirunelveli,Tirunelveli NH Road,Bus Stand Road,426,24,Clear,1,0,1,58.88,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Main Road,735,42,Cloudy,0,1,0,50.08,MEDIUM
+Tirunelveli,Tirunelveli Bypass Road,Main Road,775,62,Cloudy,0,0,0,38.3,MEDIUM
+Tirunelveli,Tirunelveli Market Road,Ring Road,270,60,Rain,0,0,0,16.44,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,NH Road,110,35,Clear,0,0,0,19.95,LOW
+Tirunelveli,Tirunelveli Highway Road,Bus Stand Road,406,30,Rain,0,1,1,50.41,MEDIUM
+Tirunelveli,Tirunelveli Bus Stand Road,Bus Stand Road,577,53,Clear,0,0,0,33.25,LOW
+Tirunelveli,Tirunelveli NH Road,Bus Stand Road,613,49,Clear,0,0,0,36.59,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Highway Road,409,64,Normal,1,1,0,35.98,MEDIUM
+Tirunelveli,Tirunelveli Bus Stand Road,Town Road,949,51,Rain,0,0,0,50.85,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Bypass Road,197,37,Normal,0,0,0,23.01,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,Ring Road,381,18,Normal,0,0,0,39.43,MEDIUM
+Tirunelveli,Tirunelveli Bus Stand Road,Main Road,827,65,Rain,1,0,1,59.36,MEDIUM
+Tirunelveli,Tirunelveli Bypass Road,Market Road,507,45,Rain,0,0,0,33.53,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,Bus Stand Road,854,38,Cloudy,0,1,0,57.14,MEDIUM
+Tirunelveli,Tirunelveli Ring Road,Town Road,990,37,Cloudy,0,0,0,58.69,MEDIUM
+Tirunelveli,Tirunelveli Market Road,Bypass Road,875,34,Cloudy,1,0,1,74.8,HIGH
+Tirunelveli,Tirunelveli Market Road,Bypass Road,761,15,Clear,0,0,0,57.82,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Town Road,394,51,Cloudy,0,0,0,25.87,LOW
+Tirunelveli,Tirunelveli Town Road,Town Road,951,59,Clear,1,0,0,57.51,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Market Road,368,68,Cloudy,0,0,0,17.42,LOW
+Tirunelveli,Tirunelveli Market Road,NH Road,168,45,Clear,0,0,0,18.27,LOW
+Tirunelveli,Tirunelveli Ring Road,Market Road,855,63,Cloudy,0,0,0,41.48,MEDIUM
+Tirunelveli,Tirunelveli NH Road,Market Road,237,25,Normal,0,1,0,34.95,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,Highway Road,972,15,Normal,0,1,0,72.31,HIGH
+Tirunelveli,Tirunelveli Town Road,NH Road,774,17,Normal,0,1,0,62.54,MEDIUM
+Tirunelveli,Tirunelveli Bus Stand Road,Town Road,950,68,Rain,0,1,1,58.61,MEDIUM
+Tirunelveli,Tirunelveli Ring Road,Market Road,323,60,Normal,0,0,0,18.82,LOW
+Tirunelveli,Tirunelveli Highway Road,Town Road,277,27,Cloudy,0,1,0,35.89,MEDIUM
+Tirunelveli,Tirunelveli Town Road,NH Road,977,29,Clear,0,0,0,61.54,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Bypass Road,758,65,Cloudy,0,0,0,36.25,MEDIUM
+Tirunelveli,Tirunelveli Bypass Road,Bypass Road,304,60,Clear,0,1,0,22.97,LOW
+Tirunelveli,Tirunelveli Highway Road,Town Road,866,27,Rain,1,0,1,77.4,HIGH
+Tirunelveli,Tirunelveli Bypass Road,Bypass Road,588,41,Cloudy,0,1,0,43.89,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Ring Road,738,17,Rain,0,1,0,60.92,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Market Road,202,47,Cloudy,1,0,0,28.95,LOW
+Tirunelveli,Tirunelveli Bypass Road,Market Road,406,59,Normal,0,0,0,22.98,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,Market Road,415,32,Rain,0,0,1,44.96,MEDIUM
+Tirunelveli,Tirunelveli Bypass Road,Highway Road,453,42,Clear,0,0,1,42.39,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Bus Stand Road,269,37,Normal,0,0,0,26.25,LOW
+Tirunelveli,Tirunelveli Bus Stand Road,Market Road,672,51,Normal,0,0,1,48.38,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Ring Road,851,60,Cloudy,0,0,0,42.58,MEDIUM
+Tirunelveli,Tirunelveli Bypass Road,Bus Stand Road,612,70,Clear,0,0,1,37.54,MEDIUM
+Tirunelveli,Tirunelveli Main Road,Main Road,500,61,Cloudy,0,0,0,26.36,LOW
+Tirunelveli,Tirunelveli Main Road,Bypass Road,588,49,Normal,0,0,1,45.46,MEDIUM
+Tirunelveli,Tirunelveli Market Road,Highway Road,966,56,Rain,1,0,0,59.47,MEDIUM
+Tirunelveli,Tirunelveli Town Road,NH Road,382,28,Normal,1,0,1,55.19,MEDIUM
+Tirunelveli,Tirunelveli Town Road,Highway Road,963,56,Cloudy,0,1,0,54.34,MEDIUM
+Tirunelveli,Tirunelveli Ring Road,Bypass Road,795,39,Clear,0,1,0,54.06,MEDIUM
+Tirunelveli,Tirunelveli Highway Road,Highway Road,631,38,Cloudy,0,0,0,42.11,MEDIUM
+Tirunelveli,Tirunelveli Ring Road,Main Road,690,68,Normal,0,0,0,31.91,LOW

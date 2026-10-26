@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Mayiladuthurai,Mayiladuthurai Ring Road,Ring Road,524,17,Rain,0,0,0,46.29,MEDIUM
+Mayiladuthurai,Mayiladuthurai Market Road,Town Road,274,51,Clear,1,0,1,40.47,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Town Road,920,51,Rain,1,0,1,69.54,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,NH Road,629,25,Normal,1,0,0,57.59,MEDIUM
+Mayiladuthurai,Mayiladuthurai Market Road,NH Road,963,63,Clear,0,0,0,46.34,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Town Road,126,42,Clear,0,0,0,17.67,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Market Road,860,61,Cloudy,0,1,0,47.56,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,Bypass Road,404,27,Clear,0,1,0,41.61,MEDIUM
+Mayiladuthurai,Mayiladuthurai Highway Road,NH Road,247,55,Clear,0,0,0,17.54,LOW
+Mayiladuthurai,Mayiladuthurai NH Road,Highway Road,245,33,Rain,0,0,0,26.88,LOW
+Mayiladuthurai,Mayiladuthurai Main Road,Town Road,958,28,Clear,1,0,1,81.11,HIGH
+Mayiladuthurai,Mayiladuthurai Town Road,Ring Road,598,55,Normal,0,0,1,43.34,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Main Road,927,25,Clear,0,0,0,61.0,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,NH Road,451,37,Cloudy,1,0,0,44.44,MEDIUM
+Mayiladuthurai,Mayiladuthurai Ring Road,NH Road,720,16,Cloudy,0,0,0,55.54,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Bypass Road,130,35,Rain,0,0,0,20.85,LOW
+Mayiladuthurai,Mayiladuthurai Highway Road,Highway Road,593,27,Normal,0,0,0,45.11,MEDIUM
+Mayiladuthurai,Mayiladuthurai Market Road,Bypass Road,624,40,Normal,0,0,0,40.94,MEDIUM
+Mayiladuthurai,Mayiladuthurai Highway Road,Town Road,205,52,Normal,0,0,0,16.94,LOW
+Mayiladuthurai,Mayiladuthurai Town Road,Town Road,533,53,Cloudy,0,0,0,31.27,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Main Road,680,37,Rain,0,0,1,54.74,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,NH Road,700,41,Cloudy,0,0,1,53.93,MEDIUM
+Mayiladuthurai,Mayiladuthurai Market Road,NH Road,928,35,Cloudy,1,0,0,66.76,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Main Road,772,38,Rain,0,0,0,48.45,MEDIUM
+Mayiladuthurai,Mayiladuthurai Ring Road,Market Road,804,15,Clear,0,0,1,69.75,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,NH Road,494,33,Normal,0,0,0,38.09,MEDIUM
+Mayiladuthurai,Mayiladuthurai Market Road,Market Road,798,63,Clear,1,0,0,48.91,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,NH Road,921,46,Clear,1,0,0,61.73,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,Bypass Road,563,25,Clear,0,1,0,49.62,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Town Road,759,65,Clear,0,1,0,41.3,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Highway Road,646,48,Clear,0,0,0,38.5,MEDIUM
+Mayiladuthurai,Mayiladuthurai Ring Road,Ring Road,949,66,Normal,1,0,0,54.42,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,Bypass Road,181,50,Normal,0,1,0,21.72,LOW
+Mayiladuthurai,Mayiladuthurai Main Road,Market Road,605,69,Clear,0,0,0,27.65,LOW
+Mayiladuthurai,Mayiladuthurai Town Road,Market Road,945,15,Cloudy,0,0,0,66.1,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,Main Road,190,27,Clear,0,0,0,26.98,LOW
+Mayiladuthurai,Mayiladuthurai Town Road,Bypass Road,149,34,Cloudy,0,0,0,22.13,LOW
+Mayiladuthurai,Mayiladuthurai Ring Road,Bus Stand Road,241,52,Normal,1,0,0,28.56,LOW
+Mayiladuthurai,Mayiladuthurai Highway Road,Bypass Road,752,43,Rain,0,0,1,55.41,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,Bypass Road,891,61,Clear,1,0,0,53.95,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Highway Road,461,50,Clear,0,0,0,29.32,LOW
+Mayiladuthurai,Mayiladuthurai Market Road,Highway Road,317,15,Clear,0,1,1,52.84,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,NH Road,448,28,Cloudy,0,0,1,48.16,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,Market Road,324,38,Clear,1,1,0,43.29,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Highway Road,384,42,Clear,0,0,0,29.28,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Bypass Road,862,22,Clear,0,0,1,69.36,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,NH Road,587,57,Rain,1,0,0,41.99,MEDIUM
+Mayiladuthurai,Mayiladuthurai Ring Road,Main Road,541,28,Normal,0,1,1,57.34,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,Market Road,379,38,Rain,0,0,1,40.77,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,NH Road,293,40,Clear,0,0,1,36.04,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,Main Road,761,30,Rain,0,0,0,51.39,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,Town Road,344,19,Normal,0,0,0,37.34,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Market Road,203,29,Rain,0,1,0,31.71,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Highway Road,752,33,Rain,0,0,0,49.7,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Bus Stand Road,973,59,Cloudy,0,0,0,48.5,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,Ring Road,440,44,Clear,0,0,1,40.94,MEDIUM
+Mayiladuthurai,Mayiladuthurai Ring Road,Highway Road,281,31,Clear,0,0,0,29.36,LOW
+Mayiladuthurai,Mayiladuthurai Main Road,Main Road,600,70,Rain,0,1,0,32.0,LOW
+Mayiladuthurai,Mayiladuthurai NH Road,Bypass Road,955,29,Rain,0,0,0,60.55,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,Ring Road,563,46,Normal,0,0,1,45.62,MEDIUM
+Mayiladuthurai,Mayiladuthurai Highway Road,NH Road,113,67,Rain,0,0,0,6.37,LOW
+Mayiladuthurai,Mayiladuthurai Market Road,Bus Stand Road,802,48,Rain,0,0,1,55.52,MEDIUM
+Mayiladuthurai,Mayiladuthurai Market Road,NH Road,609,16,Cloudy,0,1,0,55.55,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Bypass Road,486,55,Rain,0,0,1,38.3,MEDIUM
+Mayiladuthurai,Mayiladuthurai Market Road,Main Road,439,40,Rain,1,0,0,42.61,MEDIUM
+Mayiladuthurai,Mayiladuthurai Ring Road,Bypass Road,954,54,Clear,0,1,1,64.79,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,Bus Stand Road,108,46,Rain,0,1,0,20.15,LOW
+Mayiladuthurai,Mayiladuthurai Highway Road,Main Road,598,33,Cloudy,0,0,0,42.77,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,Main Road,389,67,Normal,0,0,1,28.79,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Ring Road,460,57,Rain,0,0,0,26.27,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Market Road,904,69,Normal,0,0,0,41.11,MEDIUM
+Mayiladuthurai,Mayiladuthurai Highway Road,Ring Road,699,20,Cloudy,0,0,0,52.88,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Bypass Road,931,58,Rain,1,1,1,72.04,HIGH
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Market Road,711,34,Rain,0,1,0,52.42,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Bypass Road,238,41,Normal,0,0,0,23.14,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Highway Road,658,26,Rain,1,1,0,63.47,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,Highway Road,615,58,Normal,0,1,0,37.82,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Bus Stand Road,520,44,Rain,0,0,1,44.54,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,Town Road,905,30,Cloudy,0,0,0,57.87,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,NH Road,512,57,Clear,0,1,1,43.61,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,Highway Road,376,68,Rain,0,0,0,17.78,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Highway Road,985,18,Cloudy,0,0,0,66.61,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,Highway Road,328,58,Cloudy,0,0,0,19.9,LOW
+Mayiladuthurai,Mayiladuthurai NH Road,Market Road,217,19,Cloudy,0,0,0,31.62,LOW
+Mayiladuthurai,Mayiladuthurai Main Road,NH Road,206,45,Rain,0,1,1,34.98,LOW
+Mayiladuthurai,Mayiladuthurai Highway Road,NH Road,514,45,Normal,0,0,0,33.84,LOW
+Mayiladuthurai,Mayiladuthurai Market Road,Bus Stand Road,249,55,Cloudy,0,0,0,17.63,LOW
+Mayiladuthurai,Mayiladuthurai Highway Road,Ring Road,587,45,Rain,0,0,0,37.13,MEDIUM
+Mayiladuthurai,Mayiladuthurai Town Road,Bus Stand Road,500,39,Clear,0,1,1,50.79,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,Main Road,390,44,Normal,0,1,0,33.69,LOW
+Mayiladuthurai,Mayiladuthurai Bypass Road,Main Road,143,37,Cloudy,0,1,1,35.58,MEDIUM
+Mayiladuthurai,Mayiladuthurai NH Road,Bus Stand Road,466,47,Cloudy,0,0,1,40.83,MEDIUM
+Mayiladuthurai,Mayiladuthurai Bypass Road,Bypass Road,460,56,Normal,0,1,0,31.7,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Bypass Road,169,68,Cloudy,1,1,1,33.46,LOW
+Mayiladuthurai,Mayiladuthurai Main Road,Main Road,814,35,Cloudy,0,1,0,56.63,MEDIUM
+Mayiladuthurai,Mayiladuthurai Ring Road,Market Road,337,21,Cloudy,0,1,1,51.16,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,Bypass Road,207,26,Clear,1,1,0,43.17,MEDIUM
+Mayiladuthurai,Mayiladuthurai Main Road,Bus Stand Road,138,69,Rain,0,1,0,11.64,LOW
+Mayiladuthurai,Mayiladuthurai Market Road,Market Road,210,59,Rain,1,1,0,29.16,LOW
+Mayiladuthurai,Mayiladuthurai Bus Stand Road,Town Road,602,43,Cloudy,0,0,0,38.66,MEDIUM

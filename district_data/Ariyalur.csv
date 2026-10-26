@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Ariyalur,Ariyalur Market Road,Bus Stand Road,754,22,Clear,0,0,0,54.5,MEDIUM
+Ariyalur,Ariyalur Main Road,NH Road,792,62,Cloudy,0,1,0,44.07,MEDIUM
+Ariyalur,Ariyalur Market Road,Highway Road,338,47,Rain,0,0,1,35.07,MEDIUM
+Ariyalur,Ariyalur Ring Road,Bypass Road,928,70,Cloudy,0,0,1,51.76,MEDIUM
+Ariyalur,Ariyalur Town Road,NH Road,320,63,Rain,0,0,0,17.4,LOW
+Ariyalur,Ariyalur NH Road,Town Road,967,37,Clear,0,0,1,67.66,MEDIUM
+Ariyalur,Ariyalur Main Road,Market Road,665,33,Rain,0,0,0,45.78,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Highway Road,181,69,Rain,0,0,1,18.57,LOW
+Ariyalur,Ariyalur NH Road,Bus Stand Road,266,38,Cloudy,0,0,0,25.68,LOW
+Ariyalur,Ariyalur Ring Road,Main Road,267,44,Cloudy,1,0,0,33.16,LOW
+Ariyalur,Ariyalur NH Road,Market Road,941,17,Rain,0,1,0,70.06,HIGH
+Ariyalur,Ariyalur Bus Stand Road,Bypass Road,317,56,Cloudy,1,1,1,45.27,MEDIUM
+Ariyalur,Ariyalur Ring Road,Market Road,352,62,Cloudy,0,1,1,34.27,LOW
+Ariyalur,Ariyalur Bus Stand Road,Bus Stand Road,621,46,Normal,0,0,0,38.23,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Main Road,710,19,Clear,1,1,1,78.81,HIGH
+Ariyalur,Ariyalur Bypass Road,Town Road,798,49,Cloudy,0,0,0,44.91,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Market Road,564,15,Cloudy,0,0,0,48.95,MEDIUM
+Ariyalur,Ariyalur Highway Road,Main Road,482,63,Clear,0,0,0,24.69,LOW
+Ariyalur,Ariyalur Market Road,NH Road,471,68,Clear,0,0,0,22.05,LOW
+Ariyalur,Ariyalur Highway Road,Bus Stand Road,849,46,Rain,0,0,0,48.49,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Town Road,640,70,Rain,1,0,0,38.8,MEDIUM
+Ariyalur,Ariyalur Market Road,NH Road,548,48,Rain,1,0,0,44.09,MEDIUM
+Ariyalur,Ariyalur NH Road,Main Road,121,52,Cloudy,0,0,0,13.16,LOW
+Ariyalur,Ariyalur Bypass Road,Highway Road,169,17,Cloudy,0,0,0,30.32,LOW
+Ariyalur,Ariyalur Town Road,Market Road,652,23,Clear,1,0,1,69.48,MEDIUM
+Ariyalur,Ariyalur Town Road,Highway Road,199,57,Clear,1,0,1,34.53,LOW
+Ariyalur,Ariyalur Ring Road,NH Road,789,56,Cloudy,0,0,1,51.51,MEDIUM
+Ariyalur,Ariyalur Bus Stand Road,Bypass Road,296,27,Normal,1,0,1,51.75,MEDIUM
+Ariyalur,Ariyalur Main Road,Main Road,355,70,Clear,0,1,0,20.98,LOW
+Ariyalur,Ariyalur Highway Road,Highway Road,871,69,Cloudy,0,0,1,49.62,MEDIUM
+Ariyalur,Ariyalur Main Road,Town Road,985,40,Rain,0,0,1,67.18,MEDIUM
+Ariyalur,Ariyalur Highway Road,Bus Stand Road,902,65,Cloudy,1,0,1,62.73,MEDIUM
+Ariyalur,Ariyalur Main Road,Main Road,403,28,Normal,0,0,0,36.14,MEDIUM
+Ariyalur,Ariyalur Bus Stand Road,NH Road,614,69,Clear,0,0,0,28.06,LOW
+Ariyalur,Ariyalur Market Road,Main Road,791,70,Clear,0,1,0,40.59,MEDIUM
+Ariyalur,Ariyalur Ring Road,Market Road,529,57,Rain,0,0,0,29.38,LOW
+Ariyalur,Ariyalur NH Road,Main Road,505,23,Normal,0,1,0,47.87,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Bus Stand Road,736,51,Rain,0,0,0,41.26,MEDIUM
+Ariyalur,Ariyalur Highway Road,Bypass Road,170,30,Clear,0,0,0,24.79,LOW
+Ariyalur,Ariyalur Bypass Road,NH Road,783,67,Clear,0,0,0,36.52,MEDIUM
+Ariyalur,Ariyalur Market Road,Ring Road,860,50,Cloudy,0,0,0,47.27,MEDIUM
+Ariyalur,Ariyalur Main Road,NH Road,803,55,Normal,0,1,0,47.56,MEDIUM
+Ariyalur,Ariyalur Bus Stand Road,Bypass Road,949,32,Cloudy,0,0,0,58.99,MEDIUM
+Ariyalur,Ariyalur NH Road,Bus Stand Road,859,43,Clear,1,0,0,60.23,MEDIUM
+Ariyalur,Ariyalur Main Road,Bypass Road,954,38,Rain,0,1,0,61.64,MEDIUM
+Ariyalur,Ariyalur Market Road,NH Road,915,70,Rain,0,0,0,41.18,MEDIUM
+Ariyalur,Ariyalur Bus Stand Road,Bus Stand Road,898,50,Normal,1,0,0,58.98,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Bus Stand Road,125,26,Clear,0,1,0,29.48,LOW
+Ariyalur,Ariyalur Market Road,Highway Road,491,70,Rain,0,1,0,27.09,LOW
+Ariyalur,Ariyalur Market Road,Town Road,412,67,Rain,0,0,0,19.83,LOW
+Ariyalur,Ariyalur Town Road,Ring Road,385,70,Clear,0,0,0,17.32,LOW
+Ariyalur,Ariyalur NH Road,Town Road,218,31,Rain,0,0,0,26.52,LOW
+Ariyalur,Ariyalur Town Road,Market Road,846,65,Rain,0,1,0,45.21,MEDIUM
+Ariyalur,Ariyalur Ring Road,Town Road,145,60,Clear,1,0,0,20.81,LOW
+Ariyalur,Ariyalur Bypass Road,Town Road,780,36,Rain,0,0,0,49.67,MEDIUM
+Ariyalur,Ariyalur Town Road,Town Road,512,59,Cloudy,0,0,0,27.75,LOW
+Ariyalur,Ariyalur Bypass Road,Bypass Road,730,51,Cloudy,0,1,0,45.99,MEDIUM
+Ariyalur,Ariyalur Highway Road,Market Road,540,65,Normal,0,1,1,41.44,MEDIUM
+Ariyalur,Ariyalur Ring Road,NH Road,912,65,Cloudy,0,0,0,43.18,MEDIUM
+Ariyalur,Ariyalur Main Road,Main Road,788,34,Cloudy,0,0,0,50.89,MEDIUM
+Ariyalur,Ariyalur Market Road,Town Road,586,54,Normal,0,1,1,48.23,MEDIUM
+Ariyalur,Ariyalur Town Road,Market Road,509,30,Cloudy,0,0,0,40.05,MEDIUM
+Ariyalur,Ariyalur NH Road,Highway Road,923,59,Cloudy,1,0,0,56.25,MEDIUM
+Ariyalur,Ariyalur Highway Road,Bus Stand Road,920,44,Normal,0,1,1,67.54,MEDIUM
+Ariyalur,Ariyalur Market Road,Bypass Road,560,31,Normal,0,0,1,51.91,MEDIUM
+Ariyalur,Ariyalur Ring Road,Ring Road,179,60,Clear,0,0,0,12.34,LOW
+Ariyalur,Ariyalur Market Road,NH Road,241,24,Normal,0,1,0,35.56,MEDIUM
+Ariyalur,Ariyalur Market Road,Town Road,517,36,Normal,1,1,0,52.84,MEDIUM
+Ariyalur,Ariyalur Main Road,Ring Road,888,52,Rain,0,1,1,62.67,MEDIUM
+Ariyalur,Ariyalur Market Road,Bypass Road,871,39,Normal,1,0,1,72.48,HIGH
+Ariyalur,Ariyalur Bus Stand Road,Highway Road,597,16,Cloudy,1,0,1,70.01,HIGH
+Ariyalur,Ariyalur NH Road,Town Road,737,49,Cloudy,0,1,0,47.16,MEDIUM
+Ariyalur,Ariyalur Town Road,Ring Road,987,44,Cloudy,0,0,0,55.56,MEDIUM
+Ariyalur,Ariyalur Town Road,Bypass Road,565,35,Clear,0,1,0,45.42,MEDIUM
+Ariyalur,Ariyalur NH Road,Main Road,581,16,Clear,0,0,0,49.29,MEDIUM
+Ariyalur,Ariyalur Bus Stand Road,Highway Road,353,27,Clear,0,0,0,34.31,LOW
+Ariyalur,Ariyalur Bus Stand Road,NH Road,677,28,Cloudy,1,0,0,58.47,MEDIUM
+Ariyalur,Ariyalur Town Road,Market Road,418,21,Clear,0,0,1,49.81,MEDIUM
+Ariyalur,Ariyalur NH Road,Main Road,706,59,Rain,0,0,0,36.48,MEDIUM
+Ariyalur,Ariyalur Main Road,Town Road,645,42,Normal,0,0,0,41.03,MEDIUM
+Ariyalur,Ariyalur Town Road,Bus Stand Road,208,42,Rain,0,1,0,26.36,LOW
+Ariyalur,Ariyalur Bypass Road,Ring Road,730,66,Cloudy,1,1,1,59.56,MEDIUM
+Ariyalur,Ariyalur Highway Road,Town Road,950,20,Rain,0,1,0,69.18,MEDIUM
+Ariyalur,Ariyalur Market Road,Ring Road,129,46,Rain,0,0,1,26.09,LOW
+Ariyalur,Ariyalur NH Road,Market Road,448,32,Normal,0,0,0,36.45,MEDIUM
+Ariyalur,Ariyalur Highway Road,Main Road,600,50,Clear,0,1,1,50.57,MEDIUM
+Ariyalur,Ariyalur Ring Road,Highway Road,401,29,Rain,1,0,0,45.62,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Bypass Road,535,62,Rain,0,0,1,37.5,MEDIUM
+Ariyalur,Ariyalur Bus Stand Road,Market Road,336,22,Cloudy,0,0,0,35.69,MEDIUM
+Ariyalur,Ariyalur Market Road,Bypass Road,856,45,Cloudy,0,0,0,49.23,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Main Road,469,26,Clear,0,0,0,39.96,MEDIUM
+Ariyalur,Ariyalur Main Road,Bypass Road,666,33,Normal,0,1,0,50.83,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Highway Road,590,43,Clear,0,0,0,38.12,MEDIUM
+Ariyalur,Ariyalur Main Road,Bus Stand Road,941,19,Cloudy,1,1,0,79.2,HIGH
+Ariyalur,Ariyalur NH Road,Town Road,930,51,Cloudy,0,0,0,49.99,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Town Road,894,48,Rain,1,1,1,74.66,HIGH
+Ariyalur,Ariyalur Market Road,Bypass Road,682,54,Clear,0,0,0,37.55,MEDIUM
+Ariyalur,Ariyalur Main Road,Town Road,260,30,Normal,0,0,0,28.84,LOW
+Ariyalur,Ariyalur Market Road,Bypass Road,805,53,Rain,1,0,0,53.51,MEDIUM
+Ariyalur,Ariyalur Bypass Road,Market Road,819,70,Normal,1,0,0,46.85,MEDIUM

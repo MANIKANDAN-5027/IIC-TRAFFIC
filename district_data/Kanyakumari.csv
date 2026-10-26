@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Kanyakumari,Kanyakumari Main Road,NH Road,520,50,Clear,0,0,1,41.97,MEDIUM
+Kanyakumari,Kanyakumari Main Road,NH Road,381,15,Rain,0,0,0,40.72,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Town Road,991,29,Normal,1,0,0,72.17,HIGH
+Kanyakumari,Kanyakumari Town Road,Main Road,206,37,Rain,0,0,0,23.41,LOW
+Kanyakumari,Kanyakumari Town Road,Highway Road,350,52,Rain,0,1,0,28.46,LOW
+Kanyakumari,Kanyakumari Bus Stand Road,Main Road,865,67,Rain,1,0,1,60.21,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Bus Stand Road,867,28,Rain,1,0,0,67.02,MEDIUM
+Kanyakumari,Kanyakumari Bus Stand Road,NH Road,518,43,Rain,0,0,0,34.88,LOW
+Kanyakumari,Kanyakumari Highway Road,Highway Road,428,61,Rain,0,0,0,23.12,LOW
+Kanyakumari,Kanyakumari Town Road,Bus Stand Road,995,35,Normal,0,0,0,59.77,MEDIUM
+Kanyakumari,Kanyakumari Bypass Road,Bypass Road,366,28,Normal,0,1,1,49.47,MEDIUM
+Kanyakumari,Kanyakumari NH Road,NH Road,102,43,Clear,0,1,0,21.16,LOW
+Kanyakumari,Kanyakumari Bus Stand Road,Bypass Road,567,45,Rain,0,0,0,36.23,MEDIUM
+Kanyakumari,Kanyakumari Market Road,NH Road,198,65,Normal,0,0,0,11.05,LOW
+Kanyakumari,Kanyakumari Highway Road,Bypass Road,382,54,Normal,0,0,0,24.05,LOW
+Kanyakumari,Kanyakumari Main Road,Highway Road,555,42,Clear,0,1,0,41.98,MEDIUM
+Kanyakumari,Kanyakumari Bypass Road,Market Road,470,35,Normal,0,0,0,36.15,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Bus Stand Road,649,45,Cloudy,1,0,0,49.92,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Market Road,843,15,Rain,0,0,1,71.51,HIGH
+Kanyakumari,Kanyakumari Highway Road,Highway Road,985,22,Clear,0,0,0,64.9,MEDIUM
+Kanyakumari,Kanyakumari Ring Road,Bypass Road,152,57,Normal,0,0,0,12.41,LOW
+Kanyakumari,Kanyakumari Market Road,NH Road,565,69,Rain,0,0,0,25.85,LOW
+Kanyakumari,Kanyakumari Ring Road,Ring Road,810,49,Normal,1,0,0,55.45,MEDIUM
+Kanyakumari,Kanyakumari Market Road,Ring Road,612,36,Rain,1,0,0,52.11,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Ring Road,763,61,Rain,1,0,0,48.19,MEDIUM
+Kanyakumari,Kanyakumari Bus Stand Road,Ring Road,578,28,Rain,0,0,0,44.01,MEDIUM
+Kanyakumari,Kanyakumari Bypass Road,Highway Road,457,50,Rain,0,0,1,39.14,MEDIUM
+Kanyakumari,Kanyakumari Bus Stand Road,Bypass Road,613,21,Clear,1,1,0,63.59,MEDIUM
+Kanyakumari,Kanyakumari Market Road,Bypass Road,895,27,Normal,1,0,0,68.7,MEDIUM
+Kanyakumari,Kanyakumari Bypass Road,Town Road,101,34,Normal,0,1,0,24.97,LOW
+Kanyakumari,Kanyakumari Highway Road,Market Road,748,60,Rain,0,0,1,47.95,MEDIUM
+Kanyakumari,Kanyakumari Main Road,Market Road,227,50,Normal,0,0,0,18.79,LOW
+Kanyakumari,Kanyakumari Highway Road,Main Road,390,38,Cloudy,1,0,0,41.26,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Highway Road,723,67,Rain,1,0,0,43.82,MEDIUM
+Kanyakumari,Kanyakumari Highway Road,Main Road,730,58,Normal,0,0,0,37.99,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Bus Stand Road,571,51,Rain,0,0,1,43.84,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Ring Road,421,58,Cloudy,0,1,0,29.09,LOW
+Kanyakumari,Kanyakumari Market Road,Ring Road,780,50,Cloudy,1,1,1,68.67,MEDIUM
+Kanyakumari,Kanyakumari Ring Road,Town Road,909,42,Clear,1,0,0,62.91,MEDIUM
+Kanyakumari,Kanyakumari Market Road,Bypass Road,600,18,Clear,1,0,0,59.29,MEDIUM
+Kanyakumari,Kanyakumari Main Road,NH Road,318,29,Rain,0,0,0,31.88,LOW
+Kanyakumari,Kanyakumari Highway Road,Bypass Road,294,18,Cloudy,1,0,0,45.52,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Highway Road,542,40,Clear,0,0,1,47.25,MEDIUM
+Kanyakumari,Kanyakumari Main Road,Highway Road,811,32,Cloudy,0,0,0,52.78,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Main Road,923,38,Cloudy,1,0,0,65.25,MEDIUM
+Kanyakumari,Kanyakumari Highway Road,Bypass Road,970,36,Clear,0,1,0,63.22,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Bus Stand Road,244,47,Cloudy,1,1,0,35.84,MEDIUM
+Kanyakumari,Kanyakumari Bus Stand Road,Ring Road,300,65,Cloudy,0,0,0,15.64,LOW
+Kanyakumari,Kanyakumari Bus Stand Road,Ring Road,924,39,Rain,0,0,1,64.87,MEDIUM
+Kanyakumari,Kanyakumari Bypass Road,Town Road,503,63,Rain,0,1,0,30.64,LOW
+Kanyakumari,Kanyakumari Bypass Road,Bypass Road,816,28,Clear,0,0,0,54.72,MEDIUM
+Kanyakumari,Kanyakumari Market Road,Town Road,212,48,Normal,0,0,0,18.97,LOW
+Kanyakumari,Kanyakumari Main Road,Market Road,292,47,Clear,0,0,0,23.0,LOW
+Kanyakumari,Kanyakumari Bypass Road,NH Road,806,52,Rain,0,1,1,58.98,MEDIUM
+Kanyakumari,Kanyakumari Bus Stand Road,Bus Stand Road,982,46,Clear,0,0,1,64.48,MEDIUM
+Kanyakumari,Kanyakumari Ring Road,Bypass Road,176,31,Clear,0,0,0,24.63,LOW
+Kanyakumari,Kanyakumari Market Road,Town Road,199,22,Clear,0,1,0,34.53,LOW
+Kanyakumari,Kanyakumari Highway Road,Highway Road,300,15,Clear,1,1,0,52.07,MEDIUM
+Kanyakumari,Kanyakumari Town Road,NH Road,849,51,Cloudy,0,1,1,61.35,MEDIUM
+Kanyakumari,Kanyakumari Main Road,Highway Road,894,44,Normal,1,0,0,61.37,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Highway Road,769,45,Cloudy,0,1,0,50.32,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Town Road,142,33,Cloudy,1,0,0,32.25,LOW
+Kanyakumari,Kanyakumari Ring Road,Town Road,145,29,Rain,0,1,0,29.1,LOW
+Kanyakumari,Kanyakumari NH Road,Town Road,729,42,Clear,1,0,0,54.8,MEDIUM
+Kanyakumari,Kanyakumari Bypass Road,Main Road,430,60,Normal,0,0,1,33.64,LOW
+Kanyakumari,Kanyakumari Ring Road,NH Road,760,15,Normal,0,0,0,57.77,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Market Road,799,18,Normal,0,0,0,58.24,MEDIUM
+Kanyakumari,Kanyakumari Highway Road,Bypass Road,657,24,Cloudy,1,1,0,64.28,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Bus Stand Road,220,36,Rain,0,0,0,24.47,LOW
+Kanyakumari,Kanyakumari NH Road,Town Road,275,40,Clear,0,0,0,25.23,LOW
+Kanyakumari,Kanyakumari Main Road,Bus Stand Road,663,60,Cloudy,1,0,0,44.12,MEDIUM
+Kanyakumari,Kanyakumari Market Road,NH Road,303,64,Clear,0,0,0,16.21,LOW
+Kanyakumari,Kanyakumari NH Road,Highway Road,518,38,Rain,1,0,0,47.02,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Main Road,446,31,Cloudy,1,0,0,46.78,MEDIUM
+Kanyakumari,Kanyakumari Bus Stand Road,Market Road,852,20,Cloudy,0,0,0,59.77,MEDIUM
+Kanyakumari,Kanyakumari Main Road,Market Road,188,51,Rain,0,0,1,26.6,LOW
+Kanyakumari,Kanyakumari Highway Road,NH Road,927,63,Normal,1,0,1,64.72,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Highway Road,816,16,Clear,0,0,0,59.86,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Main Road,686,34,Rain,0,0,0,46.3,MEDIUM
+Kanyakumari,Kanyakumari Market Road,Market Road,195,40,Normal,0,0,0,21.63,LOW
+Kanyakumari,Kanyakumari Town Road,Highway Road,494,50,Normal,0,0,1,40.8,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Bypass Road,986,57,Cloudy,1,0,0,59.94,MEDIUM
+Kanyakumari,Kanyakumari Highway Road,Market Road,417,35,Clear,1,0,0,43.77,MEDIUM
+Kanyakumari,Kanyakumari Highway Road,Ring Road,333,29,Normal,0,0,1,42.56,MEDIUM
+Kanyakumari,Kanyakumari Bypass Road,Bypass Road,370,70,Clear,0,0,0,16.65,LOW
+Kanyakumari,Kanyakumari NH Road,Ring Road,700,34,Normal,1,0,0,56.93,MEDIUM
+Kanyakumari,Kanyakumari Highway Road,Main Road,120,69,Normal,0,0,0,5.83,LOW
+Kanyakumari,Kanyakumari Town Road,NH Road,708,64,Clear,0,0,1,44.43,MEDIUM
+Kanyakumari,Kanyakumari Bypass Road,Highway Road,210,18,Rain,1,1,1,56.74,MEDIUM
+Kanyakumari,Kanyakumari Highway Road,Bus Stand Road,396,58,Normal,0,1,0,27.96,LOW
+Kanyakumari,Kanyakumari Ring Road,Bypass Road,255,25,Clear,1,0,0,40.76,MEDIUM
+Kanyakumari,Kanyakumari Ring Road,Town Road,876,28,Clear,0,0,1,67.42,MEDIUM
+Kanyakumari,Kanyakumari NH Road,Market Road,963,42,Cloudy,1,0,1,75.34,HIGH
+Kanyakumari,Kanyakumari Highway Road,Highway Road,519,65,Normal,1,0,1,45.5,MEDIUM
+Kanyakumari,Kanyakumari Town Road,Bus Stand Road,710,38,Normal,1,0,0,55.66,MEDIUM
+Kanyakumari,Kanyakumari NH Road,NH Road,328,46,Clear,1,0,1,45.05,MEDIUM
+Kanyakumari,Kanyakumari Bus Stand Road,Town Road,548,63,Cloudy,0,0,0,27.66,LOW
+Kanyakumari,Kanyakumari Bypass Road,Market Road,291,57,Cloudy,0,1,0,23.67,LOW
+Kanyakumari,Kanyakumari Market Road,Market Road,337,27,Rain,0,0,0,33.59,LOW
+Kanyakumari,Kanyakumari Town Road,Bypass Road,386,39,Cloudy,0,1,0,35.66,MEDIUM

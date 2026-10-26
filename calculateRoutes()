@@ -1,0 +1,114 @@
+async function calculateRoutes(
+    fromLat,
+    fromLon,
+    toLat,
+    toLon,
+    fromName = "",
+    toName = ""
+) {
+
+    try {
+
+        let url = "/api/route?";
+
+        if (
+            fromLat &&
+            fromLon &&
+            toLat &&
+            toLon
+        ) {
+
+            url +=
+                `from_lat=${encodeURIComponent(fromLat)}` +
+                `&from_lon=${encodeURIComponent(fromLon)}` +
+                `&to_lat=${encodeURIComponent(toLat)}` +
+                `&to_lon=${encodeURIComponent(toLon)}`;
+
+        } else {
+
+            url +=
+                `from=${encodeURIComponent(fromName)}` +
+                `&to=${encodeURIComponent(toName)}`;
+        }
+
+        console.log("Route API:", url);
+
+        const response = await fetch(url);
+
+        const data = await response.json();
+
+        console.log("Route response:", data);
+
+        if (!response.ok) {
+
+            throw new Error(
+                data.error ||
+                "Route calculation failed"
+            );
+        }
+
+        if (
+            !data.routes ||
+            data.routes.length === 0
+        ) {
+
+            throw new Error(
+                "No route found"
+            );
+        }
+
+        routeData = data.routes;
+
+        drawRoutes();
+
+        displayRouteCards();
+
+        // Fit map to routes
+        const allPoints = [];
+
+        data.routes.forEach(route => {
+
+            if (
+                route.geometry &&
+                route.geometry.coordinates
+            ) {
+
+                route.geometry.coordinates.forEach(
+                    point => {
+
+                        allPoints.push([
+                            point[1],
+                            point[0]
+                        ]);
+
+                    }
+                );
+            }
+
+        });
+
+        if (allPoints.length > 0) {
+
+            map.fitBounds(
+                L.latLngBounds(allPoints),
+                {
+                    padding: [40, 40]
+                }
+            );
+        }
+
+        showMessage(
+            `Found ${data.routes.length} route(s). Best route: ${data.best_route.route}`,
+            "success"
+        );
+
+    } catch (error) {
+
+        console.error(error);
+
+        showMessage(
+            error.message,
+            "error"
+        );
+    }
+}

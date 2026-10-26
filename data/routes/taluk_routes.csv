@@ -1,0 +1,77 @@
+district,taluk,route,road,traffic_score,traffic_status,estimated_delay
+Chennai,Chennai North,Route A,Main Road,24.5,LOW,8.5
+Chennai,Chennai North,Route B,Highway,39.5,MEDIUM,11.4
+Chennai,Chennai North,Route C,Alternative Road,54.8,MEDIUM,15.2
+Chennai,Chennai North,Route D,Bypass Road,69.7,HIGH,20.1
+Chennai,Chennai South,Route A,Main Road,24.5,LOW,8.5
+Chennai,Chennai South,Route B,Highway,39.5,MEDIUM,11.4
+Chennai,Chennai South,Route C,Alternative Road,54.8,MEDIUM,15.2
+Chennai,Chennai South,Route D,Bypass Road,69.7,HIGH,20.1
+Tiruvallur,Tiruvallur,Route A,Main Road,24.5,LOW,8.5
+Tiruvallur,Tiruvallur,Route B,Highway,39.5,MEDIUM,11.4
+Tiruvallur,Tiruvallur,Route C,Alternative Road,54.8,MEDIUM,15.2
+Tiruvallur,Tiruvallur,Route D,Bypass Road,69.7,HIGH,20.1
+Tiruvallur,Ponneri,Route A,Main Road,24.5,LOW,8.5
+Tiruvallur,Ponneri,Route B,Highway,39.5,MEDIUM,11.4
+Tiruvallur,Ponneri,Route C,Alternative Road,54.8,MEDIUM,15.2
+Tiruvallur,Ponneri,Route D,Bypass Road,69.7,HIGH,20.1
+Tiruvallur,Gummidipoondi,Route A,Main Road,24.5,LOW,8.5
+Tiruvallur,Gummidipoondi,Route B,Highway,39.5,MEDIUM,11.4
+Tiruvallur,Gummidipoondi,Route C,Alternative Road,54.8,MEDIUM,15.2
+Tiruvallur,Gummidipoondi,Route D,Bypass Road,69.7,HIGH,20.1
+Tiruvallur,Avadi,Route A,Main Road,24.5,LOW,8.5
+Tiruvallur,Avadi,Route B,Highway,39.5,MEDIUM,11.4
+Tiruvallur,Avadi,Route C,Alternative Road,54.8,MEDIUM,15.2
+Tiruvallur,Avadi,Route D,Bypass Road,69.7,HIGH,20.1
+Chengalpattu,Chengalpattu,Route A,Main Road,24.5,LOW,8.5
+Chengalpattu,Chengalpattu,Route B,Highway,39.5,MEDIUM,11.4
+Chengalpattu,Chengalpattu,Route C,Alternative Road,54.8,MEDIUM,15.2
+Chengalpattu,Chengalpattu,Route D,Bypass Road,69.7,HIGH,20.1
+Chengalpattu,Tambaram,Route A,Main Road,24.5,LOW,8.5
+Chengalpattu,Tambaram,Route B,Highway,39.5,MEDIUM,11.4
+Chengalpattu,Tambaram,Route C,Alternative Road,54.8,MEDIUM,15.2
+Chengalpattu,Tambaram,Route D,Bypass Road,69.7,HIGH,20.1
+Chengalpattu,Thiruporur,Route A,Main Road,24.5,LOW,8.5
+Chengalpattu,Thiruporur,Route B,Highway,39.5,MEDIUM,11.4
+Chengalpattu,Thiruporur,Route C,Alternative Road,54.8,MEDIUM,15.2
+Chengalpattu,Thiruporur,Route D,Bypass Road,69.7,HIGH,20.1
+Kancheepuram,Kancheepuram,Route A,Main Road,24.5,LOW,8.5
+Kancheepuram,Kancheepuram,Route B,Highway,39.5,MEDIUM,11.4
+Kancheepuram,Kancheepuram,Route C,Alternative Road,54.8,MEDIUM,15.2
+Kancheepuram,Kancheepuram,Route D,Bypass Road,69.7,HIGH,20.1
+Kancheepuram,Sriperumbudur,Route A,Main Road,24.5,LOW,8.5
+Kancheepuram,Sriperumbudur,Route B,Highway,39.5,MEDIUM,11.4
+Kancheepuram,Sriperumbudur,Route C,Alternative Road,54.8,MEDIUM,15.2
+Kancheepuram,Sriperumbudur,Route D,Bypass Road,69.7,HIGH,20.1
+Villupuram,Villupuram,Route A,Main Road,24.5,LOW,8.5
+Villupuram,Villupuram,Route B,Highway,39.5,MEDIUM,11.4
+Villupuram,Villupuram,Route C,Alternative Road,54.8,MEDIUM,15.2
+Villupuram,Villupuram,Route D,Bypass Road,69.7,HIGH,20.1
+Villupuram,Tindivanam,Route A,Main Road,24.5,LOW,8.5
+Villupuram,Tindivanam,Route B,Highway,39.5,MEDIUM,11.4
+Villupuram,Tindivanam,Route C,Alternative Road,54.8,MEDIUM,15.2
+Villupuram,Tindivanam,Route D,Bypass Road,69.7,HIGH,20.1
+Villupuram,Gingee,Route A,Main Road,24.5,LOW,8.5
+Villupuram,Gingee,Route B,Highway,39.5,MEDIUM,11.4
+Villupuram,Gingee,Route C,Alternative Road,54.8,MEDIUM,15.2
+Villupuram,Gingee,Route D,Bypass Road,69.7,HIGH,20.1
+Cuddalore,Cuddalore,Route A,Main Road,24.5,LOW,8.5
+Cuddalore,Cuddalore,Route B,Highway,39.5,MEDIUM,11.4
+Cuddalore,Cuddalore,Route C,Alternative Road,54.8,MEDIUM,15.2
+Cuddalore,Cuddalore,Route D,Bypass Road,69.7,HIGH,20.1
+Cuddalore,Panruti,Route A,Main Road,24.5,LOW,8.5
+Cuddalore,Panruti,Route B,Highway,39.5,MEDIUM,11.4
+Cuddalore,Panruti,Route C,Alternative Road,54.8,MEDIUM,15.2
+Cuddalore,Panruti,Route D,Bypass Road,69.7,HIGH,20.1
+Cuddalore,Chidambaram,Route A,Main Road,24.5,LOW,8.5
+Cuddalore,Chidambaram,Route B,Highway,39.5,MEDIUM,11.4
+Cuddalore,Chidambaram,Route C,Alternative Road,54.8,MEDIUM,15.2
+Cuddalore,Chidambaram,Route D,Bypass Road,69.7,HIGH,20.1
+Perambalur,Perambalur,Route A,Main Road,24.5,LOW,8.5
+Perambalur,Perambalur,Route B,Highway,39.5,MEDIUM,11.4
+Perambalur,Perambalur,Route C,Alternative Road,54.8,MEDIUM,15.2
+Perambalur,Perambalur,Route D,Bypass Road,69.7,HIGH,20.1
+Perambalur,Kunnam,Route A,Main Road,24.5,LOW,8.5
+Perambalur,Kunnam,Route B,Highway,39.5,MEDIUM,11.4
+Perambalur,Kunnam,Route C,Alternative Road,54.8,MEDIUM,15.2
+Perambalur,Kunnam,Route D,Bypass Road,69.7,HIGH,20.1

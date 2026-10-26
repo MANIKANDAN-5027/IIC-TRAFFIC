@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Kallakurichi,Kallakurichi Bypass Road,Bus Stand Road,569,41,Cloudy,0,0,0,38.03,MEDIUM
+Kallakurichi,Kallakurichi Highway Road,Market Road,691,50,Normal,0,0,1,49.67,MEDIUM
+Kallakurichi,Kallakurichi Market Road,Market Road,957,44,Rain,0,0,1,64.21,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Main Road,544,52,Clear,0,0,0,32.19,LOW
+Kallakurichi,Kallakurichi Highway Road,NH Road,581,61,Normal,0,1,1,45.0,MEDIUM
+Kallakurichi,Kallakurichi Market Road,Bus Stand Road,607,30,Rain,0,0,1,54.46,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Bus Stand Road,402,30,Normal,0,0,1,45.23,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Town Road,978,51,Cloudy,0,1,1,67.15,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Town Road,908,70,Rain,0,1,0,45.86,MEDIUM
+Kallakurichi,Kallakurichi Market Road,NH Road,643,17,Rain,0,1,0,56.65,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Ring Road,853,18,Normal,0,0,0,60.67,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Market Road,733,17,Cloudy,0,0,0,55.7,MEDIUM
+Kallakurichi,Kallakurichi Market Road,Ring Road,442,30,Rain,0,1,0,42.03,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Ring Road,373,47,Rain,1,0,0,36.64,MEDIUM
+Kallakurichi,Kallakurichi Highway Road,Ring Road,563,46,Clear,0,1,0,40.62,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Bypass Road,292,44,Clear,0,0,1,34.28,LOW
+Kallakurichi,Kallakurichi Highway Road,Bus Stand Road,211,25,Cloudy,0,0,0,28.78,LOW
+Kallakurichi,Kallakurichi Bus Stand Road,Highway Road,633,55,Rain,0,0,1,44.91,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Main Road,530,43,Cloudy,0,0,0,35.42,MEDIUM
+Kallakurichi,Kallakurichi Ring Road,Highway Road,954,48,Normal,0,1,0,57.36,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Market Road,568,34,Normal,0,0,0,40.99,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Highway Road,480,33,Cloudy,0,0,0,37.46,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Bus Stand Road,733,25,Cloudy,0,0,0,52.27,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Ring Road,219,17,Cloudy,0,0,1,42.57,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Ring Road,310,50,Normal,0,0,0,22.52,LOW
+Kallakurichi,Kallakurichi Town Road,Highway Road,652,25,Cloudy,0,0,0,48.63,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Highway Road,569,35,Rain,0,0,0,40.6,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Highway Road,872,51,Clear,0,1,0,52.38,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Market Road,242,58,Normal,0,0,0,16.03,LOW
+Kallakurichi,Kallakurichi Market Road,Bypass Road,465,20,Cloudy,0,0,0,42.35,MEDIUM
+Kallakurichi,Kallakurichi Market Road,Highway Road,123,20,Rain,1,0,1,46.96,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Town Road,717,53,Rain,0,0,1,49.55,MEDIUM
+Kallakurichi,Kallakurichi Ring Road,Bypass Road,495,38,Normal,0,0,0,35.99,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Highway Road,995,50,Rain,0,0,1,63.35,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Bus Stand Road,267,66,Cloudy,1,1,0,28.73,LOW
+Kallakurichi,Kallakurichi NH Road,Main Road,410,45,Normal,0,0,1,39.16,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Market Road,754,32,Cloudy,1,0,1,70.22,HIGH
+Kallakurichi,Kallakurichi Bypass Road,Bypass Road,952,39,Normal,0,1,0,61.13,MEDIUM
+Kallakurichi,Kallakurichi Main Road,Bus Stand Road,672,62,Rain,1,0,0,43.67,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Bus Stand Road,407,55,Normal,1,0,0,34.74,LOW
+Kallakurichi,Kallakurichi Bypass Road,Highway Road,804,56,Clear,0,0,0,42.18,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Highway Road,713,62,Clear,0,1,1,50.51,MEDIUM
+Kallakurichi,Kallakurichi Main Road,Bus Stand Road,482,47,Rain,0,0,0,31.55,LOW
+Kallakurichi,Kallakurichi Main Road,Bypass Road,572,59,Rain,0,0,0,30.45,LOW
+Kallakurichi,Kallakurichi Bypass Road,NH Road,529,55,Cloudy,0,0,0,30.23,LOW
+Kallakurichi,Kallakurichi Ring Road,Ring Road,884,55,Rain,0,0,0,46.21,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Main Road,377,58,Cloudy,0,0,0,22.11,LOW
+Kallakurichi,Kallakurichi Ring Road,Bus Stand Road,630,33,Clear,0,1,1,59.21,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Highway Road,323,24,Clear,0,0,0,34.25,LOW
+Kallakurichi,Kallakurichi Ring Road,Bypass Road,219,67,Rain,0,0,1,21.14,LOW
+Kallakurichi,Kallakurichi Bypass Road,Main Road,242,67,Clear,1,0,0,22.18,LOW
+Kallakurichi,Kallakurichi Bus Stand Road,Market Road,327,23,Cloudy,0,0,0,34.86,LOW
+Kallakurichi,Kallakurichi Highway Road,Town Road,180,42,Clear,0,0,0,20.1,LOW
+Kallakurichi,Kallakurichi NH Road,Bypass Road,301,21,Clear,0,0,1,44.55,MEDIUM
+Kallakurichi,Kallakurichi Market Road,Market Road,167,34,Cloudy,0,0,0,22.94,LOW
+Kallakurichi,Kallakurichi Bypass Road,Ring Road,786,37,Rain,0,0,0,49.51,MEDIUM
+Kallakurichi,Kallakurichi Main Road,Market Road,264,69,Cloudy,0,0,0,12.31,LOW
+Kallakurichi,Kallakurichi Highway Road,Ring Road,388,25,Cloudy,0,0,0,36.75,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Town Road,550,58,Cloudy,0,0,0,29.89,LOW
+Kallakurichi,Kallakurichi NH Road,Highway Road,626,29,Clear,1,0,0,55.74,MEDIUM
+Kallakurichi,Kallakurichi Main Road,NH Road,632,23,Rain,1,0,0,58.58,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Highway Road,605,22,Cloudy,1,0,1,67.8,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Highway Road,667,41,Rain,0,1,0,47.44,MEDIUM
+Kallakurichi,Kallakurichi Highway Road,NH Road,283,15,Clear,1,0,1,56.31,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Ring Road,246,40,Cloudy,1,0,0,33.93,LOW
+Kallakurichi,Kallakurichi Town Road,Highway Road,446,27,Rain,1,0,0,48.5,MEDIUM
+Kallakurichi,Kallakurichi Highway Road,Town Road,883,60,Normal,0,1,0,49.02,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Bypass Road,623,32,Normal,0,1,0,49.32,MEDIUM
+Kallakurichi,Kallakurichi Main Road,NH Road,609,29,Normal,0,0,0,44.98,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Bypass Road,794,16,Clear,0,1,0,63.87,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Highway Road,878,19,Normal,1,1,0,76.37,HIGH
+Kallakurichi,Kallakurichi Town Road,NH Road,616,31,Normal,0,0,0,44.43,MEDIUM
+Kallakurichi,Kallakurichi Main Road,Main Road,560,35,Cloudy,1,1,1,65.2,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Bus Stand Road,670,57,Rain,0,0,1,45.72,MEDIUM
+Kallakurichi,Kallakurichi Highway Road,Highway Road,832,39,Cloudy,1,0,1,70.73,HIGH
+Kallakurichi,Kallakurichi Town Road,Ring Road,618,18,Rain,1,0,1,70.1,HIGH
+Kallakurichi,Kallakurichi Ring Road,Ring Road,428,18,Clear,0,0,0,41.55,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Ring Road,883,55,Rain,0,1,0,51.16,MEDIUM
+Kallakurichi,Kallakurichi Market Road,Bypass Road,521,37,Clear,0,0,0,37.59,MEDIUM
+Kallakurichi,Kallakurichi Bus Stand Road,Main Road,804,19,Rain,0,0,0,58.04,MEDIUM
+Kallakurichi,Kallakurichi Main Road,Highway Road,138,44,Clear,1,1,0,32.35,LOW
+Kallakurichi,Kallakurichi Highway Road,NH Road,424,39,Cloudy,1,0,0,42.37,MEDIUM
+Kallakurichi,Kallakurichi Ring Road,Town Road,444,46,Cloudy,0,0,0,30.27,LOW
+Kallakurichi,Kallakurichi Bypass Road,Main Road,608,55,Rain,0,0,0,33.79,LOW
+Kallakurichi,Kallakurichi Ring Road,Bypass Road,687,40,Clear,0,0,0,43.77,MEDIUM
+Kallakurichi,Kallakurichi Ring Road,NH Road,680,66,Rain,1,1,0,47.31,MEDIUM
+Kallakurichi,Kallakurichi Market Road,Town Road,616,66,Normal,0,1,0,34.43,LOW
+Kallakurichi,Kallakurichi Bus Stand Road,Highway Road,357,54,Cloudy,1,0,0,32.92,LOW
+Kallakurichi,Kallakurichi Main Road,Market Road,776,67,Rain,1,0,1,56.21,MEDIUM
+Kallakurichi,Kallakurichi Town Road,Town Road,573,24,Rain,0,0,0,45.5,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Bypass Road,980,68,Cloudy,0,0,1,54.96,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Bus Stand Road,362,58,Cloudy,0,1,0,26.43,LOW
+Kallakurichi,Kallakurichi Town Road,Town Road,128,30,Clear,0,1,1,37.9,MEDIUM
+Kallakurichi,Kallakurichi Bypass Road,Bypass Road,306,25,Cloudy,0,0,0,33.06,LOW
+Kallakurichi,Kallakurichi Main Road,NH Road,759,69,Rain,0,1,0,39.58,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Town Road,716,34,Cloudy,0,1,0,52.65,MEDIUM
+Kallakurichi,Kallakurichi NH Road,Market Road,341,22,Clear,0,0,1,45.92,MEDIUM
+Kallakurichi,Kallakurichi Market Road,Town Road,891,66,Cloudy,0,0,1,51.81,MEDIUM
+Kallakurichi,Kallakurichi Highway Road,Town Road,247,21,Rain,0,0,0,32.12,LOW
+Kallakurichi,Kallakurichi NH Road,Ring Road,983,52,Normal,0,1,0,56.95,MEDIUM

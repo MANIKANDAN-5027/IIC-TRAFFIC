@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Virudhunagar,Virudhunagar Town Road,Town Road,205,36,Rain,1,1,0,38.8,MEDIUM
+Virudhunagar,Virudhunagar Main Road,NH Road,100,56,Normal,0,0,1,20.5,LOW
+Virudhunagar,Virudhunagar Market Road,Bypass Road,603,57,Cloudy,0,0,0,32.71,LOW
+Virudhunagar,Virudhunagar Bypass Road,Ring Road,476,54,Clear,1,0,0,38.28,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Ring Road,761,36,Rain,1,1,0,63.82,MEDIUM
+Virudhunagar,Virudhunagar NH Road,Highway Road,146,23,Cloudy,0,0,1,36.71,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Bus Stand Road,439,66,Rain,1,0,0,31.47,LOW
+Virudhunagar,Virudhunagar Town Road,Bus Stand Road,157,70,Normal,0,0,1,17.07,LOW
+Virudhunagar,Virudhunagar Market Road,Bypass Road,995,68,Cloudy,0,0,1,55.63,MEDIUM
+Virudhunagar,Virudhunagar Market Road,Ring Road,876,62,Rain,1,0,1,62.85,MEDIUM
+Virudhunagar,Virudhunagar Bus Stand Road,Highway Road,326,16,Normal,0,0,0,37.81,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Ring Road,715,36,Cloudy,0,0,0,46.75,MEDIUM
+Virudhunagar,Virudhunagar Town Road,Highway Road,989,60,Clear,1,1,0,63.79,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Market Road,321,39,Normal,0,1,0,32.73,LOW
+Virudhunagar,Virudhunagar Bypass Road,Town Road,320,31,Normal,0,0,0,31.11,LOW
+Virudhunagar,Virudhunagar NH Road,Bus Stand Road,865,62,Cloudy,0,0,0,42.35,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Main Road,327,38,Normal,1,1,0,43.43,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Ring Road,325,68,Normal,0,1,0,20.48,LOW
+Virudhunagar,Virudhunagar Town Road,Market Road,572,42,Normal,0,1,0,42.74,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Bypass Road,555,49,Normal,0,0,1,43.98,MEDIUM
+Virudhunagar,Virudhunagar Market Road,Bypass Road,891,69,Rain,0,0,0,40.52,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Bypass Road,241,52,Clear,0,0,1,28.56,LOW
+Virudhunagar,Virudhunagar Highway Road,Town Road,871,65,Normal,0,1,1,56.34,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Town Road,388,16,Normal,0,0,0,40.6,MEDIUM
+Virudhunagar,Virudhunagar Market Road,Bypass Road,463,20,Clear,0,1,0,47.26,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Main Road,177,35,Clear,1,0,0,32.97,LOW
+Virudhunagar,Virudhunagar Town Road,Ring Road,758,60,Normal,0,0,0,38.4,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Ring Road,465,61,Cloudy,0,0,0,24.78,LOW
+Virudhunagar,Virudhunagar Market Road,Ring Road,637,66,Cloudy,0,1,0,35.38,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Main Road,305,70,Clear,0,1,1,28.73,LOW
+Virudhunagar,Virudhunagar Main Road,Market Road,366,44,Rain,0,0,0,27.61,LOW
+Virudhunagar,Virudhunagar NH Road,Town Road,698,63,Rain,0,1,0,39.41,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Bypass Road,182,20,Normal,0,0,0,29.62,LOW
+Virudhunagar,Virudhunagar Highway Road,Town Road,536,19,Clear,0,0,1,55.98,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Highway Road,622,56,Normal,1,1,0,48.99,MEDIUM
+Virudhunagar,Virudhunagar Ring Road,Bus Stand Road,509,57,Rain,1,0,0,38.48,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Bus Stand Road,513,36,Cloudy,0,0,0,37.66,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Town Road,808,29,Rain,0,0,0,53.93,MEDIUM
+Virudhunagar,Virudhunagar Market Road,Town Road,975,16,Cloudy,0,0,1,77.02,HIGH
+Virudhunagar,Virudhunagar NH Road,Market Road,259,19,Clear,0,0,0,33.51,LOW
+Virudhunagar,Virudhunagar Highway Road,Bypass Road,644,39,Normal,1,0,0,52.27,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Ring Road,988,30,Cloudy,0,0,0,61.6,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Market Road,367,44,Rain,0,0,0,27.66,LOW
+Virudhunagar,Virudhunagar Bus Stand Road,Market Road,720,31,Normal,0,0,0,49.11,MEDIUM
+Virudhunagar,Virudhunagar Town Road,Bypass Road,760,29,Normal,0,0,1,61.77,MEDIUM
+Virudhunagar,Virudhunagar Market Road,Ring Road,590,34,Clear,0,0,0,41.98,MEDIUM
+Virudhunagar,Virudhunagar Ring Road,Ring Road,617,58,Cloudy,0,0,0,32.91,LOW
+Virudhunagar,Virudhunagar Market Road,Ring Road,373,41,Cloudy,0,0,0,29.21,LOW
+Virudhunagar,Virudhunagar Main Road,Bypass Road,810,22,Clear,1,0,0,67.02,MEDIUM
+Virudhunagar,Virudhunagar NH Road,Town Road,274,50,Normal,1,0,0,30.9,LOW
+Virudhunagar,Virudhunagar NH Road,Market Road,453,63,Rain,0,0,0,23.39,LOW
+Virudhunagar,Virudhunagar Market Road,NH Road,645,63,Rain,0,0,0,32.03,LOW
+Virudhunagar,Virudhunagar Bus Stand Road,Bypass Road,986,39,Cloudy,0,0,0,57.66,MEDIUM
+Virudhunagar,Virudhunagar Main Road,NH Road,205,59,Cloudy,0,1,0,18.94,LOW
+Virudhunagar,Virudhunagar Market Road,Bypass Road,164,47,Clear,0,0,1,27.24,LOW
+Virudhunagar,Virudhunagar Market Road,NH Road,189,33,Rain,1,0,0,34.36,LOW
+Virudhunagar,Virudhunagar NH Road,Ring Road,756,37,Cloudy,0,0,0,48.16,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Highway Road,139,27,Normal,0,0,0,24.68,LOW
+Virudhunagar,Virudhunagar Ring Road,Bypass Road,645,20,Rain,0,0,1,60.45,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Ring Road,427,44,Rain,1,1,0,45.36,MEDIUM
+Virudhunagar,Virudhunagar Town Road,Bypass Road,222,65,Rain,0,0,0,12.13,LOW
+Virudhunagar,Virudhunagar NH Road,Main Road,256,18,Normal,1,0,0,43.81,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Main Road,207,59,Cloudy,1,1,0,29.03,LOW
+Virudhunagar,Virudhunagar Town Road,Bus Stand Road,263,57,Normal,0,0,0,17.41,LOW
+Virudhunagar,Virudhunagar Highway Road,Ring Road,944,47,Normal,0,0,0,52.34,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Market Road,274,56,Rain,1,1,0,33.33,LOW
+Virudhunagar,Virudhunagar Ring Road,Market Road,608,51,Cloudy,0,0,0,35.5,MEDIUM
+Virudhunagar,Virudhunagar Bus Stand Road,Highway Road,777,66,Clear,0,1,0,41.68,MEDIUM
+Virudhunagar,Virudhunagar Main Road,Highway Road,820,27,Rain,0,0,0,55.33,MEDIUM
+Virudhunagar,Virudhunagar Market Road,Highway Road,672,36,Clear,1,0,0,54.81,MEDIUM
+Virudhunagar,Virudhunagar Ring Road,Bus Stand Road,248,54,Clear,0,0,0,18.02,LOW
+Virudhunagar,Virudhunagar Main Road,Town Road,439,58,Clear,0,0,1,34.9,LOW
+Virudhunagar,Virudhunagar Bypass Road,Main Road,394,50,Normal,0,0,0,26.3,LOW
+Virudhunagar,Virudhunagar Highway Road,Town Road,901,37,Rain,0,1,0,59.69,MEDIUM
+Virudhunagar,Virudhunagar Ring Road,Town Road,142,60,Normal,0,0,0,10.68,LOW
+Virudhunagar,Virudhunagar Town Road,Ring Road,804,31,Rain,0,0,0,52.89,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Town Road,541,66,Rain,0,0,1,36.06,MEDIUM
+Virudhunagar,Virudhunagar Town Road,Main Road,535,59,Normal,0,0,0,28.79,LOW
+Virudhunagar,Virudhunagar NH Road,Market Road,762,23,Normal,0,0,0,54.43,MEDIUM
+Virudhunagar,Virudhunagar NH Road,Main Road,109,32,Cloudy,1,0,1,41.19,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Ring Road,621,16,Cloudy,0,0,0,51.09,MEDIUM
+Virudhunagar,Virudhunagar NH Road,Bypass Road,673,25,Normal,0,0,0,49.57,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Highway Road,928,51,Cloudy,0,0,0,49.9,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Market Road,674,30,Clear,0,0,1,57.47,MEDIUM
+Virudhunagar,Virudhunagar Town Road,Highway Road,939,51,Clear,0,0,0,50.4,MEDIUM
+Virudhunagar,Virudhunagar Ring Road,Town Road,927,50,Cloudy,0,1,1,65.29,MEDIUM
+Virudhunagar,Virudhunagar Bus Stand Road,Main Road,707,25,Clear,0,0,0,51.1,MEDIUM
+Virudhunagar,Virudhunagar Market Road,Main Road,639,28,Normal,0,0,0,46.75,MEDIUM
+Virudhunagar,Virudhunagar Town Road,Highway Road,622,47,Normal,0,1,0,42.85,MEDIUM
+Virudhunagar,Virudhunagar Ring Road,Market Road,754,46,Normal,0,1,0,49.22,MEDIUM
+Virudhunagar,Virudhunagar Ring Road,Bus Stand Road,375,61,Clear,0,0,1,30.73,LOW
+Virudhunagar,Virudhunagar Ring Road,Ring Road,336,37,Rain,0,0,1,39.26,MEDIUM
+Virudhunagar,Virudhunagar Highway Road,Bypass Road,714,55,Clear,0,1,0,43.56,MEDIUM
+Virudhunagar,Virudhunagar Town Road,Highway Road,802,19,Rain,0,1,0,62.95,MEDIUM
+Virudhunagar,Virudhunagar Bypass Road,Ring Road,878,22,Cloudy,0,1,1,75.08,HIGH
+Virudhunagar,Virudhunagar NH Road,Ring Road,374,54,Normal,1,0,0,33.69,LOW
+Virudhunagar,Virudhunagar Market Road,Main Road,418,22,Clear,1,1,1,64.38,MEDIUM
+Virudhunagar,Virudhunagar NH Road,Town Road,679,28,Cloudy,0,0,0,48.56,MEDIUM
+Virudhunagar,Virudhunagar Bus Stand Road,Bus Stand Road,957,17,Rain,0,0,1,75.78,HIGH
+Virudhunagar,Virudhunagar Bus Stand Road,Highway Road,248,23,Normal,0,0,0,31.3,LOW

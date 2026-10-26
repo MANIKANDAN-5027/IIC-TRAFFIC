@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Chengalpattu,Chengalpattu Bus Stand Road,NH Road,217,49,Clear,0,0,0,18.77,LOW
+Chengalpattu,Chengalpattu NH Road,Highway Road,269,65,Rain,0,0,1,24.25,LOW
+Chengalpattu,Chengalpattu NH Road,Main Road,816,40,Normal,0,1,1,64.58,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Main Road,852,35,Rain,0,0,0,53.34,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Bus Stand Road,690,17,Normal,0,1,1,68.76,MEDIUM
+Chengalpattu,Chengalpattu Ring Road,Town Road,750,67,Rain,1,0,1,55.04,MEDIUM
+Chengalpattu,Chengalpattu Town Road,Highway Road,428,57,Rain,0,0,0,24.83,LOW
+Chengalpattu,Chengalpattu Ring Road,Bypass Road,778,40,Rain,0,1,0,52.87,MEDIUM
+Chengalpattu,Chengalpattu Town Road,Main Road,218,64,Cloudy,1,0,1,32.38,LOW
+Chengalpattu,Chengalpattu Market Road,Bypass Road,630,38,Cloudy,1,1,0,57.06,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Bus Stand Road,394,43,Rain,1,0,0,39.3,MEDIUM
+Chengalpattu,Chengalpattu NH Road,Highway Road,664,15,Clear,1,0,0,63.45,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Town Road,763,68,Normal,0,1,0,40.19,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Bus Stand Road,583,30,Clear,1,0,1,63.38,MEDIUM
+Chengalpattu,Chengalpattu Main Road,Bypass Road,382,64,Rain,1,0,0,29.76,LOW
+Chengalpattu,Chengalpattu Highway Road,Ring Road,957,52,Rain,1,0,1,70.78,HIGH
+Chengalpattu,Chengalpattu Market Road,Market Road,665,63,Normal,1,1,0,47.92,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Town Road,339,69,Normal,1,0,0,25.68,LOW
+Chengalpattu,Chengalpattu Bus Stand Road,Ring Road,779,65,Clear,0,1,0,42.2,MEDIUM
+Chengalpattu,Chengalpattu Main Road,Bus Stand Road,995,69,Normal,1,0,1,65.2,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Ring Road,991,56,Normal,0,0,1,60.59,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Main Road,765,20,Clear,0,1,0,60.85,MEDIUM
+Chengalpattu,Chengalpattu Town Road,NH Road,340,55,Clear,0,0,0,21.73,LOW
+Chengalpattu,Chengalpattu Ring Road,Main Road,554,25,Rain,0,0,0,44.22,MEDIUM
+Chengalpattu,Chengalpattu Town Road,Bus Stand Road,467,38,Cloudy,1,0,0,44.73,MEDIUM
+Chengalpattu,Chengalpattu Bus Stand Road,Market Road,279,20,Normal,1,0,1,53.98,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Bypass Road,753,31,Cloudy,1,0,0,60.6,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Highway Road,175,43,Rain,0,0,1,29.45,LOW
+Chengalpattu,Chengalpattu Town Road,Ring Road,303,39,Rain,1,0,0,36.92,MEDIUM
+Chengalpattu,Chengalpattu Main Road,Main Road,816,33,Normal,0,1,0,57.58,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Bypass Road,952,33,Cloudy,0,0,0,58.7,MEDIUM
+Chengalpattu,Chengalpattu Main Road,Ring Road,743,21,Cloudy,0,0,1,64.44,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Bus Stand Road,192,33,Rain,0,1,0,29.5,LOW
+Chengalpattu,Chengalpattu Highway Road,Bypass Road,643,47,Rain,0,0,0,38.79,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Town Road,923,22,Rain,1,0,0,72.11,HIGH
+Chengalpattu,Chengalpattu NH Road,Highway Road,192,65,Rain,1,0,0,20.78,LOW
+Chengalpattu,Chengalpattu NH Road,Market Road,788,62,Normal,0,1,0,43.89,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Bypass Road,125,54,Normal,0,0,0,12.48,LOW
+Chengalpattu,Chengalpattu Highway Road,NH Road,219,23,Clear,0,0,0,30.0,LOW
+Chengalpattu,Chengalpattu Ring Road,Town Road,340,49,Cloudy,0,1,1,39.3,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Main Road,524,56,Rain,0,1,1,44.58,MEDIUM
+Chengalpattu,Chengalpattu NH Road,Ring Road,322,43,Rain,1,0,0,36.06,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,NH Road,162,40,Cloudy,0,0,0,20.15,LOW
+Chengalpattu,Chengalpattu Market Road,Bus Stand Road,757,55,Cloudy,0,0,0,40.49,MEDIUM
+Chengalpattu,Chengalpattu Ring Road,Bus Stand Road,170,68,Clear,0,0,0,8.51,LOW
+Chengalpattu,Chengalpattu Bus Stand Road,NH Road,383,69,Clear,0,0,0,17.66,LOW
+Chengalpattu,Chengalpattu Main Road,Bus Stand Road,234,15,Rain,0,0,0,34.1,LOW
+Chengalpattu,Chengalpattu Highway Road,Highway Road,153,23,Rain,1,0,0,37.03,MEDIUM
+Chengalpattu,Chengalpattu Main Road,Bypass Road,625,52,Normal,0,1,0,40.84,MEDIUM
+Chengalpattu,Chengalpattu Town Road,NH Road,758,16,Normal,0,1,1,72.25,HIGH
+Chengalpattu,Chengalpattu Bus Stand Road,NH Road,829,43,Cloudy,0,0,0,48.88,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Town Road,381,54,Clear,0,1,0,29.0,LOW
+Chengalpattu,Chengalpattu Highway Road,Market Road,912,59,Normal,0,0,1,55.75,MEDIUM
+Chengalpattu,Chengalpattu NH Road,Ring Road,447,67,Normal,1,1,1,46.4,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,NH Road,420,57,Clear,0,0,0,24.47,LOW
+Chengalpattu,Chengalpattu Ring Road,Bus Stand Road,951,20,Clear,0,1,0,69.22,MEDIUM
+Chengalpattu,Chengalpattu Ring Road,Town Road,700,50,Clear,0,0,1,50.07,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Bus Stand Road,394,53,Normal,0,0,0,25.02,LOW
+Chengalpattu,Chengalpattu NH Road,Bypass Road,329,69,Cloudy,0,0,0,15.23,LOW
+Chengalpattu,Chengalpattu Bus Stand Road,Bypass Road,926,42,Rain,0,0,0,53.67,MEDIUM
+Chengalpattu,Chengalpattu Town Road,NH Road,447,37,Cloudy,0,0,0,34.26,LOW
+Chengalpattu,Chengalpattu Town Road,Town Road,858,55,Normal,0,0,0,45.04,MEDIUM
+Chengalpattu,Chengalpattu NH Road,Main Road,449,25,Cloudy,0,0,0,39.49,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Town Road,261,63,Normal,0,0,0,14.75,LOW
+Chengalpattu,Chengalpattu NH Road,Ring Road,721,43,Normal,1,0,0,54.02,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Town Road,213,33,Clear,1,0,0,35.44,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Bypass Road,107,28,Rain,0,0,0,22.81,LOW
+Chengalpattu,Chengalpattu Bus Stand Road,Town Road,222,15,Cloudy,1,1,0,48.56,MEDIUM
+Chengalpattu,Chengalpattu Main Road,Town Road,612,50,Clear,0,0,1,46.11,MEDIUM
+Chengalpattu,Chengalpattu Town Road,Bypass Road,570,19,Clear,0,1,1,62.51,MEDIUM
+Chengalpattu,Chengalpattu Ring Road,NH Road,514,16,Normal,0,0,1,56.27,MEDIUM
+Chengalpattu,Chengalpattu NH Road,Town Road,964,21,Rain,0,1,1,79.38,HIGH
+Chengalpattu,Chengalpattu NH Road,NH Road,863,36,Cloudy,0,0,0,53.41,MEDIUM
+Chengalpattu,Chengalpattu NH Road,Bus Stand Road,894,37,Rain,0,0,0,54.37,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Highway Road,302,26,Normal,0,0,0,32.45,LOW
+Chengalpattu,Chengalpattu Highway Road,NH Road,797,51,Normal,0,0,0,44.01,MEDIUM
+Chengalpattu,Chengalpattu Ring Road,NH Road,552,55,Rain,0,0,0,31.27,LOW
+Chengalpattu,Chengalpattu Bypass Road,NH Road,572,43,Clear,0,0,0,37.31,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Market Road,729,53,Rain,1,1,0,55.09,MEDIUM
+Chengalpattu,Chengalpattu NH Road,Ring Road,719,45,Clear,0,0,1,53.07,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Highway Road,616,56,Cloudy,0,0,0,33.72,LOW
+Chengalpattu,Chengalpattu Ring Road,Main Road,472,38,Rain,0,1,1,49.95,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Bus Stand Road,167,36,Rain,0,1,0,27.09,LOW
+Chengalpattu,Chengalpattu Town Road,Bus Stand Road,183,52,Clear,0,0,0,15.95,LOW
+Chengalpattu,Chengalpattu NH Road,Town Road,417,50,Rain,1,0,0,37.34,MEDIUM
+Chengalpattu,Chengalpattu Ring Road,Highway Road,118,38,Cloudy,0,0,0,19.02,LOW
+Chengalpattu,Chengalpattu NH Road,Main Road,331,23,Rain,0,0,0,35.04,MEDIUM
+Chengalpattu,Chengalpattu Bus Stand Road,Bus Stand Road,997,64,Cloudy,0,1,0,52.44,MEDIUM
+Chengalpattu,Chengalpattu Market Road,Highway Road,838,43,Rain,0,1,0,54.28,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Highway Road,870,62,Cloudy,1,0,0,52.58,MEDIUM
+Chengalpattu,Chengalpattu Town Road,Town Road,476,58,Cloudy,1,1,0,41.56,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Ring Road,936,27,Clear,0,0,0,60.55,MEDIUM
+Chengalpattu,Chengalpattu Bus Stand Road,Bypass Road,828,69,Normal,0,0,0,37.69,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Ring Road,625,24,Clear,1,0,0,57.84,MEDIUM
+Chengalpattu,Chengalpattu Town Road,NH Road,524,18,Rain,1,0,0,55.87,MEDIUM
+Chengalpattu,Chengalpattu Bus Stand Road,Bus Stand Road,329,16,Clear,0,0,0,37.95,MEDIUM
+Chengalpattu,Chengalpattu Highway Road,Main Road,393,68,Clear,1,0,1,38.54,MEDIUM
+Chengalpattu,Chengalpattu NH Road,Bypass Road,119,31,Cloudy,0,0,1,32.07,LOW
+Chengalpattu,Chengalpattu Highway Road,NH Road,408,22,Clear,0,0,1,48.93,MEDIUM
+Chengalpattu,Chengalpattu Bypass Road,Town Road,956,46,Clear,0,0,0,53.31,MEDIUM

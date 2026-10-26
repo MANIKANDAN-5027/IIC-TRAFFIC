@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Tiruppur,Tiruppur Market Road,NH Road,392,62,Clear,0,0,0,21.07,LOW
+Tiruppur,Tiruppur Ring Road,Market Road,670,16,Rain,0,1,0,58.29,MEDIUM
+Tiruppur,Tiruppur Town Road,Bus Stand Road,959,69,Cloudy,0,0,1,53.58,MEDIUM
+Tiruppur,Tiruppur Highway Road,Highway Road,711,65,Clear,0,0,0,34.14,LOW
+Tiruppur,Tiruppur Market Road,Town Road,422,59,Clear,1,1,0,38.7,MEDIUM
+Tiruppur,Tiruppur Main Road,Highway Road,930,41,Clear,0,0,1,64.28,MEDIUM
+Tiruppur,Tiruppur Main Road,Bus Stand Road,403,43,Cloudy,0,1,1,44.71,MEDIUM
+Tiruppur,Tiruppur Main Road,NH Road,461,66,Rain,0,0,0,22.46,LOW
+Tiruppur,Tiruppur Market Road,NH Road,303,58,Normal,0,0,1,28.78,LOW
+Tiruppur,Tiruppur Main Road,Ring Road,608,66,Normal,0,0,1,39.07,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Bypass Road,685,18,Clear,0,0,0,53.11,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Main Road,314,30,Normal,0,0,1,41.27,MEDIUM
+Tiruppur,Tiruppur Ring Road,Highway Road,370,61,Clear,0,0,0,20.51,LOW
+Tiruppur,Tiruppur Town Road,Town Road,426,61,Rain,1,0,0,33.03,LOW
+Tiruppur,Tiruppur Ring Road,Town Road,967,60,Clear,1,0,1,67.8,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Highway Road,667,30,Normal,0,0,1,57.16,MEDIUM
+Tiruppur,Tiruppur Bus Stand Road,Market Road,660,15,Normal,0,1,0,58.27,MEDIUM
+Tiruppur,Tiruppur Main Road,NH Road,967,45,Cloudy,0,0,0,54.23,MEDIUM
+Tiruppur,Tiruppur Market Road,Market Road,267,16,Cloudy,0,1,1,50.16,MEDIUM
+Tiruppur,Tiruppur Bus Stand Road,Market Road,970,67,Normal,0,1,0,49.94,MEDIUM
+Tiruppur,Tiruppur Ring Road,Market Road,396,31,Cloudy,0,0,0,34.53,LOW
+Tiruppur,Tiruppur Bypass Road,Bus Stand Road,935,40,Normal,1,1,0,69.93,MEDIUM
+Tiruppur,Tiruppur Bus Stand Road,Main Road,584,30,Cloudy,0,0,0,43.42,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Main Road,344,58,Clear,0,0,0,20.62,LOW
+Tiruppur,Tiruppur Bypass Road,Bypass Road,533,54,Cloudy,0,0,0,30.84,LOW
+Tiruppur,Tiruppur Main Road,Highway Road,317,34,Rain,1,0,0,39.69,MEDIUM
+Tiruppur,Tiruppur Ring Road,Bus Stand Road,939,35,Normal,0,0,0,57.25,MEDIUM
+Tiruppur,Tiruppur Market Road,Market Road,158,43,Clear,0,1,0,23.68,LOW
+Tiruppur,Tiruppur Market Road,Bus Stand Road,130,15,Cloudy,1,0,0,39.42,MEDIUM
+Tiruppur,Tiruppur Highway Road,Highway Road,892,63,Normal,1,0,0,53.14,MEDIUM
+Tiruppur,Tiruppur Main Road,Town Road,578,28,Normal,0,0,1,54.01,MEDIUM
+Tiruppur,Tiruppur Main Road,Market Road,405,61,Rain,1,0,1,42.08,MEDIUM
+Tiruppur,Tiruppur Ring Road,Bus Stand Road,153,30,Rain,1,0,0,34.03,LOW
+Tiruppur,Tiruppur Highway Road,Bypass Road,238,55,Clear,0,0,0,17.14,LOW
+Tiruppur,Tiruppur Highway Road,Ring Road,235,46,Cloudy,0,0,1,30.86,LOW
+Tiruppur,Tiruppur Main Road,Town Road,538,44,Cloudy,1,0,0,45.35,MEDIUM
+Tiruppur,Tiruppur Market Road,Ring Road,114,68,Normal,0,0,1,15.99,LOW
+Tiruppur,Tiruppur Highway Road,Bypass Road,914,31,Rain,1,0,0,67.84,MEDIUM
+Tiruppur,Tiruppur Highway Road,Bypass Road,709,46,Clear,0,0,0,42.19,MEDIUM
+Tiruppur,Tiruppur Ring Road,Main Road,363,53,Rain,1,0,0,33.62,LOW
+Tiruppur,Tiruppur Town Road,Bypass Road,711,59,Cloudy,0,0,1,46.71,MEDIUM
+Tiruppur,Tiruppur NH Road,Bus Stand Road,230,23,Clear,0,0,1,40.49,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Ring Road,260,60,Cloudy,0,0,0,15.99,LOW
+Tiruppur,Tiruppur Highway Road,Town Road,357,16,Cloudy,0,0,0,39.21,MEDIUM
+Tiruppur,Tiruppur Bus Stand Road,Bus Stand Road,240,27,Rain,0,1,0,34.23,LOW
+Tiruppur,Tiruppur Bus Stand Road,Bus Stand Road,507,60,Cloudy,1,1,0,42.1,MEDIUM
+Tiruppur,Tiruppur Bypass Road,NH Road,561,48,Normal,1,0,0,44.67,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Ring Road,634,18,Normal,1,0,0,60.82,MEDIUM
+Tiruppur,Tiruppur Ring Road,Town Road,413,44,Normal,0,1,0,34.73,LOW
+Tiruppur,Tiruppur Main Road,Highway Road,738,32,Cloudy,1,0,0,59.5,MEDIUM
+Tiruppur,Tiruppur Bus Stand Road,Town Road,306,40,Clear,0,0,0,26.63,LOW
+Tiruppur,Tiruppur Town Road,Ring Road,493,40,Rain,0,0,0,35.04,MEDIUM
+Tiruppur,Tiruppur Ring Road,Highway Road,426,61,Normal,1,1,0,38.03,MEDIUM
+Tiruppur,Tiruppur NH Road,Bus Stand Road,430,35,Rain,0,1,0,39.35,MEDIUM
+Tiruppur,Tiruppur Main Road,Town Road,581,42,Normal,0,0,0,38.14,MEDIUM
+Tiruppur,Tiruppur Main Road,Ring Road,445,48,Clear,1,0,0,39.45,MEDIUM
+Tiruppur,Tiruppur NH Road,Bus Stand Road,524,39,Cloudy,0,0,0,36.87,MEDIUM
+Tiruppur,Tiruppur Highway Road,Bypass Road,362,70,Clear,0,0,0,16.29,LOW
+Tiruppur,Tiruppur Town Road,Main Road,247,66,Cloudy,0,0,1,22.83,LOW
+Tiruppur,Tiruppur Highway Road,Main Road,956,35,Cloudy,1,0,0,68.02,MEDIUM
+Tiruppur,Tiruppur Bus Stand Road,Market Road,518,27,Normal,0,0,0,41.74,MEDIUM
+Tiruppur,Tiruppur Market Road,Main Road,162,26,Rain,0,0,0,26.15,LOW
+Tiruppur,Tiruppur Town Road,NH Road,864,19,Normal,0,0,0,60.74,MEDIUM
+Tiruppur,Tiruppur Ring Road,Bus Stand Road,710,46,Rain,1,0,0,52.24,MEDIUM
+Tiruppur,Tiruppur Main Road,Bypass Road,212,28,Rain,0,1,0,32.54,LOW
+Tiruppur,Tiruppur Highway Road,Bypass Road,143,44,Clear,0,0,1,27.58,LOW
+Tiruppur,Tiruppur Main Road,Ring Road,686,35,Clear,1,0,0,55.87,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Bypass Road,243,57,Cloudy,1,0,0,26.51,LOW
+Tiruppur,Tiruppur Ring Road,Bus Stand Road,766,70,Rain,0,0,0,34.47,LOW
+Tiruppur,Tiruppur Bypass Road,Bus Stand Road,633,32,Clear,0,1,0,49.77,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Town Road,332,21,Normal,1,1,1,60.94,MEDIUM
+Tiruppur,Tiruppur NH Road,Town Road,471,54,Rain,0,0,0,28.05,LOW
+Tiruppur,Tiruppur Bus Stand Road,Ring Road,803,48,Normal,0,0,0,45.56,MEDIUM
+Tiruppur,Tiruppur Bus Stand Road,Market Road,813,47,Cloudy,0,0,1,56.44,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Bus Stand Road,272,42,Normal,0,0,1,34.24,LOW
+Tiruppur,Tiruppur NH Road,Highway Road,530,68,Cloudy,1,0,0,34.71,LOW
+Tiruppur,Tiruppur Market Road,NH Road,816,15,Rain,1,1,0,75.29,HIGH
+Tiruppur,Tiruppur Bypass Road,Bus Stand Road,194,66,Normal,0,1,0,15.44,LOW
+Tiruppur,Tiruppur Main Road,Town Road,943,38,Cloudy,0,0,1,66.15,MEDIUM
+Tiruppur,Tiruppur Highway Road,NH Road,341,23,Normal,1,0,0,45.49,MEDIUM
+Tiruppur,Tiruppur Market Road,Highway Road,739,47,Clear,0,0,0,43.11,MEDIUM
+Tiruppur,Tiruppur Highway Road,Main Road,136,60,Rain,1,0,0,20.41,LOW
+Tiruppur,Tiruppur NH Road,Highway Road,929,44,Normal,1,0,0,62.95,MEDIUM
+Tiruppur,Tiruppur Main Road,Highway Road,608,35,Cloudy,0,0,0,42.36,MEDIUM
+Tiruppur,Tiruppur Ring Road,Highway Road,573,47,Clear,0,0,0,35.64,MEDIUM
+Tiruppur,Tiruppur Bus Stand Road,Town Road,671,52,Cloudy,0,0,1,47.91,MEDIUM
+Tiruppur,Tiruppur Main Road,Bus Stand Road,617,31,Clear,1,1,0,59.48,MEDIUM
+Tiruppur,Tiruppur Market Road,Town Road,801,45,Clear,1,0,0,56.76,MEDIUM
+Tiruppur,Tiruppur NH Road,Bus Stand Road,284,22,Normal,0,0,0,33.35,LOW
+Tiruppur,Tiruppur Highway Road,Main Road,967,56,Normal,0,0,0,49.52,MEDIUM
+Tiruppur,Tiruppur Highway Road,Bus Stand Road,497,60,Cloudy,0,0,0,26.65,LOW
+Tiruppur,Tiruppur Market Road,Market Road,592,64,Rain,0,0,1,39.21,MEDIUM
+Tiruppur,Tiruppur Main Road,Market Road,823,47,Rain,1,0,1,66.89,MEDIUM
+Tiruppur,Tiruppur Town Road,Market Road,145,41,Cloudy,1,0,1,38.95,MEDIUM
+Tiruppur,Tiruppur Highway Road,Market Road,446,37,Clear,1,0,1,54.21,MEDIUM
+Tiruppur,Tiruppur Ring Road,Ring Road,884,25,Clear,0,0,0,59.07,MEDIUM
+Tiruppur,Tiruppur Ring Road,Bus Stand Road,797,69,Clear,0,1,0,41.29,MEDIUM
+Tiruppur,Tiruppur Bypass Road,Main Road,637,45,Rain,0,0,0,39.38,MEDIUM
+Tiruppur,Tiruppur Bypass Road,NH Road,476,47,Rain,0,0,0,31.28,LOW
+Tiruppur,Tiruppur Ring Road,Main Road,594,18,Cloudy,0,0,0,49.02,MEDIUM

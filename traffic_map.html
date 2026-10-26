@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a00915707bf95627440f7d8c7e40c865 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_a00915707bf95627440f7d8c7e40c865" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_a00915707bf95627440f7d8c7e40c865 = L.map(
+                "map_a00915707bf95627440f7d8c7e40c865",
+                {
+                    center: [11.9401, 79.4861],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_9e880310ffe46c16fa254e129e65038d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_9e880310ffe46c16fa254e129e65038d.addTo(map_a00915707bf95627440f7d8c7e40c865);
+        
+    
+            var marker_b7d60ee848b0ae24cb8881c2696154f8 = L.marker(
+                [11.9451, 79.49109999999999],
+                {
+}
+            ).addTo(map_a00915707bf95627440f7d8c7e40c865);
+        
+    
+            var icon_96570941f5fab63124294c7b37c223b1 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2f7e7c2e821ab27b1ec5ce9859cf3c4c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_da17a947e2d250c54f67f7f3cc6c748c = $(`<div id="html_da17a947e2d250c54f67f7f3cc6c748c" style="width: 100.0%; height: 100.0%;">     <b>Traffic Point 1</b><br>     Vehicles: 7<br>     Average Speed: 12.5 m/s<br>     Status: HIGH TRAFFIC     </div>`)[0];
+                popup_2f7e7c2e821ab27b1ec5ce9859cf3c4c.setContent(html_da17a947e2d250c54f67f7f3cc6c748c);
+            
+        
+
+        marker_b7d60ee848b0ae24cb8881c2696154f8.bindPopup(popup_2f7e7c2e821ab27b1ec5ce9859cf3c4c)
+        ;
+
+        
+    
+    
+            marker_b7d60ee848b0ae24cb8881c2696154f8.bindTooltip(
+                `<div>
+                     HIGH TRAFFIC
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_b7d60ee848b0ae24cb8881c2696154f8.setIcon(icon_96570941f5fab63124294c7b37c223b1);
+            
+    
+            var marker_d50cac8b980ee470698c01b574268044 = L.marker(
+                [11.9361, 79.49409999999999],
+                {
+}
+            ).addTo(map_a00915707bf95627440f7d8c7e40c865);
+        
+    
+            var icon_41e12bd9b6467af2588c785b738d16fb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_73bf19bfcb6822abcf6c8555cda8a478 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2a1f2d9e5d14d1fd412c45773fad8767 = $(`<div id="html_2a1f2d9e5d14d1fd412c45773fad8767" style="width: 100.0%; height: 100.0%;">     <b>Traffic Point 2</b><br>     Vehicles: 5<br>     Average Speed: 10.2 m/s<br>     Status: MEDIUM TRAFFIC     </div>`)[0];
+                popup_73bf19bfcb6822abcf6c8555cda8a478.setContent(html_2a1f2d9e5d14d1fd412c45773fad8767);
+            
+        
+
+        marker_d50cac8b980ee470698c01b574268044.bindPopup(popup_73bf19bfcb6822abcf6c8555cda8a478)
+        ;
+
+        
+    
+    
+            marker_d50cac8b980ee470698c01b574268044.bindTooltip(
+                `<div>
+                     MEDIUM TRAFFIC
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_d50cac8b980ee470698c01b574268044.setIcon(icon_41e12bd9b6467af2588c785b738d16fb);
+            
+    
+            var marker_88da133ec2ad35bc6159150de47bc297 = L.marker(
+                [11.948099999999998, 79.4811],
+                {
+}
+            ).addTo(map_a00915707bf95627440f7d8c7e40c865);
+        
+    
+            var icon_601f43754b325cd67ef1af885f2c736b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "car",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_99227860f7e6936638b562d0f9fbf0a7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_4a453c3e468f996739297ed7d0917d3d = $(`<div id="html_4a453c3e468f996739297ed7d0917d3d" style="width: 100.0%; height: 100.0%;">     <b>Traffic Point 3</b><br>     Vehicles: 3<br>     Average Speed: 14.8 m/s<br>     Status: LOW TRAFFIC     </div>`)[0];
+                popup_99227860f7e6936638b562d0f9fbf0a7.setContent(html_4a453c3e468f996739297ed7d0917d3d);
+            
+        
+
+        marker_88da133ec2ad35bc6159150de47bc297.bindPopup(popup_99227860f7e6936638b562d0f9fbf0a7)
+        ;
+
+        
+    
+    
+            marker_88da133ec2ad35bc6159150de47bc297.bindTooltip(
+                `<div>
+                     LOW TRAFFIC
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_88da133ec2ad35bc6159150de47bc297.setIcon(icon_601f43754b325cd67ef1af885f2c736b);
+            
+</script>
+</html>

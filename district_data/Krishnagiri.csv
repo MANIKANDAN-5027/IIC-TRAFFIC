@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Krishnagiri,Krishnagiri Market Road,Main Road,169,36,Cloudy,0,1,1,37.18,MEDIUM
+Krishnagiri,Krishnagiri Town Road,Market Road,121,54,Clear,0,0,0,12.3,LOW
+Krishnagiri,Krishnagiri Market Road,Bus Stand Road,161,23,Normal,0,1,0,32.39,LOW
+Krishnagiri,Krishnagiri Ring Road,Bus Stand Road,309,56,Rain,0,0,1,29.91,LOW
+Krishnagiri,Krishnagiri Main Road,Market Road,425,56,Rain,0,1,0,30.12,LOW
+Krishnagiri,Krishnagiri Market Road,Town Road,450,30,Rain,0,0,0,37.39,MEDIUM
+Krishnagiri,Krishnagiri NH Road,Market Road,287,43,Clear,0,0,1,34.49,LOW
+Krishnagiri,Krishnagiri Bus Stand Road,Market Road,749,24,Cloudy,0,0,0,53.42,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Market Road,619,20,Cloudy,1,1,0,64.28,MEDIUM
+Krishnagiri,Krishnagiri Highway Road,Market Road,534,26,Rain,0,0,0,42.89,MEDIUM
+Krishnagiri,Krishnagiri Town Road,Town Road,983,65,Cloudy,1,0,0,56.38,MEDIUM
+Krishnagiri,Krishnagiri Highway Road,Main Road,582,43,Normal,1,1,0,52.76,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Bypass Road,537,69,Normal,0,0,0,24.59,LOW
+Krishnagiri,Krishnagiri Highway Road,NH Road,574,34,Rain,1,0,1,61.26,MEDIUM
+Krishnagiri,Krishnagiri Market Road,Main Road,239,60,Clear,1,0,0,25.04,LOW
+Krishnagiri,Krishnagiri Town Road,Town Road,982,47,Rain,0,1,1,69.05,MEDIUM
+Krishnagiri,Krishnagiri Main Road,NH Road,493,46,Normal,0,0,1,42.47,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,Highway Road,679,25,Rain,0,1,0,54.84,MEDIUM
+Krishnagiri,Krishnagiri Market Road,Highway Road,813,18,Clear,1,1,0,73.87,HIGH
+Krishnagiri,Krishnagiri Highway Road,Bus Stand Road,932,38,Rain,0,0,0,55.65,MEDIUM
+Krishnagiri,Krishnagiri NH Road,Town Road,353,53,Normal,0,0,0,23.17,LOW
+Krishnagiri,Krishnagiri Bus Stand Road,Town Road,823,52,Rain,0,0,1,54.75,MEDIUM
+Krishnagiri,Krishnagiri NH Road,NH Road,808,34,Rain,1,0,1,71.79,HIGH
+Krishnagiri,Krishnagiri Bypass Road,Main Road,933,24,Cloudy,0,0,1,71.7,HIGH
+Krishnagiri,Krishnagiri Town Road,Town Road,935,46,Rain,0,0,0,52.36,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Bus Stand Road,850,42,Cloudy,0,0,0,50.25,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Market Road,598,26,Clear,0,1,0,50.77,MEDIUM
+Krishnagiri,Krishnagiri Highway Road,NH Road,867,26,Cloudy,0,0,1,67.87,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,NH Road,181,33,Rain,0,1,0,29.0,LOW
+Krishnagiri,Krishnagiri NH Road,Main Road,130,52,Clear,0,1,1,28.56,LOW
+Krishnagiri,Krishnagiri Market Road,Main Road,372,63,Normal,0,0,0,19.74,LOW
+Krishnagiri,Krishnagiri Ring Road,Town Road,717,48,Rain,0,1,1,56.69,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,Town Road,479,58,Normal,0,0,0,26.7,LOW
+Krishnagiri,Krishnagiri Main Road,Highway Road,725,18,Normal,0,0,0,54.91,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,Market Road,842,68,Rain,0,0,0,38.75,MEDIUM
+Krishnagiri,Krishnagiri Main Road,Ring Road,562,54,Clear,1,1,0,47.15,MEDIUM
+Krishnagiri,Krishnagiri Market Road,Highway Road,748,38,Normal,0,0,1,57.37,MEDIUM
+Krishnagiri,Krishnagiri Highway Road,NH Road,856,54,Normal,0,0,1,55.38,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Highway Road,400,53,Clear,0,0,0,25.29,LOW
+Krishnagiri,Krishnagiri NH Road,Highway Road,408,68,Cloudy,1,0,1,39.22,MEDIUM
+Krishnagiri,Krishnagiri Town Road,Main Road,349,28,Cloudy,0,0,0,33.7,LOW
+Krishnagiri,Krishnagiri Highway Road,NH Road,434,39,Cloudy,0,0,0,32.82,LOW
+Krishnagiri,Krishnagiri Market Road,NH Road,647,55,Rain,1,0,0,45.54,MEDIUM
+Krishnagiri,Krishnagiri Market Road,Bypass Road,486,60,Clear,1,1,0,41.16,MEDIUM
+Krishnagiri,Krishnagiri Market Road,NH Road,397,20,Rain,0,0,0,39.29,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,Main Road,230,69,Cloudy,0,1,0,15.78,LOW
+Krishnagiri,Krishnagiri Bus Stand Road,Market Road,967,39,Clear,1,0,0,66.8,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,Market Road,504,15,Normal,1,0,0,56.25,MEDIUM
+Krishnagiri,Krishnagiri Main Road,Ring Road,796,44,Rain,0,0,0,46.96,MEDIUM
+Krishnagiri,Krishnagiri Market Road,Highway Road,614,59,Rain,0,0,1,42.34,MEDIUM
+Krishnagiri,Krishnagiri Market Road,Market Road,821,39,Clear,0,0,0,50.23,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,Bus Stand Road,986,64,Clear,0,1,1,61.94,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,Town Road,661,40,Normal,0,1,1,57.6,MEDIUM
+Krishnagiri,Krishnagiri Town Road,NH Road,173,48,Cloudy,0,0,0,17.21,LOW
+Krishnagiri,Krishnagiri Bus Stand Road,Bus Stand Road,431,63,Normal,0,0,1,32.39,LOW
+Krishnagiri,Krishnagiri Market Road,Market Road,812,45,Clear,0,0,0,47.25,MEDIUM
+Krishnagiri,Krishnagiri Town Road,Bus Stand Road,470,61,Clear,0,0,1,35.01,MEDIUM
+Krishnagiri,Krishnagiri NH Road,Ring Road,198,37,Normal,1,0,0,33.05,LOW
+Krishnagiri,Krishnagiri NH Road,Market Road,252,55,Normal,1,0,0,27.77,LOW
+Krishnagiri,Krishnagiri Highway Road,Town Road,600,34,Rain,0,1,0,47.43,MEDIUM
+Krishnagiri,Krishnagiri NH Road,NH Road,747,56,Clear,1,0,0,49.62,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,NH Road,224,46,Cloudy,0,0,1,30.37,LOW
+Krishnagiri,Krishnagiri NH Road,Ring Road,493,45,Clear,1,0,0,42.9,MEDIUM
+Krishnagiri,Krishnagiri Town Road,Highway Road,830,70,Clear,0,1,0,42.35,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Bus Stand Road,631,68,Clear,0,0,0,29.25,LOW
+Krishnagiri,Krishnagiri Bus Stand Road,Market Road,668,43,Cloudy,0,0,0,41.63,MEDIUM
+Krishnagiri,Krishnagiri NH Road,Bypass Road,189,50,Rain,0,0,0,17.08,LOW
+Krishnagiri,Krishnagiri Bypass Road,Main Road,657,25,Rain,1,0,0,58.85,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,Ring Road,774,49,Cloudy,1,0,1,63.83,MEDIUM
+Krishnagiri,Krishnagiri Market Road,Bus Stand Road,804,21,Rain,0,0,0,57.18,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,Bypass Road,976,68,Cloudy,0,0,0,44.78,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,Town Road,846,54,Cloudy,1,0,0,54.93,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Market Road,509,44,Clear,0,0,1,44.05,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Town Road,744,61,Cloudy,0,0,0,37.34,MEDIUM
+Krishnagiri,Krishnagiri Market Road,NH Road,423,65,Rain,1,1,0,36.18,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,NH Road,227,49,Rain,0,1,0,24.21,LOW
+Krishnagiri,Krishnagiri Bypass Road,Main Road,441,64,Clear,0,0,0,22.42,LOW
+Krishnagiri,Krishnagiri Bus Stand Road,Bypass Road,486,29,Normal,1,0,0,49.44,MEDIUM
+Krishnagiri,Krishnagiri NH Road,Main Road,197,48,Cloudy,0,0,0,18.29,LOW
+Krishnagiri,Krishnagiri Town Road,Highway Road,425,63,Cloudy,1,0,0,32.12,LOW
+Krishnagiri,Krishnagiri Town Road,Bypass Road,365,15,Clear,0,0,0,40.0,MEDIUM
+Krishnagiri,Krishnagiri Highway Road,Bus Stand Road,842,55,Normal,0,0,1,54.32,MEDIUM
+Krishnagiri,Krishnagiri Town Road,Market Road,462,66,Rain,1,0,0,32.5,LOW
+Krishnagiri,Krishnagiri Ring Road,NH Road,750,69,Clear,0,0,1,44.18,MEDIUM
+Krishnagiri,Krishnagiri Main Road,NH Road,178,61,Rain,0,0,0,11.87,LOW
+Krishnagiri,Krishnagiri Highway Road,Highway Road,667,46,Clear,0,1,0,45.3,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,Market Road,515,15,Clear,0,0,1,56.75,MEDIUM
+Krishnagiri,Krishnagiri NH Road,Ring Road,721,43,Cloudy,0,0,0,44.02,MEDIUM
+Krishnagiri,Krishnagiri Town Road,Bus Stand Road,626,37,Rain,0,1,1,57.31,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,Highway Road,215,36,Rain,0,0,0,24.25,LOW
+Krishnagiri,Krishnagiri Bypass Road,Main Road,371,28,Normal,0,1,0,39.7,MEDIUM
+Krishnagiri,Krishnagiri Main Road,Highway Road,732,69,Rain,1,0,0,43.37,MEDIUM
+Krishnagiri,Krishnagiri Bus Stand Road,Town Road,405,37,Rain,0,0,0,32.37,LOW
+Krishnagiri,Krishnagiri NH Road,Bus Stand Road,109,21,Normal,1,1,0,40.91,MEDIUM
+Krishnagiri,Krishnagiri Market Road,Highway Road,226,46,Normal,0,0,0,20.46,LOW
+Krishnagiri,Krishnagiri Bypass Road,NH Road,483,34,Normal,0,1,0,42.16,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,Town Road,772,68,Clear,1,0,0,45.6,MEDIUM
+Krishnagiri,Krishnagiri Bypass Road,Main Road,467,70,Cloudy,0,0,0,21.02,LOW
+Krishnagiri,Krishnagiri Market Road,Highway Road,504,41,Rain,0,0,0,35.11,MEDIUM
+Krishnagiri,Krishnagiri Ring Road,Town Road,221,41,Normal,1,1,0,37.37,MEDIUM

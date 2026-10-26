@@ -1,0 +1,2 @@
+location,current_time,future_time,current_vehicle_count,predicted_vehicle_count,predicted_traffic,confidence
+GST Road,22:44,23:14,244,183,Low,100.0

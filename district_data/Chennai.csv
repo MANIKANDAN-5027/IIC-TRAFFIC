@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Chennai,Chennai NH Road,Ring Road,729,37,Clear,0,1,0,51.95,MEDIUM
+Chennai,Chennai Main Road,Town Road,638,49,Rain,0,1,1,52.71,MEDIUM
+Chennai,Chennai Ring Road,Market Road,359,62,Clear,0,0,0,19.58,LOW
+Chennai,Chennai Ring Road,Ring Road,890,52,Cloudy,0,0,0,47.76,MEDIUM
+Chennai,Chennai Bus Stand Road,NH Road,950,64,Normal,1,1,0,60.32,MEDIUM
+Chennai,Chennai Main Road,Ring Road,137,33,Rain,0,0,0,22.02,LOW
+Chennai,Chennai Market Road,Bypass Road,627,40,Rain,1,0,0,51.07,MEDIUM
+Chennai,Chennai NH Road,Ring Road,982,64,Normal,0,0,0,46.76,MEDIUM
+Chennai,Chennai Bus Stand Road,Highway Road,509,62,Normal,1,1,0,41.33,MEDIUM
+Chennai,Chennai NH Road,Town Road,476,66,Cloudy,0,0,1,33.13,LOW
+Chennai,Chennai Ring Road,Bypass Road,658,33,Rain,0,0,0,45.47,MEDIUM
+Chennai,Chennai Ring Road,Highway Road,556,53,Clear,1,0,1,52.31,MEDIUM
+Chennai,Chennai Main Road,NH Road,844,70,Normal,0,1,0,42.98,MEDIUM
+Chennai,Chennai Highway Road,Main Road,472,47,Cloudy,0,0,0,31.1,LOW
+Chennai,Chennai Main Road,Bus Stand Road,168,30,Normal,0,0,1,34.7,LOW
+Chennai,Chennai Ring Road,Town Road,479,38,Rain,1,0,0,45.27,MEDIUM
+Chennai,Chennai Bus Stand Road,Highway Road,765,32,Normal,0,0,0,50.71,MEDIUM
+Chennai,Chennai Market Road,Bypass Road,675,22,Normal,0,0,1,60.95,MEDIUM
+Chennai,Chennai Bus Stand Road,Highway Road,304,22,Clear,0,0,1,44.25,MEDIUM
+Chennai,Chennai Bypass Road,Bypass Road,929,58,Cloudy,0,0,0,46.95,MEDIUM
+Chennai,Chennai NH Road,Market Road,828,60,Cloudy,0,0,0,41.55,MEDIUM
+Chennai,Chennai Ring Road,Highway Road,342,65,Cloudy,1,0,0,27.53,LOW
+Chennai,Chennai Highway Road,Town Road,726,20,Normal,0,0,1,64.1,MEDIUM
+Chennai,Chennai NH Road,Highway Road,943,51,Normal,0,0,0,50.58,MEDIUM
+Chennai,Chennai Bus Stand Road,Town Road,796,48,Clear,0,0,0,45.25,MEDIUM
+Chennai,Chennai Bus Stand Road,Ring Road,951,22,Cloudy,0,0,0,63.37,MEDIUM
+Chennai,Chennai Market Road,Bypass Road,454,48,Cloudy,0,0,0,29.86,LOW
+Chennai,Chennai Bus Stand Road,Ring Road,740,34,Clear,0,0,0,48.73,MEDIUM
+Chennai,Chennai Bypass Road,Market Road,945,70,Normal,0,0,0,42.52,MEDIUM
+Chennai,Chennai Bypass Road,Highway Road,732,55,Cloudy,0,1,0,44.37,MEDIUM
+Chennai,Chennai NH Road,Main Road,924,66,Cloudy,1,0,1,63.29,MEDIUM
+Chennai,Chennai Ring Road,Bus Stand Road,550,41,Rain,1,1,0,52.18,MEDIUM
+Chennai,Chennai Bus Stand Road,Ring Road,982,60,Clear,0,0,1,58.48,MEDIUM
+Chennai,Chennai Highway Road,Market Road,426,30,Cloudy,1,0,0,46.31,MEDIUM
+Chennai,Chennai Market Road,Bus Stand Road,199,18,Rain,0,1,1,46.24,MEDIUM
+Chennai,Chennai Highway Road,Highway Road,691,61,Normal,0,0,0,34.95,LOW
+Chennai,Chennai Town Road,Highway Road,1000,34,Cloudy,1,0,0,70.43,HIGH
+Chennai,Chennai Bypass Road,Highway Road,320,52,Normal,0,0,0,22.11,LOW
+Chennai,Chennai Bus Stand Road,Bypass Road,392,49,Rain,0,0,1,36.64,MEDIUM
+Chennai,Chennai Main Road,Market Road,882,40,Rain,0,0,1,62.55,MEDIUM
+Chennai,Chennai Bypass Road,NH Road,666,33,Cloudy,0,1,1,60.83,MEDIUM
+Chennai,Chennai Bus Stand Road,Market Road,199,40,Normal,0,0,0,21.81,LOW
+Chennai,Chennai Ring Road,Highway Road,612,17,Normal,0,0,0,50.25,MEDIUM
+Chennai,Chennai Bus Stand Road,Town Road,252,53,Rain,0,0,0,18.63,LOW
+Chennai,Chennai Main Road,Ring Road,707,36,Rain,1,0,1,66.39,MEDIUM
+Chennai,Chennai Highway Road,Bypass Road,789,22,Cloudy,1,0,0,66.08,MEDIUM
+Chennai,Chennai Bus Stand Road,Market Road,838,18,Clear,1,0,1,80.0,HIGH
+Chennai,Chennai Highway Road,Ring Road,686,59,Normal,0,0,0,35.58,MEDIUM
+Chennai,Chennai Main Road,Bus Stand Road,255,41,Cloudy,0,1,1,38.9,MEDIUM
+Chennai,Chennai Bus Stand Road,Highway Road,674,35,Rain,1,1,0,60.33,MEDIUM
+Chennai,Chennai Market Road,Bypass Road,659,37,Rain,0,1,0,48.8,MEDIUM
+Chennai,Chennai Ring Road,Highway Road,330,34,Rain,0,0,1,40.28,MEDIUM
+Chennai,Chennai Town Road,Town Road,673,65,Rain,0,0,0,32.43,LOW
+Chennai,Chennai Bypass Road,NH Road,891,66,Rain,0,0,0,41.81,MEDIUM
+Chennai,Chennai Market Road,Bypass Road,552,56,Rain,0,1,0,35.84,MEDIUM
+Chennai,Chennai Market Road,Market Road,240,21,Clear,0,0,0,31.8,LOW
+Chennai,Chennai Bus Stand Road,Main Road,202,41,Cloudy,0,1,0,26.52,LOW
+Chennai,Chennai Bypass Road,Ring Road,516,56,Rain,1,1,0,44.22,MEDIUM
+Chennai,Chennai Bus Stand Road,Town Road,761,18,Cloudy,0,0,0,56.53,MEDIUM
+Chennai,Chennai Bypass Road,Main Road,137,68,Clear,1,1,0,22.02,LOW
+Chennai,Chennai Highway Road,Highway Road,405,51,Cloudy,0,0,0,26.37,LOW
+Chennai,Chennai NH Road,Ring Road,971,47,Cloudy,1,0,0,63.55,MEDIUM
+Chennai,Chennai Ring Road,Bypass Road,848,44,Cloudy,0,0,0,49.3,MEDIUM
+Chennai,Chennai NH Road,Town Road,279,54,Clear,1,1,0,34.41,LOW
+Chennai,Chennai Main Road,Bypass Road,289,23,Normal,1,0,0,43.15,MEDIUM
+Chennai,Chennai Main Road,Bypass Road,341,43,Rain,0,0,0,26.92,LOW
+Chennai,Chennai Bypass Road,Bus Stand Road,809,30,Normal,0,0,1,63.55,MEDIUM
+Chennai,Chennai Ring Road,Market Road,802,47,Cloudy,0,0,0,45.95,MEDIUM
+Chennai,Chennai Town Road,Highway Road,236,45,Cloudy,0,1,0,26.33,LOW
+Chennai,Chennai NH Road,NH Road,880,30,Clear,0,1,0,61.74,MEDIUM
+Chennai,Chennai Ring Road,Highway Road,948,50,Clear,0,0,0,51.23,MEDIUM
+Chennai,Chennai Main Road,Highway Road,796,28,Cloudy,1,0,1,73.82,HIGH
+Chennai,Chennai Bypass Road,Main Road,625,41,Normal,1,0,1,60.55,MEDIUM
+Chennai,Chennai Main Road,Town Road,360,67,Rain,0,0,0,17.49,LOW
+Chennai,Chennai Main Road,Bypass Road,817,19,Normal,0,0,1,68.62,MEDIUM
+Chennai,Chennai Town Road,Highway Road,284,64,Normal,0,1,0,20.35,LOW
+Chennai,Chennai Bus Stand Road,Town Road,484,20,Cloudy,0,0,0,43.21,MEDIUM
+Chennai,Chennai Highway Road,Town Road,845,29,Normal,0,0,0,55.6,MEDIUM
+Chennai,Chennai Bus Stand Road,Bypass Road,943,29,Cloudy,0,1,0,65.01,MEDIUM
+Chennai,Chennai Main Road,Market Road,996,61,Cloudy,0,0,1,58.68,MEDIUM
+Chennai,Chennai Market Road,Main Road,168,21,Normal,0,1,0,33.56,LOW
+Chennai,Chennai Bypass Road,Market Road,549,29,Rain,0,0,0,42.28,MEDIUM
+Chennai,Chennai Bus Stand Road,Market Road,691,53,Normal,0,0,0,38.38,MEDIUM
+Chennai,Chennai Highway Road,Main Road,407,32,Rain,0,0,1,44.6,MEDIUM
+Chennai,Chennai Town Road,Bus Stand Road,758,57,Rain,1,0,1,59.68,MEDIUM
+Chennai,Chennai Bypass Road,Bus Stand Road,485,26,Normal,1,0,0,50.68,MEDIUM
+Chennai,Chennai Town Road,Market Road,159,50,Rain,1,1,0,30.73,LOW
+Chennai,Chennai NH Road,Market Road,308,36,Clear,0,1,0,33.43,LOW
+Chennai,Chennai Market Road,Highway Road,374,39,Cloudy,0,0,0,30.12,LOW
+Chennai,Chennai Market Road,NH Road,990,36,Normal,0,0,0,59.12,MEDIUM
+Chennai,Chennai Ring Road,Bypass Road,348,59,Normal,0,1,0,25.37,LOW
+Chennai,Chennai Ring Road,Highway Road,577,49,Normal,0,0,0,34.96,LOW
+Chennai,Chennai Ring Road,Ring Road,200,66,Normal,1,0,0,20.71,LOW
+Chennai,Chennai Bypass Road,Town Road,146,51,Rain,0,0,0,14.71,LOW
+Chennai,Chennai Market Road,Highway Road,256,27,Rain,0,0,1,39.95,MEDIUM
+Chennai,Chennai Bus Stand Road,Ring Road,363,63,Cloudy,1,1,1,44.34,MEDIUM
+Chennai,Chennai Main Road,NH Road,243,61,Clear,1,0,0,24.79,LOW
+Chennai,Chennai NH Road,Bus Stand Road,882,15,Clear,1,0,0,73.26,HIGH
+Chennai,Chennai Highway Road,Highway Road,323,47,Clear,1,0,0,34.39,LOW
+Chennai,Chennai Bypass Road,Bypass Road,106,49,Clear,1,0,0,23.77,LOW

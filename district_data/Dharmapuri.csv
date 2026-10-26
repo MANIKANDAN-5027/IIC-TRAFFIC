@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Dharmapuri,Dharmapuri Bus Stand Road,Town Road,818,21,Clear,0,0,1,67.81,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Market Road,360,54,Normal,0,0,0,23.06,LOW
+Dharmapuri,Dharmapuri Town Road,Main Road,944,65,Clear,0,0,0,44.62,MEDIUM
+Dharmapuri,Dharmapuri Main Road,Main Road,890,43,Normal,1,0,1,71.62,HIGH
+Dharmapuri,Dharmapuri Bus Stand Road,NH Road,958,52,Normal,1,0,0,60.82,MEDIUM
+Dharmapuri,Dharmapuri Market Road,Bypass Road,773,53,Normal,0,1,1,57.07,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Bypass Road,451,33,Rain,1,0,0,46.15,MEDIUM
+Dharmapuri,Dharmapuri Bypass Road,Ring Road,828,62,Cloudy,0,0,0,40.69,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Highway Road,827,56,Normal,0,0,0,43.21,MEDIUM
+Dharmapuri,Dharmapuri NH Road,Main Road,790,62,Normal,0,1,0,43.98,MEDIUM
+Dharmapuri,Dharmapuri Bus Stand Road,Bypass Road,248,18,Rain,0,0,0,33.45,LOW
+Dharmapuri,Dharmapuri Main Road,Ring Road,249,68,Normal,0,0,0,12.06,LOW
+Dharmapuri,Dharmapuri Bypass Road,Main Road,204,54,Normal,0,1,0,21.04,LOW
+Dharmapuri,Dharmapuri Bypass Road,Market Road,496,41,Normal,0,0,0,34.75,LOW
+Dharmapuri,Dharmapuri Bypass Road,Highway Road,949,29,Cloudy,0,0,0,60.28,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Main Road,799,19,Normal,0,0,0,57.81,MEDIUM
+Dharmapuri,Dharmapuri Bypass Road,Main Road,385,50,Rain,0,0,0,25.9,LOW
+Dharmapuri,Dharmapuri Ring Road,Main Road,577,60,Rain,0,0,0,30.25,LOW
+Dharmapuri,Dharmapuri Market Road,Bus Stand Road,602,65,Clear,0,0,0,29.23,LOW
+Dharmapuri,Dharmapuri NH Road,Ring Road,905,47,Cloudy,0,1,1,65.58,MEDIUM
+Dharmapuri,Dharmapuri Bypass Road,Market Road,318,57,Normal,0,0,0,19.88,LOW
+Dharmapuri,Dharmapuri Highway Road,Market Road,674,67,Cloudy,0,0,0,31.62,LOW
+Dharmapuri,Dharmapuri Town Road,Bypass Road,140,58,Rain,0,1,0,16.44,LOW
+Dharmapuri,Dharmapuri Main Road,Bypass Road,125,48,Cloudy,0,1,1,30.05,LOW
+Dharmapuri,Dharmapuri Main Road,NH Road,428,47,Cloudy,0,0,0,29.12,LOW
+Dharmapuri,Dharmapuri Market Road,Town Road,786,55,Clear,0,1,0,46.8,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Main Road,864,58,Clear,0,0,1,54.02,MEDIUM
+Dharmapuri,Dharmapuri Market Road,Bypass Road,175,18,Normal,0,0,0,30.16,LOW
+Dharmapuri,Dharmapuri Main Road,Town Road,497,43,Clear,1,1,0,48.94,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,NH Road,647,15,Rain,0,0,0,52.69,MEDIUM
+Dharmapuri,Dharmapuri Highway Road,Town Road,905,58,Normal,0,0,0,45.87,MEDIUM
+Dharmapuri,Dharmapuri Market Road,Bus Stand Road,941,57,Normal,0,1,0,52.92,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Main Road,915,66,Cloudy,0,0,0,42.89,MEDIUM
+Dharmapuri,Dharmapuri Bypass Road,Market Road,226,17,Rain,0,1,0,37.88,MEDIUM
+Dharmapuri,Dharmapuri Market Road,Bypass Road,316,41,Cloudy,0,0,0,26.65,LOW
+Dharmapuri,Dharmapuri Bypass Road,NH Road,217,26,Rain,0,1,0,33.62,LOW
+Dharmapuri,Dharmapuri Bus Stand Road,Market Road,200,27,Clear,1,0,0,37.43,MEDIUM
+Dharmapuri,Dharmapuri Highway Road,Highway Road,391,54,Rain,0,0,0,24.45,LOW
+Dharmapuri,Dharmapuri Ring Road,Town Road,731,57,Cloudy,0,0,0,38.47,MEDIUM
+Dharmapuri,Dharmapuri Bypass Road,Ring Road,104,35,Cloudy,0,0,1,29.68,LOW
+Dharmapuri,Dharmapuri Highway Road,Ring Road,795,61,Rain,0,1,1,54.63,MEDIUM
+Dharmapuri,Dharmapuri Bypass Road,Bus Stand Road,598,50,Cloudy,0,0,0,35.48,MEDIUM
+Dharmapuri,Dharmapuri Main Road,Town Road,369,61,Cloudy,0,0,0,20.46,LOW
+Dharmapuri,Dharmapuri Ring Road,Town Road,137,50,Cloudy,0,1,0,19.74,LOW
+Dharmapuri,Dharmapuri NH Road,Town Road,890,52,Rain,0,0,1,57.76,MEDIUM
+Dharmapuri,Dharmapuri Highway Road,Bus Stand Road,614,15,Cloudy,0,0,0,51.2,MEDIUM
+Dharmapuri,Dharmapuri Main Road,Market Road,679,51,Normal,0,1,0,43.7,MEDIUM
+Dharmapuri,Dharmapuri Main Road,Market Road,337,19,Rain,0,0,0,37.02,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,NH Road,497,45,Rain,1,0,0,43.08,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Ring Road,954,62,Clear,0,0,1,56.36,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Ring Road,629,31,Normal,1,0,1,65.02,MEDIUM
+Dharmapuri,Dharmapuri Bus Stand Road,Market Road,911,45,Clear,0,0,1,61.71,MEDIUM
+Dharmapuri,Dharmapuri Bus Stand Road,Bus Stand Road,626,56,Rain,0,0,0,34.17,LOW
+Dharmapuri,Dharmapuri Ring Road,NH Road,716,60,Normal,0,0,1,46.51,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Main Road,791,45,Cloudy,1,0,0,56.31,MEDIUM
+Dharmapuri,Dharmapuri Bus Stand Road,Main Road,144,23,Cloudy,0,0,0,26.62,LOW
+Dharmapuri,Dharmapuri NH Road,Market Road,364,26,Normal,1,0,0,45.24,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Bus Stand Road,721,45,Cloudy,1,0,0,53.16,MEDIUM
+Dharmapuri,Dharmapuri Highway Road,NH Road,738,57,Cloudy,0,0,0,38.78,MEDIUM
+Dharmapuri,Dharmapuri Market Road,Town Road,487,39,Cloudy,0,0,0,35.2,MEDIUM
+Dharmapuri,Dharmapuri NH Road,NH Road,720,21,Normal,0,1,0,58.4,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Main Road,775,23,Normal,0,1,1,70.02,HIGH
+Dharmapuri,Dharmapuri NH Road,Town Road,334,66,Cloudy,1,1,0,31.74,LOW
+Dharmapuri,Dharmapuri Town Road,Bypass Road,360,45,Cloudy,0,0,0,26.91,LOW
+Dharmapuri,Dharmapuri Town Road,Market Road,105,60,Rain,0,0,0,9.01,LOW
+Dharmapuri,Dharmapuri Bypass Road,Bypass Road,518,38,Normal,0,0,1,47.02,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Highway Road,678,38,Cloudy,0,1,0,49.22,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Town Road,479,50,Cloudy,1,0,0,40.13,MEDIUM
+Dharmapuri,Dharmapuri Bus Stand Road,NH Road,975,70,Cloudy,0,0,1,53.88,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Main Road,620,40,Clear,0,0,0,40.76,MEDIUM
+Dharmapuri,Dharmapuri NH Road,Bypass Road,943,24,Cloudy,1,1,0,77.15,HIGH
+Dharmapuri,Dharmapuri Bypass Road,Main Road,479,20,Cloudy,0,1,1,57.98,MEDIUM
+Dharmapuri,Dharmapuri Bypass Road,Market Road,755,46,Clear,1,0,0,54.26,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Market Road,902,53,Clear,0,0,0,47.88,MEDIUM
+Dharmapuri,Dharmapuri Town Road,Town Road,261,20,Cloudy,0,1,0,38.17,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Ring Road,630,15,Rain,0,0,0,51.92,MEDIUM
+Dharmapuri,Dharmapuri Main Road,Bypass Road,331,53,Cloudy,0,1,1,37.18,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,NH Road,516,47,Rain,0,0,0,33.08,LOW
+Dharmapuri,Dharmapuri Highway Road,Market Road,997,49,Rain,0,1,1,68.87,MEDIUM
+Dharmapuri,Dharmapuri NH Road,Bypass Road,894,44,Clear,1,0,1,71.37,HIGH
+Dharmapuri,Dharmapuri Town Road,Ring Road,491,55,Clear,0,0,0,28.52,LOW
+Dharmapuri,Dharmapuri NH Road,Town Road,817,68,Rain,0,0,0,37.62,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Market Road,177,50,Rain,0,1,0,21.54,LOW
+Dharmapuri,Dharmapuri Market Road,Market Road,287,62,Rain,0,1,0,21.34,LOW
+Dharmapuri,Dharmapuri Bus Stand Road,NH Road,311,29,Clear,0,0,0,31.57,LOW
+Dharmapuri,Dharmapuri Highway Road,Ring Road,180,58,Rain,1,0,0,23.24,LOW
+Dharmapuri,Dharmapuri Bypass Road,Town Road,604,51,Cloudy,0,1,0,40.32,MEDIUM
+Dharmapuri,Dharmapuri Highway Road,Main Road,868,51,Rain,0,0,1,57.2,MEDIUM
+Dharmapuri,Dharmapuri Highway Road,Ring Road,503,70,Clear,0,1,0,27.64,LOW
+Dharmapuri,Dharmapuri Ring Road,Ring Road,112,58,Rain,0,1,0,15.18,LOW
+Dharmapuri,Dharmapuri Highway Road,Ring Road,291,50,Rain,0,0,0,21.67,LOW
+Dharmapuri,Dharmapuri Ring Road,Ring Road,288,46,Normal,1,0,1,43.25,MEDIUM
+Dharmapuri,Dharmapuri NH Road,Bypass Road,386,43,Cloudy,0,0,0,28.94,LOW
+Dharmapuri,Dharmapuri Bus Stand Road,Highway Road,668,42,Clear,1,0,0,52.06,MEDIUM
+Dharmapuri,Dharmapuri Highway Road,Bypass Road,280,41,Rain,1,0,0,35.03,MEDIUM
+Dharmapuri,Dharmapuri Bus Stand Road,Main Road,675,69,Cloudy,0,1,0,35.8,MEDIUM
+Dharmapuri,Dharmapuri Ring Road,Bypass Road,933,31,Rain,1,0,1,78.7,HIGH
+Dharmapuri,Dharmapuri Town Road,NH Road,468,50,Rain,0,0,0,29.63,LOW
+Dharmapuri,Dharmapuri Ring Road,Ring Road,988,58,Normal,0,0,0,49.6,MEDIUM
+Dharmapuri,Dharmapuri Bypass Road,Highway Road,893,62,Cloudy,1,0,1,63.61,MEDIUM

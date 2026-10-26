@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Thanjavur,Thanjavur Market Road,Main Road,683,69,Clear,0,0,0,31.16,LOW
+Thanjavur,Thanjavur Ring Road,Ring Road,502,46,Clear,1,1,0,47.88,MEDIUM
+Thanjavur,Thanjavur Highway Road,Market Road,323,25,Normal,0,0,0,33.82,LOW
+Thanjavur,Thanjavur Bypass Road,NH Road,420,31,Normal,0,1,0,40.61,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Market Road,650,31,Cloudy,0,0,0,45.96,MEDIUM
+Thanjavur,Thanjavur Main Road,Main Road,415,36,Normal,0,0,0,33.25,LOW
+Thanjavur,Thanjavur Main Road,Town Road,959,58,Rain,0,0,0,48.3,MEDIUM
+Thanjavur,Thanjavur Town Road,Town Road,348,15,Normal,0,0,0,39.23,MEDIUM
+Thanjavur,Thanjavur Ring Road,Highway Road,325,65,Rain,0,0,0,16.77,LOW
+Thanjavur,Thanjavur NH Road,Bus Stand Road,872,51,Normal,1,0,0,57.38,MEDIUM
+Thanjavur,Thanjavur Market Road,Town Road,419,25,Cloudy,1,0,0,48.14,MEDIUM
+Thanjavur,Thanjavur Ring Road,Bus Stand Road,916,15,Clear,0,1,0,69.79,MEDIUM
+Thanjavur,Thanjavur Main Road,Highway Road,361,44,Clear,1,0,0,37.39,MEDIUM
+Thanjavur,Thanjavur Main Road,Bus Stand Road,193,66,Cloudy,0,0,0,10.4,LOW
+Thanjavur,Thanjavur NH Road,Ring Road,541,59,Clear,0,0,0,29.06,LOW
+Thanjavur,Thanjavur NH Road,Town Road,634,51,Clear,1,0,0,46.67,MEDIUM
+Thanjavur,Thanjavur Ring Road,NH Road,891,22,Rain,1,0,0,70.67,HIGH
+Thanjavur,Thanjavur NH Road,Town Road,682,62,Clear,1,1,0,49.12,MEDIUM
+Thanjavur,Thanjavur Market Road,NH Road,825,18,Normal,0,0,1,69.41,MEDIUM
+Thanjavur,Thanjavur Ring Road,Bypass Road,723,24,Clear,1,0,0,62.25,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Main Road,773,21,Clear,0,0,1,65.78,MEDIUM
+Thanjavur,Thanjavur Market Road,Bus Stand Road,281,50,Cloudy,0,0,0,21.22,LOW
+Thanjavur,Thanjavur Highway Road,Bypass Road,160,31,Cloudy,0,0,0,23.91,LOW
+Thanjavur,Thanjavur Ring Road,Market Road,848,23,Clear,0,0,1,68.3,MEDIUM
+Thanjavur,Thanjavur Market Road,Main Road,789,23,Rain,0,0,0,55.65,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Highway Road,831,59,Normal,0,0,0,42.11,MEDIUM
+Thanjavur,Thanjavur Ring Road,Market Road,467,69,Clear,0,0,0,21.44,LOW
+Thanjavur,Thanjavur Ring Road,Main Road,895,63,Normal,0,0,1,53.27,MEDIUM
+Thanjavur,Thanjavur Ring Road,Market Road,359,40,Normal,0,0,0,29.01,LOW
+Thanjavur,Thanjavur Market Road,Bus Stand Road,567,44,Clear,0,1,0,41.66,MEDIUM
+Thanjavur,Thanjavur NH Road,Highway Road,800,16,Rain,0,0,1,69.14,MEDIUM
+Thanjavur,Thanjavur NH Road,Main Road,487,70,Rain,0,0,0,21.91,LOW
+Thanjavur,Thanjavur Town Road,Bus Stand Road,353,68,Cloudy,0,0,1,26.74,LOW
+Thanjavur,Thanjavur Highway Road,Main Road,681,20,Clear,0,0,1,62.07,MEDIUM
+Thanjavur,Thanjavur Highway Road,Main Road,475,40,Normal,0,1,1,49.23,MEDIUM
+Thanjavur,Thanjavur Town Road,Ring Road,339,59,Rain,1,0,0,29.97,LOW
+Thanjavur,Thanjavur Main Road,Highway Road,161,34,Normal,0,0,0,22.67,LOW
+Thanjavur,Thanjavur Town Road,Ring Road,500,27,Clear,0,0,0,40.93,MEDIUM
+Thanjavur,Thanjavur Market Road,Bus Stand Road,409,56,Cloudy,1,0,1,44.41,MEDIUM
+Thanjavur,Thanjavur Bypass Road,Bus Stand Road,494,23,Rain,1,0,0,52.37,MEDIUM
+Thanjavur,Thanjavur Ring Road,Bypass Road,321,65,Cloudy,1,0,0,26.59,LOW
+Thanjavur,Thanjavur Town Road,Bus Stand Road,203,58,Cloudy,0,1,0,19.28,LOW
+Thanjavur,Thanjavur Market Road,Market Road,841,34,Rain,0,1,0,58.27,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Ring Road,924,30,Clear,0,0,1,68.72,MEDIUM
+Thanjavur,Thanjavur Bypass Road,Market Road,473,49,Clear,0,0,0,30.29,LOW
+Thanjavur,Thanjavur Ring Road,Highway Road,928,59,Normal,0,0,0,46.47,MEDIUM
+Thanjavur,Thanjavur Town Road,Bypass Road,128,38,Normal,0,0,1,29.47,LOW
+Thanjavur,Thanjavur Ring Road,Market Road,438,65,Rain,1,1,0,36.85,MEDIUM
+Thanjavur,Thanjavur Town Road,Town Road,345,42,Normal,0,1,0,32.52,LOW
+Thanjavur,Thanjavur Bus Stand Road,NH Road,926,19,Cloudy,1,0,0,73.53,HIGH
+Thanjavur,Thanjavur Ring Road,Bypass Road,451,33,Clear,0,0,0,36.15,MEDIUM
+Thanjavur,Thanjavur Ring Road,Ring Road,934,36,Normal,0,1,0,61.6,MEDIUM
+Thanjavur,Thanjavur Market Road,Main Road,506,34,Normal,1,0,0,48.2,MEDIUM
+Thanjavur,Thanjavur NH Road,Bypass Road,990,32,Cloudy,0,0,0,60.84,MEDIUM
+Thanjavur,Thanjavur Market Road,Market Road,494,22,Cloudy,0,0,0,42.8,MEDIUM
+Thanjavur,Thanjavur Bypass Road,Market Road,525,67,Clear,0,0,0,24.91,LOW
+Thanjavur,Thanjavur Market Road,NH Road,563,51,Clear,1,0,1,53.48,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Bus Stand Road,130,49,Clear,0,1,0,19.85,LOW
+Thanjavur,Thanjavur Ring Road,Bus Stand Road,181,38,Cloudy,1,0,0,31.86,LOW
+Thanjavur,Thanjavur Highway Road,Bypass Road,471,67,Rain,0,0,1,32.48,LOW
+Thanjavur,Thanjavur Highway Road,Market Road,964,58,Cloudy,1,0,0,58.52,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Market Road,990,56,Normal,0,1,0,55.55,MEDIUM
+Thanjavur,Thanjavur Ring Road,Town Road,573,43,Cloudy,0,1,1,52.36,MEDIUM
+Thanjavur,Thanjavur Main Road,Main Road,299,44,Rain,0,0,0,24.6,LOW
+Thanjavur,Thanjavur Ring Road,Ring Road,934,24,Clear,1,0,0,71.74,HIGH
+Thanjavur,Thanjavur Bus Stand Road,NH Road,137,16,Rain,0,1,0,34.31,LOW
+Thanjavur,Thanjavur Town Road,Main Road,290,35,Rain,1,0,0,38.05,MEDIUM
+Thanjavur,Thanjavur NH Road,Highway Road,332,51,Cloudy,0,0,1,33.08,LOW
+Thanjavur,Thanjavur Ring Road,Ring Road,135,27,Cloudy,0,0,1,34.5,LOW
+Thanjavur,Thanjavur Bus Stand Road,Highway Road,630,64,Cloudy,1,0,0,40.92,MEDIUM
+Thanjavur,Thanjavur Market Road,Bus Stand Road,452,23,Cloudy,0,0,0,40.48,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Main Road,254,55,Rain,1,0,0,27.86,LOW
+Thanjavur,Thanjavur Market Road,Bus Stand Road,472,69,Cloudy,1,0,0,31.67,LOW
+Thanjavur,Thanjavur Highway Road,Town Road,533,42,Clear,0,0,0,35.98,MEDIUM
+Thanjavur,Thanjavur Town Road,Highway Road,150,50,Clear,1,0,0,25.32,LOW
+Thanjavur,Thanjavur Main Road,NH Road,882,47,Clear,0,0,1,59.55,MEDIUM
+Thanjavur,Thanjavur Ring Road,Market Road,603,22,Cloudy,0,1,0,52.71,MEDIUM
+Thanjavur,Thanjavur Bypass Road,Town Road,823,20,Normal,1,1,0,73.46,HIGH
+Thanjavur,Thanjavur Bus Stand Road,Market Road,305,35,Cloudy,1,0,0,38.73,MEDIUM
+Thanjavur,Thanjavur NH Road,Bypass Road,807,24,Rain,0,0,0,56.03,MEDIUM
+Thanjavur,Thanjavur Ring Road,Town Road,257,37,Clear,0,0,0,25.71,LOW
+Thanjavur,Thanjavur Main Road,Town Road,486,26,Cloudy,0,0,0,40.73,MEDIUM
+Thanjavur,Thanjavur NH Road,Main Road,953,55,Rain,1,0,0,59.31,MEDIUM
+Thanjavur,Thanjavur Market Road,Main Road,506,58,Normal,1,0,0,37.91,MEDIUM
+Thanjavur,Thanjavur Ring Road,Bus Stand Road,785,35,Clear,0,0,0,50.33,MEDIUM
+Thanjavur,Thanjavur Town Road,Main Road,775,19,Rain,0,1,0,61.73,MEDIUM
+Thanjavur,Thanjavur Town Road,NH Road,779,40,Rain,0,1,0,52.91,MEDIUM
+Thanjavur,Thanjavur Ring Road,Bypass Road,848,32,Clear,1,0,0,64.45,MEDIUM
+Thanjavur,Thanjavur Town Road,Bypass Road,918,26,Clear,0,0,0,60.17,MEDIUM
+Thanjavur,Thanjavur Bypass Road,Main Road,179,51,Clear,0,0,1,26.2,LOW
+Thanjavur,Thanjavur Highway Road,Highway Road,690,61,Rain,1,0,0,44.91,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Main Road,924,26,Rain,0,1,0,65.44,MEDIUM
+Thanjavur,Thanjavur Highway Road,NH Road,272,42,Cloudy,0,0,0,24.24,LOW
+Thanjavur,Thanjavur NH Road,Market Road,846,57,Cloudy,0,0,0,43.64,MEDIUM
+Thanjavur,Thanjavur Highway Road,Town Road,869,60,Clear,1,1,1,68.39,MEDIUM
+Thanjavur,Thanjavur Bus Stand Road,Town Road,679,48,Normal,1,0,0,49.98,MEDIUM
+Thanjavur,Thanjavur Highway Road,Town Road,595,29,Clear,0,0,0,44.35,MEDIUM
+Thanjavur,Thanjavur Market Road,Market Road,571,36,Rain,1,1,0,55.27,MEDIUM
+Thanjavur,Thanjavur Bypass Road,Market Road,307,22,Clear,0,1,0,39.39,MEDIUM
+Thanjavur,Thanjavur NH Road,Bus Stand Road,624,58,Clear,0,0,0,33.22,LOW

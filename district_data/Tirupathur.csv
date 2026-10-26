@@ -1,0 +1,101 @@
+district,location,road,vehicle_count,avg_speed,weather,accident,road_work,event,congestion_score,congestion_level
+Tirupathur,Tirupathur Market Road,Ring Road,765,68,Normal,1,0,0,45.28,MEDIUM
+Tirupathur,Tirupathur Market Road,Market Road,870,42,Normal,0,0,0,51.15,MEDIUM
+Tirupathur,Tirupathur Town Road,Highway Road,373,42,Normal,0,0,0,28.79,LOW
+Tirupathur,Tirupathur NH Road,Bus Stand Road,781,28,Cloudy,0,1,1,68.15,MEDIUM
+Tirupathur,Tirupathur Bypass Road,NH Road,852,26,Clear,1,1,1,82.2,HIGH
+Tirupathur,Tirupathur Market Road,Ring Road,889,47,Clear,1,1,0,64.86,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Bus Stand Road,496,45,Normal,0,1,0,38.03,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Bus Stand Road,509,16,Cloudy,0,0,0,46.05,MEDIUM
+Tirupathur,Tirupathur Town Road,NH Road,948,22,Normal,1,0,0,73.23,HIGH
+Tirupathur,Tirupathur Town Road,Market Road,799,61,Cloudy,1,0,1,59.81,MEDIUM
+Tirupathur,Tirupathur Main Road,Highway Road,959,18,Cloudy,0,1,0,70.44,HIGH
+Tirupathur,Tirupathur Highway Road,NH Road,929,52,Cloudy,0,0,0,49.52,MEDIUM
+Tirupathur,Tirupathur Highway Road,NH Road,528,59,Normal,0,0,0,28.47,LOW
+Tirupathur,Tirupathur Bus Stand Road,Town Road,855,15,Rain,1,0,0,72.05,HIGH
+Tirupathur,Tirupathur Market Road,Ring Road,261,16,Rain,0,0,0,34.89,LOW
+Tirupathur,Tirupathur Ring Road,Town Road,803,55,Normal,0,0,0,42.56,MEDIUM
+Tirupathur,Tirupathur Highway Road,Market Road,127,39,Clear,0,0,0,19.0,LOW
+Tirupathur,Tirupathur Bypass Road,Market Road,476,31,Clear,0,0,0,38.13,MEDIUM
+Tirupathur,Tirupathur Town Road,Highway Road,814,24,Clear,0,1,0,61.34,MEDIUM
+Tirupathur,Tirupathur NH Road,Ring Road,495,55,Clear,1,0,0,38.7,MEDIUM
+Tirupathur,Tirupathur Ring Road,Main Road,205,39,Cloudy,0,0,0,22.51,LOW
+Tirupathur,Tirupathur Main Road,Bus Stand Road,559,64,Normal,0,0,1,37.73,MEDIUM
+Tirupathur,Tirupathur Market Road,Main Road,745,34,Clear,0,1,0,53.95,MEDIUM
+Tirupathur,Tirupathur Town Road,Bus Stand Road,630,55,Cloudy,0,1,0,39.78,MEDIUM
+Tirupathur,Tirupathur Ring Road,Main Road,715,41,Clear,0,0,0,44.6,MEDIUM
+Tirupathur,Tirupathur Bypass Road,NH Road,568,24,Clear,0,0,1,55.27,MEDIUM
+Tirupathur,Tirupathur Town Road,NH Road,529,49,Cloudy,0,1,0,37.8,MEDIUM
+Tirupathur,Tirupathur Main Road,Main Road,919,45,Cloudy,1,1,0,67.07,MEDIUM
+Tirupathur,Tirupathur Main Road,Bus Stand Road,960,16,Normal,0,0,1,76.34,HIGH
+Tirupathur,Tirupathur Market Road,Ring Road,299,58,Normal,0,0,0,18.6,LOW
+Tirupathur,Tirupathur Highway Road,Main Road,745,56,Clear,0,0,0,39.52,MEDIUM
+Tirupathur,Tirupathur Bus Stand Road,Ring Road,282,15,Cloudy,0,0,0,36.26,MEDIUM
+Tirupathur,Tirupathur Market Road,Highway Road,517,53,Rain,0,0,0,30.55,LOW
+Tirupathur,Tirupathur Town Road,Main Road,354,15,Cloudy,0,0,1,49.5,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Market Road,724,39,Normal,1,0,0,55.87,MEDIUM
+Tirupathur,Tirupathur Ring Road,Market Road,425,23,Normal,0,0,0,39.27,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Main Road,361,47,Cloudy,0,1,0,31.1,LOW
+Tirupathur,Tirupathur Ring Road,Highway Road,994,40,Normal,0,0,0,57.59,MEDIUM
+Tirupathur,Tirupathur Town Road,Bus Stand Road,354,48,Cloudy,0,0,1,35.36,MEDIUM
+Tirupathur,Tirupathur Town Road,Highway Road,230,29,Normal,1,0,1,47.92,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Highway Road,390,52,Cloudy,0,0,0,25.26,LOW
+Tirupathur,Tirupathur Town Road,Bus Stand Road,238,62,Cloudy,0,0,0,14.14,LOW
+Tirupathur,Tirupathur Town Road,Town Road,520,51,Clear,0,0,1,41.54,MEDIUM
+Tirupathur,Tirupathur Ring Road,Town Road,564,51,Cloudy,1,0,0,43.52,MEDIUM
+Tirupathur,Tirupathur Highway Road,Town Road,702,62,Normal,0,0,0,35.02,MEDIUM
+Tirupathur,Tirupathur Town Road,Main Road,827,46,Rain,1,0,0,57.5,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Market Road,224,30,Clear,0,0,0,27.22,LOW
+Tirupathur,Tirupathur Bus Stand Road,Town Road,435,27,Clear,0,0,0,38.0,MEDIUM
+Tirupathur,Tirupathur Main Road,Highway Road,130,15,Normal,0,0,0,29.42,LOW
+Tirupathur,Tirupathur Main Road,Bypass Road,250,68,Clear,0,0,0,12.11,LOW
+Tirupathur,Tirupathur Highway Road,Ring Road,322,34,Cloudy,0,0,0,29.92,LOW
+Tirupathur,Tirupathur Town Road,Ring Road,750,68,Normal,1,0,0,44.61,MEDIUM
+Tirupathur,Tirupathur Ring Road,Bus Stand Road,404,25,Clear,0,0,0,37.47,MEDIUM
+Tirupathur,Tirupathur Main Road,Highway Road,631,26,Normal,0,0,0,47.25,MEDIUM
+Tirupathur,Tirupathur Bus Stand Road,Main Road,538,53,Rain,0,0,1,41.5,MEDIUM
+Tirupathur,Tirupathur Highway Road,Ring Road,511,49,Cloudy,0,0,0,32.0,LOW
+Tirupathur,Tirupathur NH Road,Town Road,743,15,Rain,1,1,1,82.01,HIGH
+Tirupathur,Tirupathur Market Road,Bypass Road,591,24,Normal,0,0,0,46.31,MEDIUM
+Tirupathur,Tirupathur NH Road,Market Road,363,22,Normal,0,0,0,36.91,MEDIUM
+Tirupathur,Tirupathur Main Road,Main Road,776,54,Normal,0,1,0,46.78,MEDIUM
+Tirupathur,Tirupathur Highway Road,Ring Road,601,46,Clear,0,0,0,37.33,MEDIUM
+Tirupathur,Tirupathur Bus Stand Road,Ring Road,331,41,Clear,0,0,0,27.32,LOW
+Tirupathur,Tirupathur Highway Road,Main Road,704,27,Cloudy,1,0,0,60.11,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Highway Road,405,61,Rain,0,0,0,22.08,LOW
+Tirupathur,Tirupathur Town Road,Main Road,663,53,Normal,0,0,1,47.12,MEDIUM
+Tirupathur,Tirupathur Ring Road,NH Road,867,49,Clear,1,0,0,58.02,MEDIUM
+Tirupathur,Tirupathur NH Road,NH Road,808,68,Normal,1,1,0,52.22,MEDIUM
+Tirupathur,Tirupathur Market Road,Bus Stand Road,744,17,Rain,0,0,1,66.19,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Main Road,180,32,Clear,0,1,0,29.39,LOW
+Tirupathur,Tirupathur Ring Road,NH Road,671,65,Clear,0,0,0,32.34,LOW
+Tirupathur,Tirupathur Town Road,Ring Road,428,68,Cloudy,1,0,0,30.12,LOW
+Tirupathur,Tirupathur Highway Road,Highway Road,716,57,Clear,0,1,0,42.79,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Ring Road,151,33,Rain,0,0,0,22.65,LOW
+Tirupathur,Tirupathur Bus Stand Road,Bus Stand Road,220,49,Clear,0,0,0,18.9,LOW
+Tirupathur,Tirupathur Town Road,Bus Stand Road,923,49,Clear,0,0,1,60.54,MEDIUM
+Tirupathur,Tirupathur Main Road,Highway Road,344,47,Clear,0,1,0,30.34,LOW
+Tirupathur,Tirupathur NH Road,Town Road,255,40,Rain,0,0,0,24.33,LOW
+Tirupathur,Tirupathur Ring Road,Town Road,808,42,Cloudy,0,0,0,48.36,MEDIUM
+Tirupathur,Tirupathur Bypass Road,Main Road,304,18,Clear,0,1,0,40.97,MEDIUM
+Tirupathur,Tirupathur Highway Road,Main Road,880,64,Cloudy,1,1,0,57.17,MEDIUM
+Tirupathur,Tirupathur Market Road,NH Road,142,58,Clear,0,0,0,11.53,LOW
+Tirupathur,Tirupathur NH Road,NH Road,304,58,Rain,0,1,1,33.82,LOW
+Tirupathur,Tirupathur Bus Stand Road,Town Road,650,32,Cloudy,0,0,0,45.54,MEDIUM
+Tirupathur,Tirupathur Main Road,Bypass Road,290,57,Normal,0,0,1,28.62,LOW
+Tirupathur,Tirupathur Ring Road,Market Road,917,58,Normal,0,0,0,46.41,MEDIUM
+Tirupathur,Tirupathur Ring Road,Bypass Road,794,15,Rain,1,1,0,74.3,HIGH
+Tirupathur,Tirupathur NH Road,Highway Road,591,61,Clear,0,0,0,30.45,LOW
+Tirupathur,Tirupathur Bypass Road,Town Road,396,39,Normal,0,0,0,31.11,LOW
+Tirupathur,Tirupathur Bus Stand Road,Market Road,923,39,Rain,1,0,1,74.82,HIGH
+Tirupathur,Tirupathur Market Road,Main Road,819,63,Cloudy,1,0,0,49.85,MEDIUM
+Tirupathur,Tirupathur Bus Stand Road,Ring Road,867,39,Normal,0,0,0,52.3,MEDIUM
+Tirupathur,Tirupathur Town Road,Town Road,932,50,Clear,1,0,0,60.51,MEDIUM
+Tirupathur,Tirupathur Main Road,Town Road,438,67,Normal,0,1,0,26.0,LOW
+Tirupathur,Tirupathur Bus Stand Road,NH Road,344,42,Normal,0,0,0,27.48,LOW
+Tirupathur,Tirupathur Market Road,Main Road,372,68,Clear,0,0,0,17.6,LOW
+Tirupathur,Tirupathur Ring Road,Bus Stand Road,268,18,Clear,0,0,0,34.35,LOW
+Tirupathur,Tirupathur Highway Road,Ring Road,722,31,Normal,0,0,0,49.2,MEDIUM
+Tirupathur,Tirupathur Bus Stand Road,Town Road,812,53,Clear,0,0,0,43.83,MEDIUM
+Tirupathur,Tirupathur Highway Road,Ring Road,150,54,Normal,1,0,0,23.61,LOW
+Tirupathur,Tirupathur Bus Stand Road,Main Road,402,57,Rain,0,0,0,23.66,LOW

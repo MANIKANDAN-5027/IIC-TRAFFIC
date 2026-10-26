@@ -1,0 +1,5 @@
+route,road,traffic_score,vehicle_count,average_speed,estimated_delay,traffic_status
+Route A,GST Road,23.76,244,41.0,8.32,LOW
+Route B,Mount Road,63.35,796,32.0,22.17,MEDIUM
+Route C,Velachery Main Road,53.36,644,33.0,18.68,MEDIUM
+Route D,OMR Road,28.22,427,58.0,9.88,LOW
