@@ -2,7 +2,12 @@
   "version": 2,
   "functions": {
     "api/index.py": {
-      "includeFiles": "{*.csv,data/**,district_data/**,templates/**}"
+      "includeFiles": [
+        "*.csv",
+        "data/**",
+        "district_data/**",
+        "templates/**"
+      ]
     }
   },
   "rewrites": [
